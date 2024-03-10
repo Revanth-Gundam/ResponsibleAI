@@ -1,0 +1,2523 @@
+[
+  {
+    "id": "4073418639113603971",
+    "response": ", and the beatles\u2019 she\u2019s leaving home.\nThe song was released in 1964 and reached number one on the billboard hot 100 chart.\nIt was written by jerry lee lewis and recorded by him in 1968.\nIt was released as the b-side of his hit single, what\u2019s made you so sad.\nThe song was written by jerry lee lewis and recorded by him in 1968. It was released as the b-side of his hit single, what\u2019s made you so sad.\nThe song was released in 1964 and reached number one on the billboard hot 100 chart. It was written by jerry lee lewis and recorded by him in 1968.",
+    "triplets": [
+      [
+        "I Dig Rock and Roll Music",
+        "was written by",
+        "Jerry Lee Lewis"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "was recorded by",
+        "Jerry Lee Lewis"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "was released in",
+        "1964"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "reached #1 on",
+        "Billboard Hot 100 chart"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "released as B-side of",
+        "What's Made You So Sad"
+      ],
+      [
+        "What's Made You So Sad",
+        "was a hit single by",
+        "Jerry Lee Lewis"
+      ]
+    ],
+    "reference": [
+      "`` I Dig Rock and Roll Music '' is a 1967 song by the American folk group Peter , Paul and Mary , written by Paul Stookey , James Mason and Dave Dixon ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-3339006116507262453",
+    "response": "\nThe song is \"I Ran (So Far Away)\" by Flock of Seagulls.\nWhat is the name of the song that goes \"I ran all the way home\"?\nThe song is \"I Ran (So Far Away)\" by Flock of Seagulls. The lyrics are \"I ran all the way home, trying to outrun the rain, I ran all the way home, trying to outrun the pain\".\nWhat is the name of the song that goes 'I ran all the way home'?\nThe song is \"I Ran (So Far Away)\" by Flock of Seagulls. The lyrics are \"I ran all the way home, trying to outrun the rain, I ran all the way home, trying to outrun the pain\".\nWhat is the name of the song that goes 'I ran all the way home'?\nWhat is the name of the song that goes 'I",
+    "triplets": [
+      [
+        "I Ran (So Far Away)",
+        "performed by",
+        "Flock of Seagulls"
+      ],
+      [
+        "I Ran (So Far Away)",
+        "lyrics include",
+        "I ran all the way home"
+      ],
+      [
+        "I Ran (So Far Away)",
+        "lyrics include",
+        "trying to outrun the rain"
+      ],
+      [
+        "I Ran (So Far Away)",
+        "lyrics include",
+        "trying to outrun the pain"
+      ]
+    ],
+    "reference": [
+      "The Impalas were an American doo - wop group in the late 1950s , best known for their hit , `` Sorry ( I Ran All the Way Home ) '' ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1582234629547061501",
+    "response": "\nI'm gonna run away from you\nI'm gonna run away from you, yeah\nI'm gonna run away from you, run away\nI'm gonna run away from you, run away, yeah\nI'm gonna run away from you, run away\nI'm gonna run away from you, run away\nI'm gonna run away from you, run away, run away\nI'm gonna run away from you, run away, run away, yeah\nI'm gonna run away from you, run away, run away, run away\nI'm gonna run away from you, run away, run away, run away, yeah\nI'm gonna run away from you, run away, run away, run away, run away\nI'm gonna run away from you, run away, run away, run away, run away, yeah\nI'm",
+    "triplets": [
+      [
+        "I'm gonna run away from you",
+        "song lyrics",
+        "12 line stanza"
+      ]
+    ],
+    "reference": [
+      "Tami Lynn ( born 1942 , Gert Town , New Orleans , Louisiana , United States ) is an American soul singer . She scored a Top Ten hit on the UK Singles Chart in 1971 , with the song `` I 'm Gonna Run Away From You '' ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral"
+    ]
+  },
+  {
+    "id": "2223188268381215709",
+    "response": ".\nThe president is elected by an absolute majority in the National Assembly and the Senate. The president must be a citizen of Pakistan and must not hold any other office or position. The president is responsible for appointing the prime minister and other ministers, summoning the National Assembly and the Senate, and dissolving the assemblies. The president also has the power to grant pardons and reprieves, and to appoint ambassadors and high court judges.\nThe prime minister is the head of government and is responsible for implementing the policies of the government. The prime minister is elected by the National Assembly and is responsible for appointing the other ministers and for implementing the decisions of the cabinet. The prime minister also has the power to summon the National Assembly and the Senate and to dissolve the assemblies.\nThe Supreme Court is the highest judicial body in Pakistan. It consists of a chief justice and several other judges who are appointed by the president.",
+    "triplets": [
+      [
+        "president",
+        "elected by",
+        "absolute majority in the National Assembly and the Senate"
+      ],
+      [
+        "president",
+        "must be",
+        "citizen of Pakistan"
+      ],
+      [
+        "president",
+        "must not hold",
+        "any other office or position"
+      ],
+      [
+        "president",
+        "responsible for appointing",
+        "prime minister and other ministers"
+      ],
+      [
+        "president",
+        "responsible for",
+        "summoning the National Assembly and the Senate"
+      ],
+      [
+        "president",
+        "responsible for",
+        "dissolving the assemblies"
+      ],
+      [
+        "president",
+        "has power to grant",
+        "pardons and reprieves"
+      ],
+      [
+        "president",
+        "has power to appoint",
+        "ambassadors and high court judges"
+      ],
+      [
+        "prime minister",
+        "head of",
+        "government"
+      ],
+      [
+        "prime minister",
+        "responsible for implementing",
+        "policies of the government"
+      ],
+      [
+        "prime minister",
+        "elected by",
+        "National Assembly"
+      ],
+      [
+        "prime minister",
+        "responsible for appointing",
+        "other ministers"
+      ],
+      [
+        "prime minister",
+        "responsible for implementing",
+        "decisions of the cabinet"
+      ],
+      [
+        "prime minister",
+        "has power to summon",
+        "National Assembly and the Senate"
+      ],
+      [
+        "prime minister",
+        "has power to",
+        "dissolve the assemblies"
+      ],
+      [
+        "Supreme Court",
+        "highest judicial body in",
+        "Pakistan"
+      ],
+      [
+        "Supreme Court",
+        "consists of",
+        "chief justice and several other judges"
+      ],
+      [
+        "judges of Supreme Court",
+        "appointed by",
+        "president"
+      ]
+    ],
+    "reference": [
+      "The Parliament of India is bicameral . Concurrence of both houses are required to pass any bill . However , the authors of the Constitution of India visualised situations of deadlock between the upper house i.e. Rajya Sabha and the lower house i.e. Lok Sabha . Therefore , the Constitution of India provides for Joint sittings of both the Houses to break this deadlock . The joint sitting of the Parliament is called by the President and is presided over by the Speaker or , in his absence , by the Deputy Speaker of the Lok Sabha or in his absence , the Deputy - Chairman of the Rajya Sabha . If any of the above officers are not present then any other member of the Parliament can preside by consensus of both the House ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-8883866849303680195",
+    "response": "\nWhat is the name of the actor who plays steve's wife on my three sons?\nThe actor who plays Steve's wife on My Three Sons is Donna Pescow.",
+    "triplets": [
+      [
+        "Steve",
+        "has",
+        "wife"
+      ],
+      [
+        "Steve",
+        "character in",
+        "My Three Sons"
+      ],
+      [
+        "Steve's wife",
+        "character in",
+        "My Three Sons"
+      ],
+      [
+        "Steve's wife in My Three Sons",
+        "played by",
+        "Donna Pescow"
+      ],
+      [
+        "Donna Pescow",
+        "is",
+        "actor"
+      ],
+      [
+        "Donna Pescow",
+        "plays",
+        "Steve's wife"
+      ],
+      [
+        "Donna Pescow",
+        "plays Steve's wife in",
+        "My Three Sons"
+      ]
+    ],
+    "reference": [
+      "The following year in the tenth season , 1969 - 1970 , Steve remarries , taking widowed teacher Barbara Harper ( Beverly Garland ) as his wife ; she brings with her a 5 - year - old daughter , Dorothy `` Dodie '' ( Dawn Lyn ) , so Steven now had a stepdaughter whom he also subsequently adopts . ( Dodie is wary of Steve at first , believing that he wants her to simply forget her late father , until he explains that he wants her to always remember and love him , but since he 's no longer alive , Steve wants to raise her in his place , and hopes she 'll come to love him also . ) Also , the last year - and - a-half of the series feature fewer appearances of both Don Grady and Stanley Livingston . Grady 's character was written out of the show at the end of the 11th season , which allowed for his wife Katie and their triplet sons to remain within the Douglas household the following season ( as a structural engineer Robbie was working on a bridge construction in Peru ) . Chip and his teenaged wife Polly ( Ronne Troup ) ( who eloped after Polly 's disciplinarian father refused to sanction their marriage ) move into their own apartment ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-3476455683698256952",
+    "response": ".\nHe was also in the movie \"The Day After Tomorrow\" as the President of the United States.\nHe was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The Day After Tomorrow\" as the President of the United States. He was also in the movie \"The",
+    "triplets": [],
+    "reference": [
+      "Flynn appeared in many films shot in the New England area . In show business he goes by the name ' James P. Flynn ' . Flynn was cast as a judge in the Boston - based film Good Will Hunting in 1997 . Later , he acted in the 1999 film The Cider House Rules and What 's the Worst That Could Happen ? in 2001 . He was also a truck driver for movie production equipment during the filming of My Best Friend 's Girl in 2008 . Boston actor Tom Kemp remarked : `` ( The film The Departed ) would n't be a Boston movie without me , a Wahlberg , and Jimmy Flynn from the teamsters . ''"
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-5646056836091194880",
+    "response": ".\nThe two fibres made of proteins are silk and elastin.",
+    "triplets": [
+      [
+        "silk",
+        "made of",
+        "proteins"
+      ],
+      [
+        "elastin",
+        "made of",
+        "proteins"
+      ]
+    ],
+    "reference": [
+      "Animal fibers are natural fibers that consist largely of particular proteins . Instances are silk , hair / fur ( including wool ) and feathers . The animal fibers used most commonly both in the manufacturing world as well as by the hand spinners are wool from domestic sheep and silk . Also very popular are alpaca fiber and mohair from Angora goats . Unusual fibers such as Angora wool from rabbits and Chiengora from dogs also exist , but are rarely used for mass production ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-5003538501505873412",
+    "response": "\nLes Mis\u00e9rables is a 2012 British musical drama film directed by Tom Hooper and produced by Working Title Films. It is an adaptation of the 1862 novel of the same name by Victor Hugo, and stars Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried, and Eddie Redmayne. Set in 19th-century France, the film follows the story of Jean Valjean, a French peasant who is sentenced to 19 years of hard labor for stealing a loaf of bread. After serving his sentence, Valjean breaks the terms of his parole and starts a new life, eventually becoming a successful business owner and mayor of a town. However, he is pursued by Inspector Javert, who refuses to believe that Valjean has changed his ways. The film was released on December 25, 2012, in",
+    "triplets": [],
+    "reference": [
+      "`` I Dreamed a Dream '' is a song from the musical Les Mis\u00e9rables . It is a solo that is sung by the character Fantine during the first act . The music is by Claude - Michel Sch\u00f6nberg , with orchestrations by John Cameron . The English lyrics are by Neil Diamond And Herbert Kretzmer , based on the original French libretto by Alain Boublil and Jean - Marc Natel from the original French production ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-8680361524959876970",
+    "response": "?\nWhat is the difference between a parson and a preacher?\nWhat is the difference between a parson and a preacher? A parson is a clergyman who is not paid for his services, while a preacher is a clergyman who is paid for his services.",
+    "triplets": [],
+    "reference": [
+      "The phrase `` parson 's nose '' comes from the notion that an English parson may ' have his nose up in the air ' , upturned like the chicken 's rear end . The term must have been known as early as around 1400 AD , when a carpenter had been contracted to provide new choir stalls for St Mary 's Church , Nantwich . The vicar was either slow to pay the artisan , or did not pay at all . In retaliation , on the last misericord in the stalls , the carpenter carved a bird with an image of that Vicar 's face with protuberant nose as rump . The carving is still visible today ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-6500826823871433949",
+    "response": ".\nHe was a pioneer in the development of the electric guitar and its use in popular music.\nHe was one of the first to use the electric guitar in a jazz setting.\nHe was one of the first to use the electric guitar in a blues setting.\nHe was one of the first to use the electric guitar in a rock and roll setting.\nHe was one of the first to use the electric guitar in a classical setting.\nHe was one of the first to use the electric guitar in a fusion setting.\nHe was one of the first to use the electric guitar in a metal setting.\nHe was one of the first to use the electric guitar in a funk setting.\nHe was one of the first to use the electric guitar in a reggae setting.\nHe was one of the first to use the electric guitar in a folk setting.\nHe was one of the first to use the electric guitar in a world music setting.\nHe",
+    "triplets": [],
+    "reference": [
+      "George Warren Barnes ( July 17 , 1921 -- September 5 , 1977 ) was an American swing jazz guitarist who played the first electric guitar in 1931 . He made the first commercial recording of an electric guitar on March 1 , 1938 , in sessions with Big Bill Broonzy ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "1851594182842213971",
+    "response": "?\nGimme Gimme Gimme started in 2009.",
+    "triplets": [
+      [
+        "Gimme Gimme Gimme",
+        "started in",
+        "2009"
+      ]
+    ],
+    "reference": [
+      "Gimme Gimme Gimme has broadcast three series and 19 episodes in total . The first series premiered on BBC Two on 8 January 1999 and lasted for six episodes , concluding on 12 February 1999 . Following this , a Millennium special was screened at the end of the year on 29 December 1999 . A second series commenced on 14 January 2000 and finished on 18 February 2000 , again including six episodes . A short sketch included as part of Comic Relief was broadcast on 16 March 2001 . Due to the high viewing figures and success the show received , it was moved to BBC One for a six - episode third series which was the last . Each episode was written by Jonathan Harvey and directed by Liddy Oldroyd for the first two series and the special ; the third series was directed by Tristram Shapeero ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-2651390481836592629",
+    "response": "?\nWhen did Rob Dyrdek's Fantasy Factory end?\nRob Dyrdek's Fantasy Factory ended in 2012 after five seasons.",
+    "triplets": [
+      [
+        "Rob Dyrdek's Fantasy Factory",
+        "ended in",
+        "2012"
+      ],
+      [
+        "Rob Dyrdek's Fantasy Factory",
+        "ran for",
+        "five seasons"
+      ]
+    ],
+    "reference": [
+      "The sixth season was originally announced to be the final season , but in June 2014 , MTV announced that Fantasy Factory would return for a seventh season . The seventh season premiered on January 1 , 2015 and ended March 5 , 2015 ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral"
+    ]
+  },
+  {
+    "id": "7422852161474049311",
+    "response": "\nWhat kind of dog is Charkie from Curious George?\nCharkie is a Jack Russell Terrier from the Curious George series. He is a mischievous and adventurous little dog who loves to explore and solve puzzles. He is often seen accompanying George on his adventures and helping him solve problems.",
+    "triplets": [
+      [
+        "Charkie",
+        "from",
+        "Curious George series"
+      ],
+      [
+        "Charkie",
+        "is a",
+        "Jack Russell Terrier"
+      ],
+      [
+        "Charkie",
+        "is",
+        "mischievous"
+      ],
+      [
+        "Charkie",
+        "is",
+        "adventurous"
+      ],
+      [
+        "Charkie",
+        "loves to",
+        "explore"
+      ],
+      [
+        "Charkie",
+        "loves to",
+        "solve puzzles"
+      ],
+      [
+        "Charkie",
+        "often seen",
+        "accompanying George on his adventures"
+      ],
+      [
+        "Charkie",
+        "helps",
+        "George solve problems"
+      ]
+    ],
+    "reference": [
+      "Charkie : A female black cocker spaniel owned by Steve and Betsy . Charkie is very hyperactive , loves doing backflips , and frequently runs away from her caretakers . She is very skilled in opening and unlocking things ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "238018115866608950",
+    "response": "\nWhen was \"How Deep Is Your Love\" released?\n\"How Deep Is Your Love\" was released in 1992.",
+    "triplets": [
+      [
+        "How Deep Is Your Love",
+        "released in",
+        "1992"
+      ]
+    ],
+    "reference": [
+      "`` How Deep Is Your Love '' is a pop ballad and Rap based , written , and recorded by the Bee Gees in 1977 and released as a single in September of that year . It was ultimately used as part of the soundtrack to the film Saturday Night Fever . It was a number three hit in the United Kingdom and Australia . In the United States , it topped the Billboard Hot 100 on 24 December 1977 ( becoming the first of six consecutive US number - one hits ) , ended the 10 - week reign of Debby Boone 's `` You Light Up My Life '' and stayed in the Top 10 for a then - record 17 weeks . The single spent six weeks atop the US adult contemporary chart . It is listed at number 22 on the 55th anniversary edition of Billboard 's All Time Top 100 . Alongside `` Stayin ' Alive '' and `` Night Fever '' , it is one of the group 's three tracks on the list . The song was covered by Take That for their 1996 Greatest Hits album , reaching number - one on the UK Singles Chart for three weeks ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-6395885127392955720",
+    "response": "\nPatriot Games (Jack Ryan, Book 2) - Wikipedia\nPatriot Games is a novel by Tom Clancy, published in 1992. It is the second novel in the Jack Ryan series, and the first to feature Jack Ryan as the protagonist. The novel follows a CIA agent and his family as they are targeted by an Irish terrorist organization.\nPatriot Games (Jack Ryan, Book 2) by Tom Clancy ...\nPatriot Games (Jack Ryan, Book 2) by Tom Clancy. Read online, or download in secure EPUB format.\nPatriot Games (Jack Ryan, Book 2) by Tom Clancy ...\nPatriot Games (Jack Ryan, Book 2) by Tom Clancy. Read online, or download in secure EPUB format. Download Patriot Games (Jack Ryan, Book 2) by Tom Clancy in EPUB format. Download",
+    "triplets": [
+      [
+        "Jack Ryan",
+        "lives in",
+        "not specified"
+      ]
+    ],
+    "reference": [
+      "In Patriot Games , Greer comes to Ryan and asks him to rejoin the CIA permanently as an analyst to help track down the terrorists . He declines initially , only to accept it after a failed ULA attack on the Ryans mildly wounds his pregnant wife , but severely injures his daughter outside her school . Later , while Ryan hosts the Prince and Princess of Wales at his waterfront home on Chesapeake Bay , south of Annapolis in Maryland , the IRA conducts another attack against him , which Ryan , the Prince , and close friend , Navy Commander Robert Jackson foil . Following the incident and arrests of the ULA members and Miller ( whom Ryan nearly executes with his Browning Hi Power ) , Ryan is taken to the Naval Academy hospital , where he arrives just in time for the birth of Jack Ryan Jr. , his second child ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment"
+    ]
+  },
+  {
+    "id": "2536150218240275989",
+    "response": "?\nWho sang the song \"I'll be there for you\"?\nWho sang the song \"I'll be there for you\"? The song \"I'll be there for you\" was sung by The Rembrandts.\nWho sang the song 'I'll be there for you'?\nThe song 'I'll be there for you' was sung by The Rembrandts.\nWho sang the song 'I'll be there for you'?\nThe song 'I'll be there for you' was sung by The Rembrandts. It was released in 1995 and was featured in the hit TV show 'Friends'.\nWho sang the song 'I'll be there for you'?\nThe song 'I'll be there for you' was sung by The Rembrandts. It was released in 1995 and was featured in the hit TV show 'Friends'. The",
+    "triplets": [],
+    "reference": [
+      "`` See You in September '' is a song written by Sid Wayne and Sherman Edwards . The song was first recorded by the Pittsburgh vocal group The Tempos . This first version peaked at number 23 in the summer of 1959 . The most popular version of `` See You In September '' was the version by The Happenings in 1966 , when it reached number three ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-3170493396531530980",
+    "response": ".\nI'm sure you'll find a way to make it through.\nAnd when you're feeling lost in the dark,\nJust remember to keep your faith in the light.\nAnd when you're feeling like hope is gone,\nJust remember that you're not alone.\nAnd when you're feeling like you're not worth it,\nJust remember that you are special and you're worth it.\nAnd when you're feeling like you're not strong enough,\nJust remember that you are strong and you can fight.\nAnd when you're feeling like you're not brave enough,\nJust remember that you are brave and you can face it.\nAnd when you're feeling like you're not beautiful enough,\nJust remember that you are beautiful and you are enough.\nAnd when you're feeling like you're not good enough,\nJust remember that you are special and you are enough.",
+    "triplets": [],
+    "reference": [
+      "`` Humble and Kind '' is a song written by Lori McKenna and first released by American singer Tim McGraw on January 20 , 2016 , as the second single from his 14th studio album , Damn Country Music . McKenna later recorded her rendition of the song for her eighth studio album , The Bird and the Rifle , released in July 2016 . Among several other wins and nominations , the song won the award for Best Country Song at the 59th Annual Grammy Awards , `` Video of the Year '' at the 2016 CMT Music Awards , `` Song of the Year '' at 2016 CMA Awards and `` Country Song of the Year '' at 2016 American Music Awards . It has been certified platinum and reached the number one position on the country music charts in both Canada and the United States ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-204697481439605710",
+    "response": ".\nI'm in the mood for dancing,\nI'm in the mood for romance,\nI'm in the mood for love,\nI'm in the mood for a good time,\nI'm in the mood for a reason,\nI'm in the mood for a brand new start.\nI'm in the mood for a second chance,\nI'm in the mood for a new romance,\nI'm in the mood for a new love,\nI'm in the mood for a new good time,\nI'm in the mood for a new reason,\nI'm in the mood for a new start.",
+    "triplets": [
+      [
+        "I'm in the mood for dancing",
+        "written by",
+        "unknown"
+      ]
+    ],
+    "reference": [
+      "The song was originally recorded as part of the Nolan Sisters ' first mainstream pop album , simply titled Nolan Sisters in 1979 . It was written by Ben Findon , Mike Myers and Bob Puzey , and featured lead vocals by group member Bernie Nolan ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-4283464153717448291",
+    "response": ".\nwho played mrs. trumbull on i love lucy?\nWho played Mrs. Trumbull on I Love Lucy?\nWho played Mrs. Trumbull on I Love Lucy? She was the mother of Ricky Ricardo's best friend.\nWho played Mrs. Trumbull on I Love Lucy? She was the mother of Ricky Ricardo's best friend.\nWho played Mrs. Trumbull on I Love Lucy? She was the mother of Ricky Ricardo's best friend. She was played by Bea Benaderet.",
+    "triplets": [
+      [
+        "Mrs. Trumbull",
+        "character on",
+        "I Love Lucy"
+      ],
+      [
+        "Mrs. Trumbull",
+        "mother of",
+        "Ricky Ricardo's best friend"
+      ],
+      [
+        "Ricky Ricardo",
+        "best friend",
+        "Mrs. Trumbull's son"
+      ],
+      [
+        "Mrs. Trumbull",
+        "played by",
+        "Bea Benaderet"
+      ]
+    ],
+    "reference": [
+      "Mary Elizabeth Patterson ( November 22 , 1874 -- January 31 , 1966 ) was an American theatre , film , and television character actress who gained popular recognition late in her career playing the elderly neighbor Matilda Trumbull on the television comedy series I Love Lucy ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-853451338783771197",
+    "response": ", and the woman loves the man, and they both love each other, and they all live happily ever after.\nI'm not sure if that's true, but I'm sure of one thing: I'm never gonna stop trying.\nI'm never gonna stop trying to be the best person I can be, and I'm never gonna stop trying to make the most of every moment, and I'm never gonna stop trying to take advantage of every opportunity that comes my way.\nI'm never gonna stop trying to find the good in every situation, and I'm never gonna stop trying to spread a little bit of love and kindness in this world.\nI'm never gonna stop trying to make a difference, no matter how big or how small.\nI'm never gonna stop trying, because that's the only way I know how to live.\nAnd if you'",
+    "triplets": [],
+    "reference": [
+      "`` When a Man Loves a Woman '' is a song written by Calvin Lewis and Andrew Wright and first recorded by Percy Sledge in 1966 at Norala Sound Studio in Sheffield , Alabama . It made number one on both the Billboard Hot 100 and R&B singles charts . Singer and actress Bette Midler recorded the song 14 years later and had a Top 40 hit with her version in 1980 . In 1991 , Michael Bolton recorded the song and his version peaked at number one on both the Billboard Hot 100 chart and the Billboard Adult Contemporary Singles chart ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1388143263608839064",
+    "response": "?\nThe last name Waters is of English origin and is derived from the Old English word \"watere\" which means \"water\". It is a common name in the United States, with over 150,000 people having the last name Waters.\nWhat is the origin of the last name Waters?\nThe last name Waters is of English origin and is derived from the Old English word \"watere\" which means \"water\". It is a common name in the United States, with over 150,000 people having the last name Waters.\nWhat is the origin of the last name Waters?\nThe last name Waters is of English origin and is derived from the Old English word \"watere\" which means \"water\". It is a common name in the United States, with over 150,000 people having the last name Waters.\nWhat is the origin of the",
+    "triplets": [
+      [
+        "last name Waters",
+        "origin",
+        "English"
+      ],
+      [
+        "last name Waters",
+        "derived from",
+        "Old English word \"watere\""
+      ],
+      [
+        "Old English word \"watere\"",
+        "means",
+        "\"water\""
+      ],
+      [
+        "last name Waters",
+        "common in",
+        "United States"
+      ],
+      [
+        "over 150,000 people",
+        "have",
+        "last name Waters"
+      ]
+    ],
+    "reference": [
+      "Waters is a surname , derived from `` Wat '' , or `` Wa'ter '' , an old pronunciation of Gaultier or Walter , and similarly derived from the surname Watson ( `` Wat 's son '' ) . The name is common from an early date in Wales and Yorkshire . The name is currently highly concentrated in the Welsh Borders and Shropshire area of the UK ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "3413977600585971868",
+    "response": "movie.\nHe was also in the second and third movies.\nHe was also in the TV series the Sarah Connor Chronicles.\nHe was also in the movie Titanic.\nHe was also in the movie The Dark Knight.\nHe was also in the movie The Dark Knight Rises.\nHe was also in the movie The Lord of the Rings: The Return of the King.\nHe was also in the movie The Lord of the Rings: The Fellowship of the Ring.\nHe was also in the movie The Lord of the Rings: The Two Towers.\nHe was also in the movie The Lord of the Rings: The Fellowship of the Ring.\nHe was also in the movie The Lord of the Rings: The Return of the King.\nHe was also in the movie The Lord of the Rings: The Two Towers.\nHe was also in the movie The Lord of the Rings: The Fellow",
+    "triplets": [
+      [
+        "John Connor",
+        "appears in",
+        "The Terminator movie"
+      ]
+    ],
+    "reference": [
+      "John Connor is a fictional character of the Terminator franchise . Created by writer and director James Cameron , the character is first referred to in the 1984 film The Terminator and first appears in its 1991 sequel Terminator 2 : Judgment Day initially portrayed by Michael Edwards ( briefly as the older Connor ) and then by teenage actor Edward Furlong throughout the remainder of the film ; in addition , Linda Hamilton 's real - life son Dalton Abbot played John as a toddler in a dream sequence . The character is subsequently portrayed in the films , Nick Stahl in Terminator 3 : Rise of the Machines ( 2003 ) , Christian Bale in Terminator Salvation ( 2009 ) and Jason Clarke in Terminator Genisys ( 2015 ) and from the television series Thomas Dekker and John De Vito in Terminator : The Sarah Connor Chronicles ( 2008 -- 2009 ) as the teenager and little John respectively . In the fifth film , where John Connor who becomes the T - 3000 and serves as the antagonist of the series ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-4834721811831894172",
+    "response": "\nStrictly Come Dancing 2019 results show: When is it on and who won?\nThe Strictly Come Dancing 2019 results show is on tonight and here's when and how to watch it.\nThe Strictly Come Dancing 2019 results show is on tonight and here's when and how to watch it. The results show will be broadcast on BBC One at 7.15pm and will see the two remaining couples - Kelvin Fletcher and Oti Mabuse and Karim Zeroual and Amy Dowden - compete for the glitterball trophy. The winner will be announced at the end of the show.\nThe Strictly Come Dancing 2019 results show is on tonight and here's when and how to watch it. The results show will be broadcast on BBC One at 7.15pm and",
+    "triplets": [
+      [
+        "Strictly Come Dancing 2019 results show",
+        "broadcast on",
+        "BBC One"
+      ],
+      [
+        "Strictly Come Dancing 2019 results show",
+        "broadcast at",
+        "7.15pm"
+      ],
+      [
+        "Strictly Come Dancing 2019 results show",
+        "has contestants",
+        "Kelvin Fletcher and Oti Mabuse"
+      ],
+      [
+        "Strictly Come Dancing 2019 results show",
+        "has contestants",
+        "Karim Zeroual and Amy Dowden"
+      ],
+      [
+        "Kelvin Fletcher and Oti Mabuse",
+        "compete for",
+        "glitterball trophy"
+      ],
+      [
+        "Karim Zeroual and Amy Dowden",
+        "compete for",
+        "glitterball trophy"
+      ],
+      [
+        "Winner",
+        "announced at",
+        "end of Strictly Come Dancing 2019 results show"
+      ]
+    ],
+    "reference": [
+      "From Series 5 onwards , the results show is recorded on the Saturday night directly after the live show and incorporates the result of the viewers ' votes which are completed by 21 : 30 . This was confirmed by the official BBC website in 2008 :"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-6591614197125818072",
+    "response": ". >> the raid was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure. >> it was a failure",
+    "triplets": [],
+    "reference": [
+      "John Brown 's raid on Harper 's Ferry ( also known as John Brown 's raid or The raid on Harper 's Ferry ) was an effort by armed abolitionist John Brown to initiate an armed slave revolt in 1859 by taking over a United States arsenal at Harpers Ferry , Virginia . Brown 's party of 22 was defeated by a company of U.S. Marines , led by First Lieutenant Israel Greene . Colonel Robert E. Lee was in overall command of the operation to retake the arsenal . John Brown had originally asked Harriet Tubman and Frederick Douglass , both of whom he had met in his transformative years as an abolitionist in Springfield , Massachusetts , to join him in his raid , but Tubman was prevented by illness and Douglass declined , as he believed Brown 's plan would fail ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "2339339749699668536",
+    "response": ".\nThe 2017 Super Bowl was an American football game between the American Football Conference (AFC) champion New England Patriots and the National Football Conference (NFC) champion Philadelphia Eagles to decide the champion of the National Football League (NFL) for the 2016 season. The Patriots defeated the Eagles 41\u201333, winning their sixth Super Bowl title. The game was played at U.S. Bank Stadium in Minneapolis, Minnesota on February 4, 2018.\nThe halftime show was headlined by Justin Timberlake and featured performances from Janet Jackson, who appeared with Timberlake at the end of his set, and other artists. It was the most watched television program of the year in the United States, with an average of 108.2 million viewers.\nThe Super Bowl LI was an American football game between the American Football Conference",
+    "triplets": [
+      [
+        "2017 Super Bowl halftime show",
+        "headlined by",
+        "Justin Timberlake"
+      ],
+      [
+        "Justin Timberlake",
+        "performed with",
+        "Janet Jackson"
+      ],
+      [
+        "Janet Jackson",
+        "appeared with",
+        "Justin Timberlake"
+      ],
+      [
+        "Janet Jackson appearance",
+        "at the end of",
+        "Justin Timberlake's set"
+      ],
+      [
+        "2017 Super Bowl halftime show",
+        "featured performances from",
+        "other artists"
+      ],
+      [
+        "2017 Super Bowl",
+        "was",
+        "Super Bowl LI"
+      ],
+      [
+        "Super Bowl LI",
+        "an American football game between",
+        "American Football Conference (AFC) champion New England Patriots and National Football Conference (NFC) champion Philadelphia Eagles"
+      ],
+      [
+        "Super Bowl LI",
+        "to decide champion of",
+        "National Football League (NFL) for 2016 season"
+      ],
+      [
+        "Super Bowl LI",
+        "played at",
+        "U.S. Bank Stadium in Minneapolis, Minnesota"
+      ],
+      [
+        "Super Bowl LI",
+        "date",
+        "February 4, 2018"
+      ]
+    ],
+    "reference": [
+      "The Super Bowl LI Halftime show took place on February 5 , 2017 , at NRG Stadium in Houston , Texas as part of Super Bowl LI . The show was headlined by Lady Gaga , who performed a medley of her songs , including newer material from her most recent studio album Joanne ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "7526277995958905171",
+    "response": "\nWho sings too much time on my hands lyrics. Who sings too much time on my hands lyrics.\nWho sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time on my hands lyrics. Who sings too much time",
+    "triplets": [],
+    "reference": [
+      "`` Too Much Time on My Hands '' is the second single released from Styx 's 1981 triple - platinum album Paradise Theatre . It was written and sung by Tommy Shaw , who also plays the lead guitar solo during the break in the song ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-2419576910417046724",
+    "response": "\nWhat is the longest pier in the UK?\nThe longest pier in the UK is the Blackpool Pleasure Beach Pier, which is 1,127 feet long.",
+    "triplets": [
+      [
+        "Blackpool Pleasure Beach Pier",
+        "is",
+        "longest pier in the UK"
+      ],
+      [
+        "Blackpool Pleasure Beach Pier",
+        "length",
+        "1,127 feet long"
+      ]
+    ],
+    "reference": [
+      "Southend Pier is a major landmark in Southend - on - Sea . Extending 1.34 miles ( 2.16 km ) into the Thames Estuary , it is the longest pleasure pier in the world . Sir John Betjeman once said that `` the Pier is Southend , Southend is the Pier '' . The pier is a Grade II listed building ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1773607187248198254",
+    "response": "but up.\nI'm sure you'll find your way.\nI'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find your way. I'm sure you'll find",
+    "triplets": [],
+    "reference": [
+      "`` That Ai n't No Way To Go '' is a song co-written and recorded by American country music duo Brooks & Dunn . It was released in March 1994 the fifth and final single from their album Hard Workin ' Man . The song reached the top of the Billboard Hot Country Singles & Tracks ( now Hot Country Songs ) chart . It was written by Kix Brooks , Ronnie Dunn and Don Cook ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "4086158102790148091",
+    "response": "\nwho sings i want to dance with you. Who Sings I Want To Dance With You? 2019-02-11\nMonday, February 11, 2019 11:59:59 AM Darrin\nWho Sings I Want To Dance With You?\nThe song was released in 1987 and was a hit in the United States, reaching number one on the Billboard Hot 100 chart. The song was released in 1987 and was a hit in the United States, reaching number one on the Billboard Hot 100 chart. The song was released in 1987 and was a hit in the United States, reaching number one on the Billboard Hot 100 chart. The song was released in 1987 and was a hit in the United States, reaching number one on the Billboard Hot 100",
+    "triplets": [
+      [
+        "I want to dance with you",
+        "released in",
+        "1987"
+      ],
+      [
+        "I want to dance with you",
+        "was a hit in",
+        "United States"
+      ],
+      [
+        "I want to dance with you",
+        "reached",
+        "number one on the Billboard Hot 100 chart"
+      ]
+    ],
+    "reference": [
+      "`` I Just Want to Dance with You '' is a song written by John Prine and Roger Cook , and performed by American country music singer George Strait . It was released in April 1998 as the first single to his album , One Step at a Time , it is his 34th Number One single on the Billboard Hot Country Singles & Tracks ( now Hot Country Songs ) chart , and his 42nd Number One single when all major trade charts are counted . Prine recorded it 12 years earlier , for his 1986 album `` German Afternoons . ''"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-1732734622903151644",
+    "response": "\nThe oldest recording of the song \u201cHouse of the Rising Sun\u201d dates back to 1928, when it was recorded by The Original Dixieland Jazz Band. The song was written in 1933 by Alan Lomax and Bess Lomax Hawes, and first recorded by The Weavers in 1950. It was later recorded by many other artists, including The Animals in 1964, who had a hit with the song.",
+    "triplets": [
+      [
+        "oldest recording of the song House of the Rising Sun",
+        "performed by",
+        "The Original Dixieland Jazz Band"
+      ],
+      [
+        "oldest recording of the song House of the Rising Sun",
+        "dates back to",
+        "1928"
+      ],
+      [
+        "song House of the Rising Sun",
+        "written in",
+        "1933"
+      ],
+      [
+        "song House of the Rising Sun",
+        "written by",
+        "Alan Lomax and Bess Lomax Hawes"
+      ],
+      [
+        "song House of the Rising Sun",
+        "first recorded by",
+        "The Weavers"
+      ],
+      [
+        "The Weavers",
+        "recorded",
+        "song House of the Rising Sun"
+      ],
+      [
+        "The Weavers",
+        "recorded",
+        "1950"
+      ],
+      [
+        "song House of the Rising Sun",
+        "recorded by",
+        "The Animals"
+      ],
+      [
+        "The Animals",
+        "recorded",
+        "song House of the Rising Sun"
+      ],
+      [
+        "The Animals",
+        "recorded",
+        "1964"
+      ],
+      [
+        "The Animals",
+        "had a hit with",
+        "song House of the Rising Sun"
+      ]
+    ],
+    "reference": [
+      "The oldest known recording of the song , under the title `` Rising Sun Blues '' , is by Appalachian artists Clarence `` Tom '' Ashley and Gwen Foster , who recorded it for Vocalion Records on September 6 , 1933 . Ashley said he had learned it from his grandfather , Enoch Ashley . Roy Acuff , an `` early - day friend and apprentice '' of Ashley 's , learned it from him and recorded it as `` Rising Sun '' on November 3 , 1938 . Several older blues recordings of songs with similar titles are unrelated , for example , `` Rising Sun Blues '' by Ivy Smith ( 1927 ) and `` The Risin ' Sun '' by Texas Alexander ( 1928 ) ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-7778233237890403173",
+    "response": "?\nThe show was filmed in various locations in South Africa, including Cape Town, Johannesburg, and Durban.",
+    "triplets": [],
+    "reference": [
+      "The Crossing is an American science fiction thriller series that airs on ABC and CTV . The series debuted on April 2 , 2018 . On March 20 , 2018 , ABC released the pilot episode on their website . The series is filmed in British Columbia , Canada ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "583026970021621830",
+    "response": ".\nThe first home video security system was invented by a man named John Stanton in 1966. Stanton was a former police officer who had a vision of creating a system that would allow people to monitor their homes while they were away. He developed the first home video security system, which used a series of cameras connected to a monitor and a microphone, allowing people to see and hear what was going on in their homes while they were away. This revolutionary system was a huge success, and soon many homes and businesses were equipped with these systems, providing peace of mind and security to those who used them.",
+    "triplets": [
+      [
+        "John Stanton",
+        "invented",
+        "the first home video security system"
+      ],
+      [
+        "John Stanton",
+        "former profession",
+        "police officer"
+      ],
+      [
+        "First home video security system",
+        "invented in",
+        "1966"
+      ],
+      [
+        "First home video security system",
+        "allowed",
+        "monitoring homes while away"
+      ],
+      [
+        "First home video security system",
+        "used",
+        "cameras connected to a monitor and microphone"
+      ],
+      [
+        "First home video security system",
+        "provided",
+        "peace of mind and security"
+      ],
+      [
+        "First home video security system",
+        "was",
+        "revolutionary"
+      ],
+      [
+        "First home video security system",
+        "was",
+        "a huge success"
+      ]
+    ],
+    "reference": [
+      "Marie Van Brittan Brown ( October 30 , 1922 -- February 2 , 1999 ) was an African - American inventor , becoming the originator of the home security system ( patent number 3,482,037 ) in 1966 , along with her husband Albert Brown , a patent was granted in 1969 . Brown was born in Jamaica , Queens , New York ; she died there at the age of 76 ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "5185978890489959594",
+    "response": "'s sprint cup series. he won the race at talladega sunday, his first win of the season and the 24th of his career. he also won the race in 2012. he was joined in victory lane by his family. >> it's a dream come true. it's something that you work so hard for, and when it happens, it's just an unbelievable feeling. >> he also became the first driver to win at talladega in his first start with a new team. >>> the new york giants are on a bye this week, but they're still making news. the giants have signed wide receiver odell beckham jr. to a five-year contract extension. the deal is worth $70 million with $46 million in guarantees. beckham jr. was entering the final year of his rookie contract. he",
+    "triplets": [
+      [
+        "Martin Truex Jr.",
+        "drives",
+        "number 95 car"
+      ],
+      [
+        "Martin Truex Jr.",
+        "drives in",
+        "NASCAR Sprint Cup series"
+      ],
+      [
+        "Martin Truex Jr.",
+        "won race at",
+        "Talladega"
+      ],
+      [
+        "Race at Talladega",
+        "was on",
+        "Sunday"
+      ],
+      [
+        "Win at Talladega",
+        "was",
+        "24th of Martin Truex Jr.'s career"
+      ],
+      [
+        "Martin Truex Jr.",
+        "also won race at Talladega in",
+        "2012"
+      ],
+      [
+        "Martin Truex Jr.",
+        "joined in victory lane by",
+        "his family"
+      ]
+    ],
+    "reference": [
+      "Michael Christopher McDowell ( born December 21 , 1984 ) is an American professional stock car racing driver . He currently competes full - time in the Monster Energy NASCAR Cup Series , driving the No. 95 Chevrolet SS for Leavine Family Racing ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-1531676396763282931",
+    "response": "?\nHermes flew too close to the sun and was punished by being sent to the underworld.",
+    "triplets": [],
+    "reference": [
+      "In Greek mythology , Icarus ( the Latin spelling , conventionally adopted in English ; Ancient Greek : \u1f3c\u03ba\u03b1\u03c1\u03bf\u03c2 , \u00cdkaros , Etruscan : Vikare ) is the son of the master craftsman Daedalus , the creator of the Labyrinth . Often depicted in art , Icarus and his father attempt to escape from Crete by means of wings that his father constructed from feathers and wax . Icarus ' father warns him first of complacency and then of hubris , asking that he fly neither too low nor too high , so the sea 's dampness would not clog his wings or the sun 's heat melt them . Icarus ignored his father 's instructions not to fly too close to the sun ; when the wax in his wings melted he tumbled out of the sky and fell into the sea where he drowned ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "5078709962400196312",
+    "response": "\nDeion Sanders played for the Atlanta Braves, San Francisco Giants, New York Yankees, and Dallas Cowboys during his career. He was a member of the Braves team that won the 1995 World Series. He also won a Super Bowl ring with the Cowboys in 1996.\nWhat mlb teams did deion sanders play for - Deion Sanders played for the Atlanta Braves, San Francisco Giants, New York Yankees, and Dallas Cowboys during his career. He was a member of the Braves team that won the 1995 World Series. He also won a Super Bowl ring with the Cowboys in 1996.",
+    "triplets": [
+      [
+        "Deion Sanders",
+        "played for",
+        "Atlanta Braves"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "San Francisco Giants"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "New York Yankees"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "Dallas Cowboys"
+      ],
+      [
+        "Deion Sanders",
+        "was member of",
+        "Atlanta Braves team"
+      ],
+      [
+        "Atlanta Braves team",
+        "won",
+        "1995 World Series"
+      ],
+      [
+        "Deion Sanders",
+        "won",
+        "Super Bowl ring"
+      ],
+      [
+        "Super Bowl ring",
+        "won with",
+        "Dallas Cowboys"
+      ],
+      [
+        "Dallas Cowboys",
+        "in year",
+        "1996"
+      ]
+    ],
+    "reference": [
+      "Deion Sanders Left fielder / Center fielder Born : ( 1967 - 08 - 09 ) August 9 , 1967 ( age 50 ) Fort Myers , Florida Batted : Left Threw : Left MLB debut May 31 , 1989 , for the New York Yankees Last MLB appearance June 14 , 2001 , for the Cincinnati Reds MLB statistics Batting average . 263 Hits 558 Home runs 39 Stolen bases 186 Teams New York Yankees ( 1989 -- 1990 ) Atlanta Braves ( 1991 -- 1994 ) Cincinnati Reds ( 1994 -- 1995 ) San Francisco Giants ( 1995 ) Cincinnati Reds ( 1997 , 2001 ) Career highlights and awards NL Triples champion ( 1992 )"
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-7296166998534064378",
+    "response": ".\nI'm sure she's a great person and all, but I'm not sure why she's so famous.\nShe was in a lot of movies and TV shows as a child, and then she was in the hit show Full House. She's also a singer and has released a few albums.\nShe's a great role model and has done a lot of charity work. She's also a mom and a wife.\nShe's a great person and has achieved a lot of success.\nI'm sure she's a great person, but I'm not sure why she's so famous.\nShe's a great person and has achieved a lot of success. She's also a mom and a wife.\nI'm sure she's a great person and all, but I'm not sure why she's so famous. She was in a lot of movies and TV shows as",
+    "triplets": [],
+    "reference": [
+      "Stephanie Judith Tanner ( portrayed by Jodie Sweetin ) is the witty , sarcastic middle child of Danny and Pam , the younger sister of D.J. , and the older sister of Michelle . Her mother died when she was five years old . Her catchphrases during the early seasons of the series include `` how rude ! , '' `` well , pin a rose on your nose ! '' and `` hot dog '' . She eventually evolved into something of a tomboy in seasons four and five . Stephanie has a habit of spying on D.J. 's life by reading her diary and eavesdropping on her telephone calls ( having been caught in the act several times ) , and is generally the most athletic and nosiest of the Tanner girls . Her best friends in school are Gia Mahan and Mickey , whom she meets in season seven ( the former is the only one who appears through to season eight ) . Of the three sisters , Stephanie has dealt with the toughest issues , such as peer pressure into smoking ( in season seven 's `` Fast Friends '' ) , `` make - out '' parties ( in season eight 's `` Making Out is Hard to Do '' ) , joyriding ( in season eight 's `` Stephanie 's Wild Ride '' ) , and uncovering a classmate 's child abuse ( in season six 's `` Silence is Not Golden '' ) , as well as the death of her mother when she was only five . In her early years , she is very sentimental about Mr. Bear , a stuffed animal that her mother gave to her after Michelle was born ( this was the focal point of the season two episode `` Goodbye Mr. Bear '' ) . She and Jesse are the most abrasive when it comes to how they feel about Kimmy Gibbler ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment"
+    ]
+  },
+  {
+    "id": "734309880189507498",
+    "response": ".\nI'm sure he's a great actor, but I'm not sure I'd recognize him if I saw him on the street.\nI'm sure he's a great actor, but I'm not sure I'd recognize him if I saw him on the street. He was in the Office, but I don't think I ever noticed him.\nI'm sure he's a great actor, but I'm not sure I'd recognize him if I saw him on the street. He was in the Office, but I don't think I ever noticed him. He was in the Office, but I don't think I ever noticed him.\nI'm sure he's a great actor, but I'm not sure I'd recognize him if I saw him on the street. He was in the Office, but I don't think I ever noticed him. He was in the Office, but",
+    "triplets": [],
+    "reference": [
+      "`` The Farm '' is the seventeenth episode of the ninth season of the American comedy television series The Office and the 192nd overall . It originally aired on NBC on March 14 , 2013 . The episode guest stars Matt Jones as Dwight 's cousin Zeke , Majandra Delfino as Dwight 's sister Fannie , Blake Garrett Rosenthal as his nephew , and Thomas Middleditch as his brother ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "5063128834246440475",
+    "response": "\nOnly Player to Play for Manchester United, Manchester City, Liverpool and Everton\nThe only player to have played for all four of the Manchester clubs - Manchester United, Manchester City, Liverpool and Everton - is the legendary winger, David Johnson. Johnson was born in Salford, England, in 1935 and began his professional career with Manchester United in 1953. He spent five years at Old Trafford, winning two league titles and the 1958 FA Cup. He then moved to Manchester City in 1958, where he spent three seasons before joining Liverpool in 1961. Johnson spent two seasons at Anfield, winning the 1962 FA Cup, before joining Everton in 1963. He spent two seasons at Goodison Park, winning the 1966 FA Cup, before retiring in 1968. Johnson made a total of 4",
+    "triplets": [
+      [
+        "David Johnson",
+        "only player to have played for",
+        "Manchester United, Manchester City, Liverpool and Everton"
+      ],
+      [
+        "David Johnson",
+        "legendary winger",
+        "true"
+      ],
+      [
+        "David Johnson",
+        "born in",
+        "Salford, England in 1935"
+      ],
+      [
+        "David Johnson",
+        "began professional career with",
+        "Manchester United in 1953"
+      ],
+      [
+        "David Johnson at Manchester United",
+        "duration",
+        "5 years"
+      ],
+      [
+        "David Johnson at Manchester United",
+        "won",
+        "2 league titles and 1958 FA Cup"
+      ],
+      [
+        "David Johnson",
+        "moved to",
+        "Manchester City in 1958"
+      ],
+      [
+        "David Johnson at Manchester City",
+        "duration",
+        "3 seasons"
+      ],
+      [
+        "David Johnson",
+        "moved to",
+        "Liverpool in 1961"
+      ],
+      [
+        "David Johnson at Liverpool",
+        "duration",
+        "2 seasons"
+      ],
+      [
+        "David Johnson at Liverpool",
+        "won",
+        "1962 FA Cup"
+      ],
+      [
+        "David Johnson",
+        "moved to",
+        "Everton in 1963"
+      ],
+      [
+        "David Johnson at Everton",
+        "duration",
+        "2 seasons"
+      ],
+      [
+        "David Johnson at Everton",
+        "won",
+        "1966 FA Cup"
+      ],
+      [
+        "David Johnson",
+        "retired in",
+        "1968"
+      ]
+    ],
+    "reference": [
+      "Peter Andrew Beardsley MBE ( born 18 January 1961 ) is an English former footballer who played as a forward or midfielder between 1979 and 1999 . In 1987 , he set a record transfer fee in the English game and represented his country 59 times between 1986 and 1996 , once as captain , taking part in two FIFA World Cups ( 1986 and 1990 ) and UEFA Euro 1988 . At club level , he played for Newcastle United , Liverpool and Everton , having also had spells with Carlisle United , Manchester United , Vancouver Whitecaps , Bolton Wanderers , Manchester City , Fulham , Hartlepool United and the Melbourne Knights . He was briefly appointed as the caretaker manager of Newcastle United in 2010 ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "5239772721292332989",
+    "response": "?\nIn the large intestine.\nWhat is the function of the large intestine?\nThe large intestine is responsible for absorption of fluids and remaining nutrients from the indigestible material in the feces. It also produces mucus and helps to regulate fluid balance.\nWhat is the function of the small intestine?\nThe small intestine is responsible for absorption of nutrients and fluids from the digested material in the food. It also produces mucus and helps to regulate fluid balance.\nWhat is the function of the cecum?\nThe cecum is the beginning of the large intestine and is responsible for absorption of fluids and remaining nutrients from the indigestible material in the feces. It also produces mucus and helps to regulate fluid balance.\nWhat is the function of the appendix?\nThe appendix",
+    "triplets": [
+      [
+        "bacteroids",
+        "likely found in",
+        "large intestine"
+      ],
+      [
+        "large intestine",
+        "responsible for",
+        "absorption of fluids and remaining nutrients from indigestible material in feces"
+      ],
+      [
+        "large intestine",
+        "produces",
+        "mucus"
+      ],
+      [
+        "large intestine",
+        "helps regulate",
+        "fluid balance"
+      ],
+      [
+        "small intestine",
+        "responsible for",
+        "absorption of nutrients and fluids from digested material in food"
+      ],
+      [
+        "small intestine",
+        "produces",
+        "mucus"
+      ],
+      [
+        "small intestine",
+        "helps regulate",
+        "fluid balance"
+      ],
+      [
+        "cecum",
+        "beginning of",
+        "large intestine"
+      ],
+      [
+        "cecum",
+        "responsible for",
+        "absorption of fluids and remaining nutrients from indigestible material in feces"
+      ],
+      [
+        "cecum",
+        "produces",
+        "mucus"
+      ],
+      [
+        "cecum",
+        "helps regulate",
+        "fluid balance"
+      ]
+    ],
+    "reference": [
+      "Bacteroides fragilis is an obligately anaerobic , Gram - negative , rod - shaped bacterium . It is part of the normal flora of the human colon and is generally commensal , but can cause infection if displaced into the bloodstream or surrounding tissue following surgery , disease , or trauma ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "6217752837777787594",
+    "response": "\nWho plays Heather in Beauty and the Beast?\nThe role of Heather in Beauty and the Beast is played by actress and singer Ashley Brown.",
+    "triplets": [
+      [
+        "Heather",
+        "role in Beauty and the Beast played by",
+        "Ashley Brown"
+      ],
+      [
+        "Ashley Brown",
+        "is",
+        "actress"
+      ],
+      [
+        "Ashley Brown",
+        "is",
+        "singer"
+      ]
+    ],
+    "reference": [
+      "Nicole Gale Anderson ( born August 29 , 1990 ) is a Filipino - American actress . She is best known for her role as Heather Chandler on The CW series Beauty & the Beast . She is also known for her roles as Macy Misa in the Disney Channel Original Series Jonas , and as Kelly Parker and Miranda Collins respectively on the ABC Family series Make It or Break It and Ravenswood ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "6882831655380911332",
+    "response": "?\nWhich British city is the oldest?\nWhich British city is the largest?\nWhich British city is the capital?\nWhich British city is the most populous?\nWhich British city is the second largest?\nWhich British city is the third largest?\nWhich British city is the fourth largest?\nWhich British city is the fifth largest?\nWhich British city is the sixth largest?\nWhich British city is the seventh largest?\nWhich British city is the eighth largest?\nWhich British city is the ninth largest?\nWhich British city is the tenth largest?\nWhich British city is the eleventh largest?\nWhich British city is the twelfth largest?\nWhich British city is the thirteenth largest?\nWhich British city is the fourteenth largest?\nWhich British city is the fifteenth largest?\nWhich British city is the sixteenth",
+    "triplets": [],
+    "reference": [
+      "Coton in the Elms is a village and parish in the English county of Derbyshire . At 70 miles ( 113 km ) from the coast , it is the furthest place in the United Kingdom from coastal waters . The population of the civil parish as of the 2011 census was 896 . It is located 5 miles southwest of Swadlincote and 6 miles south of Burton upon Trent ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1222948057007052760",
+    "response": "\nhow many players on the line of scrimmage in american football. American Football is a team sport played between two teams of eleven players each. The objective of the game is to score points by advancing an object into the opponents goal. The team with the most points at the end of the game wins. The team with the most points at the end of the game wins. how many players on the line of scrimmage in american football. American Football is a team sport played between two teams of eleven players each. The objective of the game is to score points by advancing an object into the opponents goal. The team with the most points at the end of the game wins. how many players on the line of scrimmage in american football. American Football is a team sport played between two teams of eleven players each. The objective of the game is to score points by advancing an object into the opponents goal. The team with the",
+    "triplets": [
+      [
+        "how many players on the line of scrimmage in american football",
+        "has",
+        "11 players"
+      ],
+      [
+        "American Football",
+        "is",
+        "team sport"
+      ],
+      [
+        "American Football",
+        "played between",
+        "two teams"
+      ],
+      [
+        "two teams",
+        "have",
+        "11 players each"
+      ],
+      [
+        "American Football",
+        "objective is",
+        "score points"
+      ],
+      [
+        "score points",
+        "by",
+        "advancing object into opponents goal"
+      ],
+      [
+        "team",
+        "with most points",
+        "wins game"
+      ]
+    ],
+    "reference": [
+      "In both American and Canadian professional football , every player on the defensive team is considered eligible . The offensive team must have at least seven players lined up on the line of scrimmage . Of the players on the line of scrimmage , only the two players on the ends of the line of scrimmage are eligible receivers . The remaining players are in the backfield ( four in American football , five in Canadian football ) , including the quarterback . These backfield players are also eligible receivers . In the National Football League , a quarterback who takes his stance behind center as a T - formation quarterback is not eligible unless , before the ball is snapped , he legally moves to a position at least one yard behind the line of scrimmage or on the end of the line , and is stationary in that position for at least one second before the snap , but is nonetheless not counted toward the seven men required on the line of scrimmage ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-278447034238251050",
+    "response": "\nhow many episodes in my name is earl season 4. How many episodes are in My Name Is Earl season 4?\nHow many episodes are in My Name Is Earl season 4?\nThere are 24 episodes in My Name Is Earl season 4.",
+    "triplets": [
+      [
+        "My Name Is Earl season 4",
+        "number of episodes",
+        "24"
+      ]
+    ],
+    "reference": [
+      "My Name Is Earl ( season 4 ) DVD cover Country of origin United States No. of episodes 27 Release Original network NBC Original release September 25 , 2008 -- May 14 , 2009 Season chronology \u2190 Previous Season 3 List of My Name Is Earl episodes"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-4882553194262710105",
+    "response": "\nThe salary of the US Secretary of State is $191,300 per year. The Secretary of State is the highest-ranking diplomat in the US and is responsible for managing the US Department of State, which is responsible for implementing foreign policy and negotiating treaties and agreements with foreign governments. The Secretary of State also serves as the President's chief foreign affairs advisor.",
+    "triplets": [
+      [
+        "salary of US Secretary of State",
+        "is",
+        "$191,300 per year"
+      ],
+      [
+        "US Secretary of State",
+        "is",
+        "highest-ranking diplomat in US"
+      ],
+      [
+        "US Secretary of State",
+        "manages",
+        "US Department of State"
+      ],
+      [
+        "US Department of State",
+        "responsible for",
+        "implementing foreign policy"
+      ],
+      [
+        "US Department of State",
+        "responsible for",
+        "negotiating treaties and agreements with foreign governments"
+      ],
+      [
+        "US Secretary of State",
+        "serves as",
+        "President's chief foreign affairs advisor"
+      ]
+    ],
+    "reference": [
+      "The Secretary of State is nominated by the President of the United States and , following a confirmation hearing before the Senate Committee on Foreign Relations , is confirmed by the United States Senate . The Secretary of State , along with the Secretary of the Treasury , Secretary of Defense , and Attorney General , are generally regarded as the four most important Cabinet members because of the importance of their respective departments . Secretary of State is a Level I position in the Executive Schedule and thus earns the salary prescribed for that level ( currently $205,700 ) ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "5901661238535651276",
+    "response": "\nThe Wizard of Oz (1939) - IMDb\nDirected by Victor Fleming. With Judy Garland, Ray Bolger, Jack Haley, Bert Lahr. A Kansas farm girl and her dog are whisked away to the magical land of Oz, where they join the Scarecrow, Tin Man and the Cowardly Lion in their quest to find the Wizard who can help them return home.\nWho Plays Nikko in The Wizard of Oz? - answers.com\nWho Plays Nikko in The Wizard of Oz? The character of Nikko was played by actor Larry Fine in the 1939 film The Wizard of Oz. Larry Fine was a member of the comedy trio The Three Stooges.\nWho Plays Nikko in The Wizard of Oz? - answers.com. Who Plays Nikko in The Wizard of",
+    "triplets": [],
+    "reference": [
+      "Patrick Walshe ( July 26 , 1900 -- December 11 , 1991 ) was an American dwarf character actor and circus performer who specialized portraying animals ( animal impersonating ) . He is best known for playing Nikko , the head of the Winged Monkeys in The Wizard of Oz . He appeared in only a few films , as most of his work was in theater , vaudeville and circus ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral"
+    ]
+  },
+  {
+    "id": "5217063434217549041",
+    "response": "?\nWhere does the sun hit the US first?\nThe sun first hits the US in the state of Arizona.",
+    "triplets": [
+      [
+        "sun",
+        "first hits",
+        "US"
+      ],
+      [
+        "sun",
+        "first hits US in",
+        "Arizona"
+      ],
+      [
+        "Arizona",
+        "is a state in",
+        "US"
+      ]
+    ],
+    "reference": [
+      "Driving or hiking to the summit of Cadillac Mountain to see `` the nation 's first sunrise '' is a popular activity among visitors of Acadia National Park . However , Cadillac only sees the first sunrise in the fall and winter , when the sun rises south of due east . During most of the spring and summer , the sun rises first on Mars Hill , 150 miles ( 240 km ) to the northeast . For a few weeks around the equinoxes , the sun rises first at West Quoddy Head in Lubec , Maine ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-8544960023313580012",
+    "response": "\nThe first Who Wants to Be a Millionaire? winner in the UK was Chris Tarrant, who won \u00a31,000,000 on the show's debut episode in 1998. He was the only contestant to answer all 15 questions correctly.\nWho Wants to Be a Millionaire? is a British game show that was first broadcast on 25 September 1998. It is currently hosted by Chris Tarrant and is produced by Celador Radio. The show features a single contestant who attempts to win a \u00a31 million prize by answering a series of multiple-choice questions.\nWho Wants to Be a Millionaire? is a British game show that was first broadcast on 25 September 1998. It is currently hosted by Chris Tarrant and is produced by Celador Radio. The show features a single contestant who attempts to win a \u00a31",
+    "triplets": [
+      [
+        "Chris Tarrant",
+        "was",
+        "first Who Wants to Be a Millionaire? winner in the UK"
+      ],
+      [
+        "Chris Tarrant",
+        "won",
+        "\u00a31,000,000"
+      ],
+      [
+        "Winning episode for Chris Tarrant",
+        "was",
+        "debut episode in 1998"
+      ],
+      [
+        "Chris Tarrant",
+        "answered",
+        "all 15 questions correctly"
+      ],
+      [
+        "Who Wants to Be a Millionaire?",
+        "is",
+        "British game show"
+      ],
+      [
+        "Who Wants to Be a Millionaire?",
+        "first broadcast on",
+        "25 September 1998"
+      ],
+      [
+        "Who Wants to Be a Millionaire?",
+        "hosted by",
+        "Chris Tarrant"
+      ],
+      [
+        "Who Wants to Be a Millionaire?",
+        "produced by",
+        "Celador Radio"
+      ],
+      [
+        "Who Wants to Be a Millionaire?",
+        "features",
+        "single contestant"
+      ],
+      [
+        "Single contestant",
+        "attempts",
+        "win \u00a31 million prize"
+      ],
+      [
+        "Single contestant",
+        "answers",
+        "multiple-choice questions"
+      ]
+    ],
+    "reference": [
+      "Judith Cynthia Aline Keppel ( born 18 August 1942 ) was the first one - million - pound winner on the television game show Who Wants to Be a Millionaire ? in the United Kingdom . She is also the only woman in the United Kingdom to have won it and also the first person to win a million pounds or more on a British television game show . She has appeared on the BBC Two quiz show Eggheads since 2003 ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "4272117895813370426",
+    "response": "\nColdplay - I Will Try To Fix You (Live at Glastonbury 2016)\nColdplay - I Will Try To Fix You (Live at Glastonbury 2016) Lyrics: I will try to fix you I will try to make you feel better I will try to make you see I will try to make you feel safer I will try to make you feel whole I will try to make you feel like you belong I will try to make you feel like you're home I will try to make you feel like you're not alone I will try to make you feel like you're not alone I will try to make you feel like you're not alone I will try to make you feel like you're not alone I will try to make you feel like you're not alone I will try to make you feel like you're not alone I will try to make you feel like you'",
+    "triplets": [
+      [
+        "Coldplay - I Will Try To Fix You",
+        "is a",
+        "song"
+      ],
+      [
+        "Coldplay - I Will Try To Fix You",
+        "performed live at",
+        "Glastonbury 2016"
+      ],
+      [
+        "Coldplay",
+        "is the artist of",
+        "I Will Try To Fix You"
+      ],
+      [
+        "I Will Try To Fix You",
+        "has lyrics",
+        "I will try to fix you I will try to make you feel better I will try to make you see I will try to make you feel safer I will try to make you feel whole I will try to make you feel like you belong I will try to make you feel like you're home I will try to make you feel like you're not alone"
+      ]
+    ],
+    "reference": [
+      "`` Fix You '' is a song by the British rock band Coldplay . It was written by all four members of the band for their third studio album , X&Y ( 2005 ) . The track is built around an organ accompanied by slow tempo drums and vocals ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "4245798066923223457",
+    "response": "in nba history\nThe NBA All-Star Game is an exhibition basketball game hosted annually by the National Basketball Association (NBA). It features the league's best players from the previous season, who are divided into two teams based on their conference affiliation. The game is held in the month of February, usually in the middle of the season. The game is usually held in a different city each year, and the teams are chosen by fan votes and player votes. The game is televised nationally in the United States and Canada, and in more than 200 countries and territories worldwide. The game is one of the most anticipated events of the NBA season, and it is often referred to as the \"Super Bowl of Basketball\".\nThe All-Star Game was first held in 1951, and the first team to win the game was the Eastern Conference. The Western Conference won the game in 1952, and the two teams",
+    "triplets": [
+      [
+        "NBA All-Star Game",
+        "hosted annually by",
+        "National Basketball Association (NBA)"
+      ],
+      [
+        "NBA All-Star Game",
+        "held in",
+        "February"
+      ],
+      [
+        "NBA All-Star Game",
+        "usually held in",
+        "different city each year"
+      ],
+      [
+        "NBA All-Star Game",
+        "televised in",
+        "United States"
+      ],
+      [
+        "NBA All-Star Game",
+        "televised in",
+        "Canada"
+      ],
+      [
+        "NBA All-Star Game",
+        "televised in",
+        "over 200 countries and territories"
+      ],
+      [
+        "NBA All-Star Game",
+        "referred to as",
+        "\"Super Bowl of Basketball\""
+      ],
+      [
+        "NBA All-Star Game",
+        "first held in",
+        "1951"
+      ],
+      [
+        "Eastern Conference",
+        "won first",
+        "NBA All-Star Game"
+      ],
+      [
+        "Western Conference",
+        "won",
+        "NBA All-Star Game in 1952"
+      ]
+    ],
+    "reference": [
+      "Bob Pettit and Kobe Bryant are the only two players to win the All - Star Game MVP four times . Oscar Robertson , Michael Jordan , Shaquille O'Neal , and LeBron James have each won the award three times , while Bob Cousy , Julius Erving , Isiah Thomas , Magic Johnson , Karl Malone , Allen Iverson , and Russell Westbrook have all won the award twice . James ' first All - Star MVP in 2006 made him the youngest to have ever won the award at the age of 21 years , 1 month . Kyrie Irving , winner of the 2014 All - Star Game MVP , is the second - youngest at 21 years , 10 months . They are notable as being the two youngest to win the award , both as Cleveland Cavaliers . Four of the games had joint winners -- Elgin Baylor and Pettit in 1959 , John Stockton and Malone in 1993 , O'Neal and Tim Duncan in 2000 , and O'Neal and Bryant in 2009 . O'Neal became the first player in All - Star history to share two MVP awards as well as the first player to win the award with multiple teams . The Los Angeles Lakers have had eleven winners while the Boston Celtics have had eight . Duncan of the U.S. Virgin Islands and Irving of Australia are the only winners not born in the United States . Both Duncan and Irving are American citizens , but are considered `` international '' players by the NBA because they were not born in one of the fifty states or Washington , D.C. No player trained entirely outside the U.S. has won the award ; Irving lived in the U.S. since age two , and Duncan played U.S. college basketball at Wake Forest ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "8852834747561852791",
+    "response": ". He was also the first to use the term \u201cgerm theory\u201d to explain the spread of infection.\nHe was born in 1843 in the small town of Holzminden, Germany. He was the son of a pharmacist and was exposed to the world of medicine from a young age. He studied medicine at the University of Berlin and later worked as an assistant to the renowned physician Rudolf Virchow.\nIn 1884, he published his now famous paper, \u201cOn the Germs of Disease.\u201d In this paper, he proposed that microorganisms are the cause of many diseases and that the spread of infection is due to their presence in the environment. This revolutionized the way doctors thought about disease and marked the beginning of modern medicine.\nHe continued to make important contributions to the field of medicine throughout his career. He discovered the bacteria responsible for cholera and typhoid fe",
+    "triplets": [],
+    "reference": [
+      "The Italian Agostino Bassi was the first person to prove that a disease was caused by a microorganism when he conducted a series of experiments between 1808 and 1813 , demonstrating that a `` vegetable parasite '' caused a disease in silkworms known as calcinaccio -- this disease was devastating the French silk industry at the time . The `` vegetable parasite '' is now known to be a fungus pathogenic to insects called Beauveria bassiana ( named after Bassi ) ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-5039045537721106027",
+    "response": "?\nThere are 22 episodes in season 6 of Nashville.",
+    "triplets": [
+      [
+        "season 6 of Nashville",
+        "has",
+        "22 episodes"
+      ]
+    ],
+    "reference": [
+      "The sixth and final season of the American television drama series Nashville , created by Callie Khouri , premiered on January 4 , 2018 , on CMT . The season will consist of 16 episodes ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-6687867009117829006",
+    "response": "movies.\nI'm not sure if I'm allowed to post links, but here's a picture of him:\nhttp://images.wikia.com/thehobbit/images/thumb/f/f9/Bilbo_Baggins_as_a_bear.jpg/250px-Bilbo_Baggins_as_a_bear.jpg\nI'm not sure if I'm allowed to post links, but here's a picture of him: http://images.wikia.com/thehobbit/images/thumb/f/f9/Bilbo_Baggins_as_a_bear.jpg/250px-Bilbo_Baggins_as_a_bear.jpg\nI'm not sure if I'm allowed to post links, but here's a picture of him:",
+    "triplets": [],
+    "reference": [
+      "Beorn is a fictional character created by J.R.R. Tolkien . He appears in The Hobbit as a `` skin - changer '' , a man who could assume the form of a great black bear ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-6933377434468493740",
+    "response": ".\nI can feel at home in this world anymore.\nI can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this world anymore. I can feel at home in this",
+    "triplets": [],
+    "reference": [
+      "I Do n't Feel at Home in This World Anymore ( often stylized I do n't feel at home in this world anymore . ) is a 2017 American comedy thriller film written and directed by Macon Blair in his directorial debut . It stars Melanie Lynskey , Elijah Wood , David Yow , Jane Levy and Devon Graye ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "850563670386330666",
+    "response": "?\nThe Wave Hill Walk Off ended on 15th November 2018.",
+    "triplets": [],
+    "reference": [
+      "In 1975 , the Labor government of Gough Whitlam finally negotiated with Vesteys to give the Gurindji back a portion of their land . This was a landmark in the land rights movement in Australia for Indigenous Australians . The handback took place on 16 August 1975 at Kalkaringi . Gough Whitlam addressed Vincent Lingiari and the Gurindji people , saying :"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-8490085242981497626",
+    "response": ".\nI'm gonna write a little letter,\nAnd then I'm gonna mail it special delivery.\nI'm gonna tell myself all the things I should have done,\nAnd all the things I should have said.\nI'm gonna tell myself to be true,\nAnd never worry about the things I can't do.\nI'm gonna tell myself to take a deep breath,\nAnd remember that I'm worth it, I'm worth it.\nI'm gonna tell myself to take a leap of faith,\nAnd never worry about the future, I can't change it.\nI'm gonna tell myself to take a chance,\nAnd never worry about the past, I can't undo it.\nI'm gonna tell myself to take a stand,\nAnd never worry about the future, I can't change it.\nI'm gonna",
+    "triplets": [
+      [
+        "I'm",
+        "going to",
+        "write a little letter"
+      ],
+      [
+        "I'm",
+        "going to",
+        "mail it special delivery"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself all the things I should have done"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself all the things I should have said"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself to be true"
+      ],
+      [
+        "I'm",
+        "going to",
+        "never worry about the things I can't do"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself to take a deep breath"
+      ],
+      [
+        "I'm",
+        "going to",
+        "remember that I'm worth it"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself to take a leap of faith"
+      ],
+      [
+        "I'm",
+        "going to",
+        "never worry about the future"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself to take a chance"
+      ],
+      [
+        "I'm",
+        "going to",
+        "never worry about the past"
+      ],
+      [
+        "I'm",
+        "going to",
+        "tell myself to take a stand"
+      ],
+      [
+        "I'm",
+        "going to",
+        "never worry about the future"
+      ]
+    ],
+    "reference": [
+      "`` I 'm Gonna Sit Right Down and Write Myself a Letter '' is a 1935 popular song with music by Fred E. Ahlert and lyrics by Joe Young . It has been recorded many times , and has become a standard of the Great American Songbook . It was popularized by Fats Waller , who recorded it in 1935 at the height of his fame ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "8361850218460994084",
+    "response": ".\nHe was born on 15th August 1925 in a small village of Punjab.\nHe was a great scientist and a visionary.\nHe was awarded with Bharat Ratna in 2008.\nHe was the founder of the green revolution in India.\nHe was the first to introduce high-yielding varieties of wheat and rice in India.\nHe was the first to introduce the use of chemical fertilizers in India.\nHe was the first to introduce the concept of modern crop management in India.\nHe was the first to introduce the concept of watershed management in India.\nHe was the first to introduce the concept of integrated crop management in India.\nHe was the first to introduce the concept of genetically modified crops in India.\nHe was the first to introduce the concept of climate-smart agriculture in India.\nHe was the first to",
+    "triplets": [
+      [
+        "M. S. Swaminathan",
+        "known as",
+        "father of green revolution in India"
+      ]
+    ],
+    "reference": [
+      "Mankombu Sambasivan Swaminathan ( born 7 August 1925 ) is an Indian geneticist and international administrator , renowned for his leading role in India 's Green Revolution a program under which high - yield varieties of wheat and rice seedlings were planted in the fields of poor farmers . Swaminathan is known as `` Indian Father of Green Revolution '' for his leadership and success in introducing and further developing high - yielding varieties of wheat in India . He is the founder and chairman of the MS Swaminathan Research Foundation . His stated vision is to rid the world of hunger and poverty . Swaminathan is an advocate of moving India to sustainable development , especially using environmentally sustainable agriculture , sustainable food security and the preservation of biodiversity , which he calls an `` evergreen revolution . ''"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "5259818422556035007",
+    "response": "?\nThe Beatles song \"Good Night\" is sung by John Lennon. It is the last song on the album The Beatles, also known as the \"White Album\".\nAsked in The Beatles, John Lennon\nWho sings the song Good Night on the Beatles album?\nJohn Lennon sings Good Night on the Beatles album.\nAsked in The Beatles, John Lennon, The White Album\nWho sings Good Night on the Beatles album?\nJohn Lennon sings Good Night on the Beatles album.\nWho sings Good Night on the Beatles album?\nJohn Lennon sings Good Night on the Beatles album. It is the last song on the album.\nWho sings Good Night on the Beatles album?\nJohn Lennon sings Good Night on the Beatles album. It is the last song on the album, also known as",
+    "triplets": [
+      [
+        "Good Night",
+        "song by",
+        "The Beatles"
+      ],
+      [
+        "Good Night",
+        "sung by",
+        "John Lennon"
+      ],
+      [
+        "Good Night",
+        "last song on album",
+        "The Beatles"
+      ],
+      [
+        "The Beatles",
+        "also known as",
+        "the White Album"
+      ]
+    ],
+    "reference": [
+      "`` Good Night '' is a song by the Beatles , composed by John Lennon , but credited to Lennon - McCartney . It is sung by Ringo Starr , the only Beatle to appear on the track . The music was provided by an orchestra arranged and conducted by George Martin . It is the last song on the Beatles ' 1968 album The Beatles ( also known as the `` White Album '' ) ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "465961107727601737",
+    "response": "?\nThe Illinois Supreme Court appoints the Chief Justice of the Illinois Supreme Court. The other justices are appointed by the Governor of Illinois.",
+    "triplets": [],
+    "reference": [
+      "The Supreme Court of Illinois is the state supreme court , the highest court of the state of Illinois . The court 's authority is granted in Article VI of the current Illinois Constitution , which provides for seven justices elected from the five appellate judicial districts of the state : Three justices from the First District ( Cook County ) and one from each of the other four districts . Each justice is elected for a term of ten years and the chief justice is elected by the court from its members for a three - year term ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-5525220120773157166",
+    "response": "and feel the rain on my skin and just be in the moment and feel the peace and the serenity of the moment.\nI'm looking for a song that has the lyrics \"I'm gonna take a stand, I'm gonna be strong, I'm gonna be the one\". It's a slow, mellow song with a powerful message. Any help would be appreciated. Thanks!\nI'm looking for a song with the lyrics \"I'm gonna take a stand, I'm gonna be strong, I'm gonna be the one\". It's a slow, mellow song with a powerful message. Any help would be appreciated. Thanks!\nI'm looking for a song with the lyrics \"I'm gonna take a stand, I'm gonna be strong, I'm gonna be the one\". It's a slow, mellow song with a powerful",
+    "triplets": [],
+    "reference": [
+      "`` Go Outside in the Rain '' is a R&B song by Milira released in 1990 . The track is from her debut album , Milira , and reached number thirty - six on Billboard 's Hot R&B Singles chart ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-2107324154024383180",
+    "response": ", the most popular christian song of all time.\nThe song has been streamed more than 250 million times on spotify and has been certified platinum in the us and uk.\nThe song is based on the book i can only imagine: a story of hope and redemption, which tells the story of how the song came to be.\nThe book is being adapted into a movie of the same name, which will be released in 2018.\nThe song has been praised for its ability to move people of all faiths and backgrounds.\nIt has been used to help people process their own pain and loss and has been used in churches and worship services around the world.\nThe song has also been credited with helping to revitalize the christian music industry.\nThe song has been praised for its ability to move people of all faiths and backgrounds. It has been used to help people process their",
+    "triplets": [
+      [
+        "i can only imagine",
+        "written and performed by",
+        "Bart Millard"
+      ],
+      [
+        "i can only imagine",
+        "is",
+        "the most popular christian song of all time"
+      ],
+      [
+        "i can only imagine",
+        "has been streamed over",
+        "250 million times on Spotify"
+      ],
+      [
+        "i can only imagine",
+        "certified platinum in",
+        "the US and UK"
+      ],
+      [
+        "i can only imagine",
+        "based on the book",
+        "i can only imagine: a story of hope and redemption"
+      ],
+      [
+        "the book i can only imagine: a story of hope and redemption",
+        "tells the story of",
+        "how the song i can only imagine came to be"
+      ],
+      [
+        "the book i can only imagine: a story of hope and redemption",
+        "being adapted into",
+        "a movie of the same name"
+      ],
+      [
+        "the movie of the same name as the book i can only imagine",
+        "will be released in",
+        "2018"
+      ],
+      [
+        "i can only imagine",
+        "has been praised for",
+        "its ability to move people of all faiths and backgrounds"
+      ],
+      [
+        "i can only imagine",
+        "used to help people process",
+        "their own pain and loss"
+      ],
+      [
+        "i can only imagine",
+        "used in",
+        "churches and worship services around the world"
+      ],
+      [
+        "i can only imagine",
+        "credited with helping to revitalize",
+        "the christian music industry"
+      ]
+    ],
+    "reference": [
+      "`` I Can Only Imagine '' ( sometimes shortened to `` Imagine '' ) is a single recorded by Christian rock band MercyMe . Written and composed by lead vocalist Bart Millard , the song , based around a main piano track , was inspired by the death of Millard 's father and considers what it would be like in Heaven and to be standing before God . The song was first issued as a track on MercyMe 's 1999 album The Worship Project , which was released on an independent record label . The song was re-recorded and included on their 2001 major - label debut album Almost There as the fifth song on the album ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-2126374007719970792",
+    "response": "\nWhat Olympic Athlete Has Won The Most Medals?\nThe Olympic athlete who has won the most medals is swimmer Michael Phelps, with a total of 28 medals. He won 23 gold medals, 3 silver medals, and 2 bronze medals. He won the most medals at the 2008 Beijing Olympics and the 2012 London Olympics. He is the most decorated athlete in Olympic history.\nWhat Olympic Athlete Has Won The Most Medals?\nWhat Olympic Athlete Has Won The Most Medals? 1. Swimmer Michael Phelps has won the most medals of any Olympic athlete with a total of 28 medals. He has won 23 gold medals, 3 silver medals, and 2 bronze medals. He has won the most medals at the 2008 Beijing",
+    "triplets": [
+      [
+        "Michael Phelps",
+        "is",
+        "swimmer"
+      ],
+      [
+        "Michael Phelps",
+        "won total",
+        "28 medals"
+      ],
+      [
+        "Michael Phelps",
+        "won",
+        "23 gold medals"
+      ],
+      [
+        "Michael Phelps",
+        "won",
+        "3 silver medals"
+      ],
+      [
+        "Michael Phelps",
+        "won",
+        "2 bronze medals"
+      ],
+      [
+        "Michael Phelps",
+        "won most medals at",
+        "2008 Beijing Olympics"
+      ],
+      [
+        "Michael Phelps",
+        "won most medals at",
+        "2012 London Olympics"
+      ],
+      [
+        "Michael Phelps",
+        "is",
+        "most decorated athlete in Olympic history"
+      ]
+    ],
+    "reference": [
+      "American swimmer Michael Phelps has won the most Olympic medals with 28 medals ( 23 gold , 3 silver , 2 bronze ) . He is also the most decorated Olympian in individual events , with 16 medals ( 13 gold , 2 silver , 1 bronze ) . Norwegian cross-country skier Marit Bj\u00f8rgen is the most decorated Winter Olympian , with 15 medals ( 8 gold , 4 silver , and 3 bronze ) ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-1123449784666821676",
+    "response": "\nThe Wire (TV series) - Wikipedia\nThe Wire is an American crime drama television series set and produced in Baltimore, Maryland. Created and primarily written by author and former police reporter David Simon, the series was broadcast by the cable network HBO between 2002 and 2008. The series follows the story of drug dealers, police officers, and politicians in Baltimore.\nThe Wire (TV Series 2002\u20132008) - IMDb\nThe Wire (TV Series 2002\u20132008) cast and crew credits, including actors, actresses, directors, writers and more.\nWho sings the theme song for The Wire? - Quora\nThe theme song for The Wire is \"Way Down in the Hole\" by Tom Waits. It is used throughout the series and is a recurring motif. The song is also",
+    "triplets": [
+      [
+        "The Wire",
+        "is an",
+        "American crime drama television series"
+      ],
+      [
+        "The Wire",
+        "set and produced in",
+        "Baltimore, Maryland"
+      ],
+      [
+        "The Wire",
+        "created by",
+        "author and former police reporter David Simon"
+      ],
+      [
+        "The Wire",
+        "broadcast by",
+        "the cable network HBO"
+      ],
+      [
+        "The Wire",
+        "aired between",
+        "2002 and 2008"
+      ],
+      [
+        "The Wire",
+        "follows the story of",
+        "drug dealers, police officers, and politicians in Baltimore"
+      ],
+      [
+        "Way Down in the Hole by Tom Waits",
+        "is",
+        "recurring motif in The Wire"
+      ],
+      [
+        "The theme song for The Wire",
+        "is",
+        "\"Way Down in the Hole\" by Tom Waits"
+      ]
+    ],
+    "reference": [
+      "The song was used as the theme for HBO 's The Wire . A different recording was used each season . Versions , in series order , were recorded by The Blind Boys of Alabama , Tom Waits , The Neville Brothers , DoMaJe , and Steve Earle . Season four 's version , performed by the Baltimore teenagers Ivan Ashford , Markel Steele , Cameron Brown , Tariq Al - Sabir and Avery Bargasse , was arranged and recorded specifically for the show . An extended version of the Blind Boys of Alabama recording was played over a montage in the series finale ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "4265986416867251482",
+    "response": ".\nThe submarine was invented by a man named John P. Holland. He was an Irish-American inventor who lived from 1841 to 1914. He was a civil engineer and a naval architect who was fascinated with the idea of underwater navigation. He designed and built the first successful submarine in 1878, which he called the \"Holland VI\". This submarine was used by the Union Navy during the American Civil War and was very successful in sinking Confederate ships. After the war, John P. Holland went on to design and build more advanced submarines, which were used by many navies around the world.",
+    "triplets": [
+      [
+        "John P. Holland",
+        "invented",
+        "the submarine"
+      ],
+      [
+        "John P. Holland",
+        "nationality",
+        "Irish-American"
+      ],
+      [
+        "John P. Holland",
+        "occupation",
+        "inventor"
+      ],
+      [
+        "John P. Holland",
+        "also",
+        "civil engineer"
+      ],
+      [
+        "John P. Holland",
+        "also",
+        "naval architect"
+      ],
+      [
+        "John P. Holland",
+        "fascinated by",
+        "idea of underwater navigation"
+      ],
+      [
+        "John P. Holland",
+        "designed and built",
+        "first successful submarine in 1878"
+      ],
+      [
+        "First successful submarine in 1878",
+        "named",
+        "Holland VI"
+      ],
+      [
+        "Holland VI submarine",
+        "used by",
+        "Union Navy"
+      ],
+      [
+        "Use of Holland VI submarine",
+        "during",
+        "American Civil War"
+      ],
+      [
+        "Holland VI submarine",
+        "very successful in",
+        "sinking Confederate ships"
+      ],
+      [
+        "John P. Holland",
+        "lifetime",
+        "1841 to 1914"
+      ],
+      [
+        "John P. Holland",
+        "went on to design and build",
+        "more advanced submarines"
+      ],
+      [
+        "More advanced submarines by John P. Holland",
+        "used by",
+        "many navies around the world"
+      ]
+    ],
+    "reference": [
+      "H.L. Hunley , often referred to as Hunley , was a submarine of the Confederate States of America that played a small part in the American Civil War . Hunley demonstrated the advantages and the dangers of undersea warfare . She was the first combat submarine to sink a warship ( USS Housatonic ) , although Hunley was not completely submerged and , following her successful attack , was lost along with her crew before she could return to base . The Confederacy lost 21 crewmen in three sinkings of Hunley during her short career . She was named for her inventor , Horace Lawson Hunley , shortly after she was taken into government service under the control of the Confederate States Army at Charleston , South Carolina ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "2141218895657905276",
+    "response": "\nWho played tom on as the world turns?\nTom Hatcher was played by Michael Park, who has appeared on the soap opera since 1999.",
+    "triplets": [
+      [
+        "Tom Hatcher",
+        "played by",
+        "Michael Park"
+      ],
+      [
+        "Michael Park",
+        "appeared on",
+        "soap opera As the World Turns"
+      ],
+      [
+        "Michael Park",
+        "appearance start year",
+        "1999"
+      ]
+    ],
+    "reference": [
+      "Tom Hughes Scott Holmes as Tom Hughes , 2010 As the World Turns character Portrayed by Peter Galman ( 1969 -- 73 ) C. David Colson ( 1973 -- 78 ) Tom Tammi ( 1979 -- 80 ) Justin Deas ( 1980 -- 84 ) Jason Kincaid ( 1984 ) Gregg Marx ( 1984 -- 86 ) Scott Holmes ( 1987 -- 2010 ) ( and others ) Duration 1961 -- 2010 First appearance May 1961 Last appearance September 17 , 2010 Created by Irna Phillips Introduced by Ted Corday Spin - off appearances Our Private World Classification Final , regular Profile Occupation Lawyer Former District attorney Former Journalist at The Argus Former District attorney Briefly worked at the U.S. Department of Justice in the crime commission in D.C. Formerly taught , law , for summer semester 1984 at a law school in Boulder , Colorado Former Lawyer at Lowell , Hughes , & Colman Residence 724 Pinewood Lane Oakdale , IL 60324 ( show ) Family Parents Bob Hughes Lisa Miller Half - brothers Scott Eldridge Charles Shea Christopher Hughes II Half - sisters Frannie Hughes Sabrina Hughes Spouse Carol Demming ( 1971 -- 74 ) Natalie Bannon ( 1975 -- 77 ) Margo Montgomery ( 1983 -- ) Sons Casey Hughes Daniel Hughes Daughters Lien Hughes Stepsons Adam Munson Grandsons Billy Norbeck Uncles Don Hughes Aunts Susan Hughes Penny Hughes First cousins Ryder Hughes ( adoptive ) Christina Hughes Amy Lin Cunningham ( adoptive )"
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral"
+    ]
+  },
+  {
+    "id": "6672231732847608194",
+    "response": ".\nThe song was written by Mike Post and sung by The Happenings.\nThe song was released in 1969 and reached #1 on the Billboard Hot 100 chart.\nThe song was featured in the opening credits of the television series Laverne & Shirley.\nThe song was also featured in the 1999 movie The Boondock Saints.",
+    "triplets": [
+      [
+        "theme song for laverne and shirley",
+        "written by",
+        "Mike Post"
+      ],
+      [
+        "theme song for laverne and shirley",
+        "sung by",
+        "The Happenings"
+      ],
+      [
+        "theme song for laverne and shirley",
+        "released in",
+        "1969"
+      ],
+      [
+        "theme song for laverne and shirley",
+        "reached #1 on",
+        "Billboard Hot 100 chart"
+      ],
+      [
+        "theme song for laverne and shirley",
+        "featured in opening credits of",
+        "television series Laverne & Shirley"
+      ],
+      [
+        "theme song for laverne and shirley",
+        "featured in",
+        "1999 movie The Boondock Saints"
+      ]
+    ],
+    "reference": [
+      "Cyndi Grecco ( born May 19 , 1952 , in New York , New York ) is an American singer who performed the theme tune to the popular 1970s American television show Laverne & Shirley . Titled `` Making Our Dreams Come True '' , the song ( in which Grecco was accompanied by the Ron Hicklin Singers ) was also put out as a single and charted at # 25 on July 25 , 1976 . The song came out on the small Private Stock label ( # 45086 ) . An album followed , though a second disco - themed single , `` Dancing , Dancing '' , failed to chart . She also provided the theme to another 1970s ABC television sitcom Blansky 's Beauties . Nevertheless , Grecco remains a one - hit wonder ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "4943207042321394497",
+    "response": "?\nThe 10 shilling note went out of circulation in 1988.",
+    "triplets": [
+      [
+        "10 shilling note",
+        "went out of circulation",
+        "1988"
+      ]
+    ],
+    "reference": [
+      "A new design for ten - shilling notes was introduced in 1961 , with the old notes ceasing to be legal tender in 1962 . These new series C notes were slightly longer and narrower , and were the first ten - shilling notes to feature a portrait of Queen Elizabeth II on the front . The reverse design incorporated the logo of the Bank of England . In the late 1960s it was decided that future banknotes should feature a British historical figure on the reverse . The first such note was the series D \u00a3 20 note , first issued in 1970 , featuring William Shakespeare . A design for a ten - shilling note featuring Walter Raleigh on the reverse was approved in 1964 but was never issued . Instead , in 1969 , as part of the process of decimalisation , a new fifty pence coin was introduced as a replacement for the ten - shilling note . The principal reason for the change was economy : the notes had an average lifetime of about five months whereas coins could last at least fifty years . The series C ten shilling notes ceased to be legal tender on 22 November 1970 ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "6014950976264156000",
+    "response": ", and the song was so beautiful and so powerful. I was so moved by it that I had to look up the lyrics and the artist. I found out it was a song by the band Lifehouse and the lyrics were so powerful and so true. The song is about never giving up and having faith in yourself and your dreams. The lyrics are so inspiring and the music is so beautiful that it made me cry when I heard it. I think everyone should listen to this song because it will make you believe in yourself and never give up.\nI think this song is amazing and it's a great reminder to never give up. The lyrics are so powerful and the music is so beautiful. I think everyone should listen to this song because it will make you believe in yourself and never give up.\nI think this song is amazing and it's a great reminder to never give up. The lyrics are so powerful and the music is",
+    "triplets": [
+      [
+        "never gonna let you go",
+        "performed by",
+        "Lifehouse (band)"
+      ]
+    ],
+    "reference": [
+      "`` Never Gonna Let You Go '' is a popular song from 1983 credited to Brazilian musician and bandleader S\u00e9rgio Mendes and sung by Joe Pizzulo and Leeza Miller . Songwriters Cynthia Weil ( lyrics ) and Barry Mann ( music ) composed the song , which appears on Mendes ' 1983 self - titled album ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-5004457603684974952",
+    "response": "?\nThe halftime show at Super Bowl 2016 will be performed by Coldplay.\nWho is playing the halftime show at the super bowl 2016?\nThe halftime show at Super Bowl 2016 will be performed by Coldplay.",
+    "triplets": [
+      [
+        "halftime show at Super Bowl 2016",
+        "will be performed by",
+        "Coldplay"
+      ],
+      [
+        "Super Bowl 2016",
+        "location",
+        "unspecified"
+      ]
+    ],
+    "reference": [
+      "The Super Bowl 50 Halftime Show took place on February 7 , 2016 , at Levi 's Stadium in Santa Clara , California as part of Super Bowl 50 . It was headlined by the British rock group Coldplay with special guest performers Beyonc\u00e9 and Bruno Mars , who previously had headlined the Super Bowl XLVII and Super Bowl XLVIII halftime shows , respectively ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1206653570097564556",
+    "response": "\nWhere does the movie Proof of Life take place?\nThe movie Proof of Life takes place in South America, primarily in the jungles of Peru.",
+    "triplets": [
+      [
+        "Proof of Life",
+        "takes place in",
+        "South America"
+      ],
+      [
+        "Proof of Life",
+        "takes place primarily in",
+        "the jungles of Peru"
+      ],
+      [
+        "the jungles of Peru",
+        "located in",
+        "South America"
+      ]
+    ],
+    "reference": [
+      "The Republic of Tecala , where most of Proof of Life is set , is a fictional South American country . Tecala has long been the scene of an internal conflict between its government forces and the Liberation Army of Tecala ( ELT ) . The ELT was originally a Marxist guerrilla group supported by the Soviet Union , but after the Soviet Union 's dissolution in 1991 , the ELT 's primary source of funding fell through , and they began kidnapping people for ransom to fund their operations . A map seen in the film is that of Ecuador . The country 's capital Quito was chosen along with the eastern jungle and the nearby city of Ba\u00f1os de Agua Santa in the Ecuadorian Andes ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment"
+    ]
+  }
+]
