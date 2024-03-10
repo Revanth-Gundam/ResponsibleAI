@@ -10,6 +10,7 @@ from transformers import (
 )
 
 import spacy
+import json
 
 def sentencize(text):
     """Split text into sentences"""
@@ -254,3 +255,105 @@ class NLIChecker(CheckerBase):
 
         print("Length of ret", len(ret))
         return ret
+
+def check(args):
+    # initialize models
+    if args.checker_name in ["gpt4", "claude2"]:
+        checker = LLMChecker(model=args.checker_name, batch_size=args.batch_size_checker)
+    elif args.checker_name == "nli":
+        checker = NLIChecker(batch_size=1)
+    elif args.checker_name == "alignscore":
+        checker = AlignScoreChecker(batch_size=args.batch_size_checker)
+    elif args.checker_name == "repc":
+        checker = RepCChecker(classifier=args.repc_classifier_name, batch_size=args.batch_size_checker)
+    else:
+        raise NotImplementedError
+    
+    retriever = None
+    if args.use_retrieval:
+        if args.retriever_name == "google":
+            retriever = GoogleRetriever(args.cache_dir)
+        else:
+            raise NotImplementedError
+    
+    if args.aggregator_name == "strict":
+        agg_fn = strict_agg
+    elif args.aggregator_name == "soft":
+        agg_fn = soft_agg
+    elif args.aggregator_name == "major":
+        agg_fn = major_agg
+    else:
+        raise NotImplementedError
+    
+    # load data
+    with open(args.input_path, "r") as fp:
+        input_data = json.load(fp)
+
+    input_data = input_data # Only 10 for testing
+    
+    # check triplets
+    print('Checking')
+    triplet_list = []
+    reference_list = []
+    question_list = []
+    for item in input_data:
+        assert "triplets" in item, "triplets field is required"
+        triplets = item["triplets"]
+        if args.use_retrieval:
+            reference = retriever.retrieve(item["response"])
+            item["reference"] = reference
+        else:
+            assert "reference" in item, \
+                "reference field is required if retriever is not used."
+            reference = item["reference"]
+        question = item.get("question", None)
+        triplet_list.append(triplets)
+        reference_list.append(reference)
+        question_list.append(question)
+
+    # print("Print Triplet List", len(triplet_list))
+    # print("Print Reference List", len(reference_list))
+    # print("Print Question List", len(question_list))
+
+    # Print number of triplets in total
+    total_triplets = 0
+    for triplet in triplet_list:
+        total_triplets += len(triplet)
+    # print("Total Triplets:", total_triplets)
+
+    results = checker.check(triplet_list, reference_list, question=question_list)
+    # print("Length of results:", len(results))
+    agg_results = [agg_fn(r) for r in results]
+
+    # print("Length of input data:", len(input_data))
+
+    for i in range(len(input_data)):
+        # Check if triplets are empty
+        print("Input_keys", input_data[i].keys())
+        break
+
+    print("Length of input data:", len(input_data))
+    print("Length of results:", len(results))
+
+    output_data = []
+
+    count = 0
+    # In the input data remove all triplets, that are empty
+    input_data_new = []
+    for item in input_data:
+        if item["triplets"] != []:
+            input_data_new.append(item)
+
+    print("!!!!!!!!!!!", len(input_data_new))
+
+    # Basically the mismatch is due to input data, and results -> 27 don't have any triplets
+
+    output_data = [{
+        **input_data_new[i],
+        **{
+            "Y": agg_results[i],
+            "ys": results[i],
+        }
+    } for i in range(len(input_data_new))]
+    with open(args.output_path, "w") as fp:
+        json.dump(output_data, fp, indent=2)
