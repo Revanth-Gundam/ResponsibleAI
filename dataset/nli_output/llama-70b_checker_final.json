@@ -90,37 +90,6 @@
     ]
   },
   {
-    "id": "-1582234629547061501",
-    "response": "I'm not familiar with a song called \"I'm Gonna Run Away from You.\" Could you be thinking of a different song or artist? If you have any more information or clarification about the song you're thinking of, I'd be happy to try and help you further.",
-    "triplets": [],
-    "reference": [
-      "Tami Lynn ( born 1942 , Gert Town , New Orleans , Louisiana , United States ) is an American soul singer . She scored a Top Ten hit on the UK Singles Chart in 1971 , with the song `` I 'm Gonna Run Away From You '' ."
-    ],
-    "Y": "Contradiction",
-    "ys": [
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Contradiction",
-      "Contradiction",
-      "Neutral",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Contradiction",
-      "Entailment",
-      "Contradiction",
-      "Entailment",
-      "Neutral"
-    ]
-  },
-  {
     "id": "2223188268381215709",
     "response": "In India, the President of India presides over the joint sessions of Parliament. The President is the head of the state and the ceremonial head of the government, and is elected by the members of the Electoral College, which consists of the elected members of both houses of Parliament and the state legislatures.\n\nWhen a joint session of Parliament is convened, the Speaker of the Lok Sabha (the lower house of Parliament) and the Chairman of the Rajya Sabha (the upper house of Parliament) jointly preside over the proceedings. However, in the event of a tie, the Speaker of the Lok Sabha has the casting vote.\n\nThe joint session of Parliament is convened by the President under Article 108 of the Constitution, which states that the President may summon a joint session of both houses of Parliament to consider a bill or any other matter that he thinks is of national importance. The President may also address the joint session and give his views on the matter being considered.\n\nDuring the joint session, the members of both houses of Parliament sit together in the Central Hall of Parliament House, and the proceedings are conducted by the Speaker of the Lok Sabha. The members of the Rajya Sabha also participate in the proceedings, but they do not have the power to vote. The joint session is usually convened to pass important legislation or to discuss matters of national importance.",
     "triplets": [
@@ -228,18 +197,27 @@
     "reference": [
       "The Parliament of India is bicameral . Concurrence of both houses are required to pass any bill . However , the authors of the Constitution of India visualised situations of deadlock between the upper house i.e. Rajya Sabha and the lower house i.e. Lok Sabha . Therefore , the Constitution of India provides for Joint sittings of both the Houses to break this deadlock . The joint sitting of the Parliament is called by the President and is presided over by the Speaker or , in his absence , by the Deputy Speaker of the Lok Sabha or in his absence , the Deputy - Chairman of the Rajya Sabha . If any of the above officers are not present then any other member of the Parliament can preside by consensus of both the House ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
-      "Neutral",
       "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
       "Neutral",
       "Neutral",
-      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
       "Neutral"
     ]
   },
@@ -306,17 +284,15 @@
     "reference": [
       "The following year in the tenth season , 1969 - 1970 , Steve remarries , taking widowed teacher Barbara Harper ( Beverly Garland ) as his wife ; she brings with her a 5 - year - old daughter , Dorothy `` Dodie '' ( Dawn Lyn ) , so Steven now had a stepdaughter whom he also subsequently adopts . ( Dodie is wary of Steve at first , believing that he wants her to simply forget her late father , until he explains that he wants her to always remember and love him , but since he 's no longer alive , Steve wants to raise her in his place , and hopes she 'll come to love him also . ) Also , the last year - and - a-half of the series feature fewer appearances of both Don Grady and Stanley Livingston . Grady 's character was written out of the show at the end of the 11th season , which allowed for his wife Katie and their triplet sons to remain within the Douglas household the following season ( as a structural engineer Robbie was working on a bridge construction in Peru ) . Chip and his teenaged wife Polly ( Ronne Troup ) ( who eloped after Polly 's disciplinarian father refused to sanction their marriage ) move into their own apartment ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
-      "Contradiction",
-      "Contradiction",
+      "Neutral",
       "Entailment",
-      "Contradiction",
-      "Contradiction",
+      "Entailment",
       "Neutral",
-      "Contradiction",
       "Neutral",
-      "Contradiction",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -396,15 +372,21 @@
     "reference": [
       "Flynn appeared in many films shot in the New England area . In show business he goes by the name ' James P. Flynn ' . Flynn was cast as a judge in the Boston - based film Good Will Hunting in 1997 . Later , he acted in the 1999 film The Cider House Rules and What 's the Worst That Could Happen ? in 2001 . He was also a truck driver for movie production equipment during the filming of My Best Friend 's Girl in 2008 . Boston actor Tom Kemp remarked : `` ( The film The Departed ) would n't be a Boston movie without me , a Wahlberg , and Jimmy Flynn from the teamsters . ''"
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
+      "Contradiction",
+      "Contradiction",
       "Entailment",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Entailment",
-      "Neutral",
-      "Entailment"
+      "Neutral"
     ]
   },
   {
@@ -453,21 +435,11 @@
     "Y": "Neutral",
     "ys": [
       "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Entailment",
+      "Neutral",
       "Entailment"
     ]
   },
@@ -564,12 +536,15 @@
     "reference": [
       "`` I Dreamed a Dream '' is a song from the musical Les Mis\u00e9rables . It is a solo that is sung by the character Fantine during the first act . The music is by Claude - Michel Sch\u00f6nberg , with orchestrations by John Cameron . The English lyrics are by Neil Diamond And Herbert Kretzmer , based on the original French libretto by Alain Boublil and Jean - Marc Natel from the original French production ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
+      "Entailment",
+      "Entailment",
       "Neutral",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -579,8 +554,6 @@
       "Neutral",
       "Neutral",
       "Entailment",
-      "Entailment",
-      "Neutral",
       "Entailment"
     ]
   },
@@ -674,6 +647,9 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
       "Contradiction",
       "Neutral",
       "Neutral",
@@ -683,10 +659,10 @@
       "Neutral",
       "Neutral",
       "Neutral",
+      "Entailment",
+      "Entailment",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment"
     ]
   },
   {
@@ -765,20 +741,18 @@
     "Y": "Contradiction",
     "ys": [
       "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Neutral",
-      "Contradiction",
-      "Neutral",
-      "Contradiction",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Entailment"
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -866,9 +840,21 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Contradiction"
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
     ]
   },
   {
@@ -896,23 +882,9 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Contradiction",
-      "Neutral",
-      "Contradiction",
-      "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Entailment",
-      "Neutral",
-      "Contradiction",
-      "Neutral",
-      "Neutral"
+      "Entailment",
+      "Contradiction"
     ]
   },
   {
@@ -1008,18 +980,24 @@
     "reference": [
       "Charkie : A female black cocker spaniel owned by Steve and Betsy . Charkie is very hyperactive , loves doing backflips , and frequently runs away from her caretakers . She is very skilled in opening and unlocking things ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Entailment",
-      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
       "Neutral"
     ]
   },
@@ -1088,20 +1066,17 @@
     ],
     "Y": "Neutral",
     "ys": [
-      "Neutral",
-      "Neutral",
+      "Entailment",
+      "Entailment",
       "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
-      "Entailment",
       "Neutral",
       "Neutral",
       "Entailment",
-      "Neutral",
-      "Neutral",
       "Entailment",
-      "Entailment"
+      "Neutral"
     ]
   },
   {
@@ -1184,17 +1159,20 @@
     ],
     "Y": "Neutral",
     "ys": [
+      "Neutral",
+      "Neutral",
       "Entailment",
       "Entailment",
       "Neutral",
+      "Neutral",
       "Entailment",
+      "Neutral",
+      "Neutral",
       "Entailment",
+      "Neutral",
+      "Neutral",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment"
     ]
   },
   {
@@ -1260,26 +1238,19 @@
     "reference": [
       "`` See You in September '' is a song written by Sid Wayne and Sherman Edwards . The song was first recorded by the Pittsburgh vocal group The Tempos . This first version peaked at number 23 in the summer of 1959 . The most popular version of `` See You In September '' was the version by The Happenings in 1966 , when it reached number three ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
       "Entailment",
-      "Neutral",
       "Entailment",
       "Neutral",
       "Entailment",
-      "Neutral",
-      "Entailment",
-      "Contradiction",
       "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Entailment"
+      "Neutral"
     ]
   },
   {
@@ -1382,12 +1353,24 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Entailment",
       "Neutral",
+      "Entailment",
       "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment",
       "Contradiction",
+      "Entailment",
+      "Entailment",
       "Neutral",
       "Neutral",
-      "Neutral"
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
     ]
   },
   {
@@ -1428,13 +1411,11 @@
     "reference": [
       "The song was originally recorded as part of the Nolan Sisters ' first mainstream pop album , simply titled Nolan Sisters in 1979 . It was written by Ben Findon , Mike Myers and Bob Puzey , and featured lead vocals by group member Bernie Nolan ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
+      "Contradiction",
       "Neutral",
       "Neutral",
       "Neutral"
@@ -1490,16 +1471,12 @@
     ],
     "Y": "Neutral",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
       "Neutral",
-      "Entailment",
-      "Entailment",
-      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral"
     ]
@@ -1577,24 +1554,15 @@
       "Entailment",
       "Entailment",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
+      "Entailment",
       "Entailment",
       "Entailment",
       "Neutral",
       "Entailment",
       "Entailment",
+      "Entailment",
       "Neutral",
-      "Neutral",
-      "Entailment"
+      "Neutral"
     ]
   },
   {
@@ -1716,11 +1684,20 @@
       "Entailment",
       "Entailment",
       "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
       "Entailment",
       "Neutral",
-      "Neutral",
       "Entailment",
-      "Neutral",
+      "Entailment",
       "Neutral",
       "Neutral",
       "Entailment"
@@ -1794,21 +1771,20 @@
     "reference": [
       "John Connor is a fictional character of the Terminator franchise . Created by writer and director James Cameron , the character is first referred to in the 1984 film The Terminator and first appears in its 1991 sequel Terminator 2 : Judgment Day initially portrayed by Michael Edwards ( briefly as the older Connor ) and then by teenage actor Edward Furlong throughout the remainder of the film ; in addition , Linda Hamilton 's real - life son Dalton Abbot played John as a toddler in a dream sequence . The character is subsequently portrayed in the films , Nick Stahl in Terminator 3 : Rise of the Machines ( 2003 ) , Christian Bale in Terminator Salvation ( 2009 ) and Jason Clarke in Terminator Genisys ( 2015 ) and from the television series Thomas Dekker and John De Vito in Terminator : The Sarah Connor Chronicles ( 2008 -- 2009 ) as the teenager and little John respectively . In the fifth film , where John Connor who becomes the T - 3000 and serves as the antagonist of the series ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
-      "Contradiction",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Contradiction",
       "Entailment",
       "Entailment",
       "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment"
     ]
   },
   {
@@ -1886,23 +1862,19 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
       "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Entailment",
-      "Entailment",
-      "Entailment",
       "Neutral",
-      "Entailment",
-      "Neutral",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Contradiction"
+      "Neutral"
     ]
   },
   {
@@ -2000,18 +1972,23 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Neutral",
-      "Contradiction",
       "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral"
+      "Contradiction"
     ]
   },
   {
@@ -2084,11 +2061,18 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
+      "Neutral",
       "Contradiction",
-      "Contradiction"
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -2124,22 +2108,13 @@
     "reference": [
       "`` Too Much Time on My Hands '' is the second single released from Styx 's 1981 triple - platinum album Paradise Theatre . It was written and sung by Tommy Shaw , who also plays the lead guitar solo during the break in the song ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
-      "Neutral",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Entailment",
       "Entailment",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Contradiction",
+      "Contradiction"
     ]
   },
   {
@@ -2220,16 +2195,22 @@
     "reference": [
       "Southend Pier is a major landmark in Southend - on - Sea . Extending 1.34 miles ( 2.16 km ) into the Thames Estuary , it is the longest pleasure pier in the world . Sir John Betjeman once said that `` the Pier is Southend , Southend is the Pier '' . The pier is a Grade II listed building ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
+      "Neutral",
+      "Entailment",
       "Entailment",
       "Neutral",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
       "Entailment",
       "Neutral",
-      "Contradiction"
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -2282,11 +2263,14 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Entailment",
+      "Neutral",
       "Contradiction",
       "Contradiction",
       "Contradiction",
       "Entailment",
-      "Entailment"
+      "Neutral",
+      "Contradiction"
     ]
   },
   {
@@ -2324,13 +2308,9 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Entailment",
       "Contradiction",
-      "Neutral",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
+      "Contradiction",
+      "Contradiction",
       "Entailment",
       "Entailment"
     ]
@@ -2388,29 +2368,17 @@
     "reference": [
       "The oldest known recording of the song , under the title `` Rising Sun Blues '' , is by Appalachian artists Clarence `` Tom '' Ashley and Gwen Foster , who recorded it for Vocalion Records on September 6 , 1933 . Ashley said he had learned it from his grandfather , Enoch Ashley . Roy Acuff , an `` early - day friend and apprentice '' of Ashley 's , learned it from him and recorded it as `` Rising Sun '' on November 3 , 1938 . Several older blues recordings of songs with similar titles are unrelated , for example , `` Rising Sun Blues '' by Ivy Smith ( 1927 ) and `` The Risin ' Sun '' by Texas Alexander ( 1928 ) ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
       "Entailment",
+      "Contradiction",
       "Neutral",
-      "Neutral",
+      "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment",
+      "Entailment"
     ]
   },
   {
@@ -2526,14 +2494,25 @@
     "reference": [
       "The Crossing is an American science fiction thriller series that airs on ABC and CTV . The series debuted on April 2 , 2018 . On March 20 , 2018 , ABC released the pilot episode on their website . The series is filmed in British Columbia , Canada ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -2601,13 +2580,11 @@
     "Y": "Contradiction",
     "ys": [
       "Neutral",
-      "Entailment",
-      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -2682,20 +2659,20 @@
     "reference": [
       "Michael Christopher McDowell ( born December 21 , 1984 ) is an American professional stock car racing driver . He currently competes full - time in the Monster Energy NASCAR Cup Series , driving the No. 95 Chevrolet SS for Leavine Family Racing ."
     ],
-    "Y": "Entailment",
+    "Y": "Contradiction",
     "ys": [
+      "Neutral",
       "Entailment",
       "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment"
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -2766,16 +2743,17 @@
     "reference": [
       "In Greek mythology , Icarus ( the Latin spelling , conventionally adopted in English ; Ancient Greek : \u1f3c\u03ba\u03b1\u03c1\u03bf\u03c2 , \u00cdkaros , Etruscan : Vikare ) is the son of the master craftsman Daedalus , the creator of the Labyrinth . Often depicted in art , Icarus and his father attempt to escape from Crete by means of wings that his father constructed from feathers and wax . Icarus ' father warns him first of complacency and then of hubris , asking that he fly neither too low nor too high , so the sea 's dampness would not clog his wings or the sun 's heat melt them . Icarus ignored his father 's instructions not to fly too close to the sun ; when the wax in his wings melted he tumbled out of the sky and fell into the sea where he drowned ."
     ],
-    "Y": "Contradiction",
+    "Y": "Entailment",
     "ys": [
       "Entailment",
       "Entailment",
       "Entailment",
       "Entailment",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
       "Entailment",
       "Entailment",
       "Entailment"
@@ -2846,11 +2824,17 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
       "Contradiction",
       "Contradiction",
       "Contradiction",
       "Contradiction",
-      "Contradiction"
+      "Entailment",
+      "Entailment",
+      "Entailment"
     ]
   },
   {
@@ -2889,15 +2873,10 @@
     "Y": "Contradiction",
     "ys": [
       "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Contradiction",
+      "Contradiction",
+      "Contradiction"
     ]
   },
   {
@@ -2958,16 +2937,18 @@
     "reference": [
       "`` The Farm '' is the seventeenth episode of the ninth season of the American comedy television series The Office and the 192nd overall . It originally aired on NBC on March 14 , 2013 . The episode guest stars Matt Jones as Dwight 's cousin Zeke , Majandra Delfino as Dwight 's sister Fannie , Blake Garrett Rosenthal as his nephew , and Thomas Middleditch as his brother ."
     ],
-    "Y": "Entailment",
+    "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment"
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -3018,34 +2999,16 @@
     "reference": [
       "Peter Andrew Beardsley MBE ( born 18 January 1961 ) is an English former footballer who played as a forward or midfielder between 1979 and 1999 . In 1987 , he set a record transfer fee in the English game and represented his country 59 times between 1986 and 1996 , once as captain , taking part in two FIFA World Cups ( 1986 and 1990 ) and UEFA Euro 1988 . At club level , he played for Newcastle United , Liverpool and Everton , having also had spells with Carlisle United , Manchester United , Vancouver Whitecaps , Bolton Wanderers , Manchester City , Fulham , Hartlepool United and the Melbourne Knights . He was briefly appointed as the caretaker manager of Newcastle United in 2010 ."
     ],
-    "Y": "Neutral",
+    "Y": "Entailment",
     "ys": [
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
     ]
   },
   {
@@ -3186,29 +3149,13 @@
     "reference": [
       "Bacteroides fragilis is an obligately anaerobic , Gram - negative , rod - shaped bacterium . It is part of the normal flora of the human colon and is generally commensal , but can cause infection if displaced into the bloodstream or surrounding tissue following surgery , disease , or trauma ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
-      "Contradiction",
-      "Neutral",
-      "Contradiction",
+      "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Contradiction",
-      "Contradiction"
-    ]
-  },
-  {
-    "id": "6217752837777787594",
-    "response": "The character of Heather in Beauty and the Beast is not a character from the original animated film or the live-action remake. It's possible that you may be thinking of a different character or a different version of the story.\n\nIn the original animated film, the main characters are Belle, the Beast, and a cast of supporting characters, including Lumiere, Cogsworth, Mrs. Potts, and Chip. There is no character named Heather in this version of the story.\n\nIn the live-action remake, the main characters are also Belle and the Beast, played by Emma Watson and Dan Stevens, respectively. The film also features a cast of supporting characters, including Luke Evans as Gaston, Josh Gad as LeFou, and Ewan McGregor as Lumiere. Again, there is no character named Heather in this version of the story.\n\nIf you have any additional information or context about the version of Beauty and the Beast you're thinking of, I'd be happy to try and help you further.",
-    "triplets": [],
-    "reference": [
-      "Nicole Gale Anderson ( born August 29 , 1990 ) is a Filipino - American actress . She is best known for her role as Heather Chandler on The CW series Beauty & the Beast . She is also known for her roles as Macy Misa in the Disney Channel Original Series Jonas , and as Kelly Parker and Miranda Collins respectively on the ABC Family series Make It or Break It and Ravenswood ."
-    ],
-    "Y": "Contradiction",
-    "ys": [
-      "Contradiction",
-      "Contradiction",
+      "Neutral",
       "Entailment",
       "Neutral",
       "Neutral",
@@ -3217,7 +3164,18 @@
       "Neutral",
       "Neutral",
       "Neutral",
-      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral"
     ]
   },
@@ -3269,12 +3227,16 @@
     "reference": [
       "Coton in the Elms is a village and parish in the English county of Derbyshire . At 70 miles ( 113 km ) from the coast , it is the furthest place in the United Kingdom from coastal waters . The population of the civil parish as of the 2011 census was 896 . It is located 5 miles southwest of Swadlincote and 6 miles south of Burton upon Trent ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
+      "Contradiction",
       "Neutral",
-      "Entailment"
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction"
     ]
   },
   {
@@ -3348,13 +3310,7 @@
     "Y": "Contradiction",
     "ys": [
       "Contradiction",
-      "Neutral",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Entailment",
+      "Contradiction",
       "Entailment",
       "Neutral",
       "Neutral",
@@ -3363,9 +3319,7 @@
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
+      "Entailment",
       "Neutral"
     ]
   },
@@ -3397,19 +3351,11 @@
     "reference": [
       "My Name Is Earl ( season 4 ) DVD cover Country of origin United States No. of episodes 27 Release Original network NBC Original release September 25 , 2008 -- May 14 , 2009 Season chronology \u2190 Previous Season 3 List of My Name Is Earl episodes"
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
       "Entailment",
       "Entailment",
-      "Entailment",
-      "Entailment",
-      "Contradiction",
-      "Entailment",
       "Neutral",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
       "Entailment"
     ]
   },
@@ -3524,41 +3470,13 @@
     "Y": "Contradiction",
     "ys": [
       "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Contradiction",
-      "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
+      "Entailment",
+      "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Entailment"
-    ]
-  },
-  {
-    "id": "5901661238535651276",
-    "response": "I apologize, but there is no character named Nikko in the original version of the movie \"The Wizard of Oz.\" The main characters in the movie are Dorothy, Scarecrow, Tin Man, and Cowardly Lion. There are also several supporting characters, such as Glinda the Good Witch, the Wicked Witch of the West, and the Wizard of Oz himself, but Nikko is not among them.\n\nPerhaps you are thinking of a different movie or production of \"The Wizard of Oz\" that includes a character named Nikko? If you have any more information or clarification, I would be happy to try and help you further.",
-    "triplets": [],
-    "reference": [
-      "Patrick Walshe ( July 26 , 1900 -- December 11 , 1991 ) was an American dwarf character actor and circus performer who specialized portraying animals ( animal impersonating ) . He is best known for playing Nikko , the head of the Winged Monkeys in The Wizard of Oz . He appeared in only a few films , as most of his work was in theater , vaudeville and circus ."
-    ],
-    "Y": "Neutral",
-    "ys": [
+      "Entailment",
       "Entailment",
       "Neutral",
       "Neutral",
@@ -3568,7 +3486,6 @@
       "Neutral",
       "Neutral",
       "Neutral",
-      "Entailment",
       "Neutral",
       "Neutral",
       "Neutral"
@@ -3648,14 +3565,9 @@
       "Entailment",
       "Entailment",
       "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
       "Contradiction",
       "Entailment",
-      "Entailment",
-      "Entailment",
+      "Neutral",
       "Entailment",
       "Entailment",
       "Entailment",
@@ -3796,8 +3708,23 @@
     "reference": [
       "Judith Cynthia Aline Keppel ( born 18 August 1942 ) was the first one - million - pound winner on the television game show Who Wants to Be a Millionaire ? in the United Kingdom . She is also the only woman in the United Kingdom to have won it and also the first person to win a million pounds or more on a British television game show . She has appeared on the BBC Two quiz show Eggheads since 2003 ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -3807,8 +3734,7 @@
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment"
     ]
   },
   {
@@ -3884,12 +3810,21 @@
     "reference": [
       "`` Fix You '' is a song by the British rock band Coldplay . It was written by all four members of the band for their third studio album , X&Y ( 2005 ) . The track is built around an organ accompanied by slow tempo drums and vocals ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
       "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Entailment",
-      "Contradiction",
-      "Entailment"
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -3985,22 +3920,25 @@
     "reference": [
       "Bob Pettit and Kobe Bryant are the only two players to win the All - Star Game MVP four times . Oscar Robertson , Michael Jordan , Shaquille O'Neal , and LeBron James have each won the award three times , while Bob Cousy , Julius Erving , Isiah Thomas , Magic Johnson , Karl Malone , Allen Iverson , and Russell Westbrook have all won the award twice . James ' first All - Star MVP in 2006 made him the youngest to have ever won the award at the age of 21 years , 1 month . Kyrie Irving , winner of the 2014 All - Star Game MVP , is the second - youngest at 21 years , 10 months . They are notable as being the two youngest to win the award , both as Cleveland Cavaliers . Four of the games had joint winners -- Elgin Baylor and Pettit in 1959 , John Stockton and Malone in 1993 , O'Neal and Tim Duncan in 2000 , and O'Neal and Bryant in 2009 . O'Neal became the first player in All - Star history to share two MVP awards as well as the first player to win the award with multiple teams . The Los Angeles Lakers have had eleven winners while the Boston Celtics have had eight . Duncan of the U.S. Virgin Islands and Irving of Australia are the only winners not born in the United States . Both Duncan and Irving are American citizens , but are considered `` international '' players by the NBA because they were not born in one of the fifty states or Washington , D.C. No player trained entirely outside the U.S. has won the award ; Irving lived in the U.S. since age two , and Duncan played U.S. college basketball at Wake Forest ."
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
       "Entailment",
       "Entailment",
-      "Neutral",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
     ]
   },
   {
@@ -4066,30 +4004,19 @@
     "reference": [
       "The Italian Agostino Bassi was the first person to prove that a disease was caused by a microorganism when he conducted a series of experiments between 1808 and 1813 , demonstrating that a `` vegetable parasite '' caused a disease in silkworms known as calcinaccio -- this disease was devastating the French silk industry at the time . The `` vegetable parasite '' is now known to be a fungus pathogenic to insects called Beauveria bassiana ( named after Bassi ) ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
-      "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
       "Entailment",
-      "Entailment",
-      "Entailment",
       "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Entailment"
+      "Neutral"
     ]
   },
   {
@@ -4123,14 +4050,9 @@
     "Y": "Contradiction",
     "ys": [
       "Entailment",
-      "Neutral",
+      "Entailment",
       "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Entailment"
     ]
   },
   {
@@ -4211,43 +4133,20 @@
     "reference": [
       "Beorn is a fictional character created by J.R.R. Tolkien . He appears in The Hobbit as a `` skin - changer '' , a man who could assume the form of a great black bear ."
     ],
-    "Y": "Contradiction",
-    "ys": [
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Entailment",
-      "Neutral"
-    ]
-  },
-  {
-    "id": "-6933377434468493740",
-    "response": "I apologize, but I'm not familiar with the phrase \"I can feel at home in this world anymore.\" It's possible that it's a song lyric or a quote from a book or article, but without more context, I'm unable to identify the author. Can you provide more information or context about where you heard or read this phrase?",
-    "triplets": [],
-    "reference": [
-      "I Do n't Feel at Home in This World Anymore ( often stylized I do n't feel at home in this world anymore . ) is a 2017 American comedy thriller film written and directed by Macon Blair in his directorial debut . It stars Melanie Lynskey , Elijah Wood , David Yow , Jane Levy and Devon Graye ."
-    ],
     "Y": "Neutral",
     "ys": [
       "Entailment",
       "Entailment",
+      "Neutral",
       "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral"
     ]
@@ -4372,26 +4271,28 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Entailment",
-      "Neutral",
-      "Entailment",
-      "Neutral",
       "Contradiction",
       "Neutral",
       "Neutral",
+      "Entailment",
       "Neutral",
-      "Neutral"
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
     ]
   },
   {
@@ -4449,9 +4350,11 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Entailment",
       "Neutral",
       "Contradiction",
-      "Contradiction",
+      "Neutral",
+      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -4571,18 +4474,28 @@
     "reference": [
       "Mankombu Sambasivan Swaminathan ( born 7 August 1925 ) is an Indian geneticist and international administrator , renowned for his leading role in India 's Green Revolution a program under which high - yield varieties of wheat and rice seedlings were planted in the fields of poor farmers . Swaminathan is known as `` Indian Father of Green Revolution '' for his leadership and success in introducing and further developing high - yielding varieties of wheat in India . He is the founder and chairman of the MS Swaminathan Research Foundation . His stated vision is to rid the world of hunger and poverty . Swaminathan is an advocate of moving India to sustainable development , especially using environmentally sustainable agriculture , sustainable food security and the preservation of biodiversity , which he calls an `` evergreen revolution . ''"
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Entailment",
-      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
       "Entailment",
       "Neutral",
       "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
       "Neutral"
     ]
   },
@@ -4623,17 +4536,7 @@
     "ys": [
       "Entailment",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
       "Neutral",
       "Neutral"
     ]
@@ -4750,11 +4653,24 @@
     "ys": [
       "Entailment",
       "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
       "Entailment",
       "Neutral",
       "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
       "Contradiction",
-      "Entailment"
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -4802,21 +4718,9 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Entailment",
       "Neutral",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Entailment",
       "Contradiction",
       "Contradiction",
-      "Neutral",
-      "Neutral",
-      "Entailment",
-      "Neutral",
       "Neutral",
       "Neutral",
       "Neutral",
@@ -4886,12 +4790,19 @@
     "reference": [
       "`` I Can Only Imagine '' ( sometimes shortened to `` Imagine '' ) is a single recorded by Christian rock band MercyMe . Written and composed by lead vocalist Bart Millard , the song , based around a main piano track , was inspired by the death of Millard 's father and considers what it would be like in Heaven and to be standing before God . The song was first issued as a track on MercyMe 's 1999 album The Worship Project , which was released on an independent record label . The song was re-recorded and included on their 2001 major - label debut album Almost There as the fifth song on the album ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
-      "Contradiction",
-      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
       "Neutral",
-      "Contradiction"
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -4982,8 +4893,17 @@
       "Entailment",
       "Entailment",
       "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Entailment",
       "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
       "Neutral"
     ]
   },
@@ -5036,19 +4956,9 @@
       "Entailment",
       "Entailment",
       "Neutral",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Neutral",
-      "Neutral",
       "Entailment",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral"
+      "Contradiction",
+      "Entailment"
     ]
   },
   {
@@ -5156,8 +5066,16 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Contradiction",
+      "Entailment",
       "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
       "Contradiction",
       "Neutral",
       "Neutral",
@@ -5166,16 +5084,6 @@
       "Neutral",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Contradiction",
-      "Entailment",
       "Neutral"
     ]
   },
@@ -5207,16 +5115,12 @@
     "reference": [
       "Tom Hughes Scott Holmes as Tom Hughes , 2010 As the World Turns character Portrayed by Peter Galman ( 1969 -- 73 ) C. David Colson ( 1973 -- 78 ) Tom Tammi ( 1979 -- 80 ) Justin Deas ( 1980 -- 84 ) Jason Kincaid ( 1984 ) Gregg Marx ( 1984 -- 86 ) Scott Holmes ( 1987 -- 2010 ) ( and others ) Duration 1961 -- 2010 First appearance May 1961 Last appearance September 17 , 2010 Created by Irna Phillips Introduced by Ted Corday Spin - off appearances Our Private World Classification Final , regular Profile Occupation Lawyer Former District attorney Former Journalist at The Argus Former District attorney Briefly worked at the U.S. Department of Justice in the crime commission in D.C. Formerly taught , law , for summer semester 1984 at a law school in Boulder , Colorado Former Lawyer at Lowell , Hughes , & Colman Residence 724 Pinewood Lane Oakdale , IL 60324 ( show ) Family Parents Bob Hughes Lisa Miller Half - brothers Scott Eldridge Charles Shea Christopher Hughes II Half - sisters Frannie Hughes Sabrina Hughes Spouse Carol Demming ( 1971 -- 74 ) Natalie Bannon ( 1975 -- 77 ) Margo Montgomery ( 1983 -- ) Sons Casey Hughes Daniel Hughes Daughters Lien Hughes Stepsons Adam Munson Grandsons Billy Norbeck Uncles Don Hughes Aunts Susan Hughes Penny Hughes First cousins Ryder Hughes ( adoptive ) Christina Hughes Amy Lin Cunningham ( adoptive )"
     ],
-    "Y": "Neutral",
+    "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
+      "Contradiction",
+      "Contradiction",
       "Neutral",
-      "Neutral",
-      "Entailment",
-      "Neutral"
+      "Contradiction"
     ]
   },
   {
@@ -5257,23 +5161,13 @@
     "reference": [
       "Cyndi Grecco ( born May 19 , 1952 , in New York , New York ) is an American singer who performed the theme tune to the popular 1970s American television show Laverne & Shirley . Titled `` Making Our Dreams Come True '' , the song ( in which Grecco was accompanied by the Ron Hicklin Singers ) was also put out as a single and charted at # 25 on July 25 , 1976 . The song came out on the small Private Stock label ( # 45086 ) . An album followed , though a second disco - themed single , `` Dancing , Dancing '' , failed to chart . She also provided the theme to another 1970s ABC television sitcom Blansky 's Beauties . Nevertheless , Grecco remains a one - hit wonder ."
     ],
-    "Y": "Contradiction",
+    "Y": "Neutral",
     "ys": [
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
-      "Contradiction",
+      "Entailment",
       "Entailment",
       "Neutral",
       "Entailment",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Contradiction",
-      "Contradiction",
+      "Entailment",
       "Neutral"
     ]
   },
@@ -5372,18 +5266,23 @@
     ],
     "Y": "Contradiction",
     "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
       "Neutral",
       "Contradiction",
-      "Entailment",
-      "Neutral",
-      "Neutral",
+      "Contradiction",
+      "Contradiction",
       "Contradiction",
       "Neutral",
+      "Neutral",
       "Entailment",
       "Entailment",
       "Neutral",
-      "Entailment",
-      "Entailment"
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
     ]
   },
   {
@@ -5501,12 +5400,27 @@
     ],
     "Y": "Contradiction",
     "ys": [
-      "Entailment",
-      "Entailment",
-      "Entailment",
-      "Entailment",
       "Contradiction",
-      "Entailment"
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Neutral"
     ]
   },
   {
@@ -5559,18 +5473,13 @@
     ],
     "Y": "Neutral",
     "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
       "Neutral",
       "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
-      "Neutral",
+      "Entailment",
       "Neutral"
     ]
   },
@@ -5662,6 +5571,301 @@
     "reference": [
       "The Republic of Tecala , where most of Proof of Life is set , is a fictional South American country . Tecala has long been the scene of an internal conflict between its government forces and the Liberation Army of Tecala ( ELT ) . The ELT was originally a Marxist guerrilla group supported by the Soviet Union , but after the Soviet Union 's dissolution in 1991 , the ELT 's primary source of funding fell through , and they began kidnapping people for ransom to fund their operations . A map seen in the film is that of Ecuador . The country 's capital Quito was chosen along with the eastern jungle and the nearby city of Ba\u00f1os de Agua Santa in the Ecuadorian Andes ."
     ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "6405015309290964923",
+    "response": "The phrase \"monkey's uncle\" is a common idiom that refers to a person who is silly, foolish, or eccentric. The origin of the phrase is unclear, but it is believed to have originated in the late 19th or early 20th century in the United States.\n\nOne possible theory is that the phrase originated from a popular song and dance called \"The Monkey's Uncle,\" which was performed by a vaudeville performer named Charles \"Hap\" Taintor in the early 1900s. The song's lyrics included the line \"I'm the monkey's uncle, I'm the monkey's friend.\" Over time, the phrase \"monkey's uncle\" became a catchphrase and was used to describe someone who was seen as being silly or foolish.\n\nAnother theory suggests that the phrase may have originated from the idea that a monkey's uncle would be a strange or unusual creature, much like the monkey itself. In this sense, the phrase \"monkey's uncle\" would be used to describe someone who is seen as being strange or eccentric.\n\nRegardless of its exact origin, the phrase \"monkey's uncle\" has become a common way to describe someone who is seen as being foolish or eccentric, and it continues to be used in",
+    "triplets": [
+      [
+        "phrase",
+        "refers to",
+        "person who is silly, foolish, or eccentric"
+      ],
+      [
+        "phrase",
+        "origin",
+        "unclear"
+      ],
+      [
+        "phrase",
+        "believed to have originated",
+        "in the late 19th or early 20th century in the United States"
+      ],
+      [
+        "One possible theory",
+        "is that",
+        "phrase originated from a popular song and dance called \"The Monkey's Uncle\""
+      ],
+      [
+        "song",
+        "performed by",
+        "vaudeville performer named Charles \"Hap\" Taintor"
+      ],
+      [
+        "song",
+        "in",
+        "early 1900s"
+      ],
+      [
+        "song",
+        "lyrics included",
+        "line \"I'm the monkey's uncle, I'm the monkey's friend\""
+      ],
+      [
+        "phrase \"monkey's uncle\"",
+        "became",
+        "catchphrase"
+      ],
+      [
+        "phrase \"monkey's uncle\"",
+        "used to describe",
+        "someone who was seen as being silly or foolish"
+      ],
+      [
+        "Another theory",
+        "suggests that",
+        "phrase may have originated from the idea that a monkey's uncle would be a strange or unusual creature, much like the monkey itself"
+      ],
+      [
+        "phrase \"monkey's uncle\"",
+        "would be used",
+        "to describe someone who is seen as being strange or eccentric"
+      ],
+      [
+        "phrase \"monkey's uncle\"",
+        "has become",
+        "common way to describe someone who is seen as being foolish or eccentric"
+      ]
+    ],
+    "reference": [
+      "The term monkey 's uncle , most notably seen in the idiom `` ( well ) I 'll be a monkey 's uncle '' , is used to express complete surprise , amazement or disbelief . It can also be used to acknowledge the impossibility of a situation , in the same way that `` pigs might fly '' is used . An example is if one says : `` I may agree that if two plus two equals five , then I am a monkey 's uncle '' . `` I 'll be a monkey 's uncle '' has been said to date from after 1925 , the date of the widely publicized Scopes Trial in the United States , where the term first appears . The Oxford English Dictionary 's earliest example is the phrase If that 's a joke I 'm a monkey 's uncle , from an Ohio newspaper on 8 February 1925 . It was originally a sarcastic remark made by creationists . The notion `` that ( people ) were descended from apes was considered blasphemous ... by Darwin 's contemporaries '' , and it was for this reason that the sarcastic phrase came into use ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "3790834797035922554",
+    "response": "In the United States Senate, the Vice President of the United States serves as the President of the Senate and casts the tie-breaking vote in the event of a tie. This is a constitutional provision that is outlined in Article I, Section 3, Clause 4 of the United States Constitution, which states:\n\n\"The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.\"\n\nThis means that if there is a tie vote in the Senate, the Vice President can cast a vote to break the tie. The Vice President's vote is not automatic, however, and they must choose to vote in order to break the tie. If the Vice President is not present or unable to vote, the tie remains unbroken.\n\nIt's worth noting that the Vice President's role in breaking ties in the Senate is a rare occurrence. In most cases, the Senate is able to reach a majority vote without the need for the Vice President's intervention. However, in the event of a tie, the Vice President's vote can be crucial in determining the outcome of a vote.",
+    "triplets": [
+      [
+        "Vice President of the United States",
+        "serves as",
+        "President of the Senate"
+      ],
+      [
+        "Vice President of the United States",
+        "casts",
+        "tie-breaking vote"
+      ],
+      [
+        "tie-breaking vote",
+        "cast in event of",
+        "a tie"
+      ],
+      [
+        "Provision for Vice President tie-breaking vote",
+        "outlined in",
+        "Article I, Section 3, Clause 4 of the United States Constitution"
+      ],
+      [
+        "Article I, Section 3, Clause 4 of the United States Constitution",
+        "states",
+        "The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided."
+      ],
+      [
+        "Vice President's vote",
+        "can determine outcome",
+        "in event of a tie"
+      ]
+    ],
+    "reference": [
+      "The Vice President of the United States is the ex officio President of the Senate , as provided in Article I , Section 3 , Clause 4 , of the United States Constitution , but may only vote in order to break a tie . According to the U.S. Senate , as of February 28 , 2018 , a tie - breaking vote had been cast 264 times by 36 vice presidents ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-6992125597790283273",
+    "response": "In Canada, the start and end dates of Daylight Saving Time (DST) vary depending on the province or territory. Here are the dates for each province and territory in Canada:\n\n* British Columbia:\n\t+ Start: Second Sunday in March, at 2:00 a.m.\n\t+ End: First Sunday in November, at 2:00 a.m.\n* Alberta:\n\t+ Start: Second Sunday in March, at 2:00 a.m.\n\t+ End: First Sunday in November, at 2:00 a.m.\n* Saskatchewan:\n\t+ Does not observe DST\n* Manitoba:\n\t+ Start: Second Sunday in March, at 2:00 a.m.\n\t+ End: First Sunday in November, at 2:00 a.m.\n* Ontario:\n\t+ Start: Second Sunday in March, at 2:00 a.m.\n\t+ End: First Sunday in November, at 2:00 a.m.\n* Quebec:\n\t+ Start: Second Sunday in March, at 2:00 a.m.\n\t+ End: First Sunday in November, at 2:00 a.m.\n* New Brunswick:\n\t+ Start: First Sunday in April, at 2",
+    "triplets": [
+      [
+        "Daylight Saving Time (DST) in Canada",
+        "varies depending on",
+        "province or territory"
+      ],
+      [
+        "British Columbia",
+        "DST start",
+        "Second Sunday in March, at 2:00 a.m."
+      ],
+      [
+        "British Columbia",
+        "DST end",
+        "First Sunday in November, at 2:00 a.m."
+      ],
+      [
+        "Alberta",
+        "DST start",
+        "Second Sunday in March, at 2:00 a.m."
+      ],
+      [
+        "Alberta",
+        "DST end",
+        "First Sunday in November, at 2:00 a.m."
+      ],
+      [
+        "Saskatchewan",
+        "does not observe",
+        "DST"
+      ],
+      [
+        "Manitoba",
+        "DST start",
+        "Second Sunday in March, at 2:00 a.m."
+      ],
+      [
+        "Manitoba",
+        "DST end",
+        "First Sunday in November, at 2:00 a.m."
+      ],
+      [
+        "Ontario",
+        "DST start",
+        "Second Sunday in March, at 2:00 a.m."
+      ],
+      [
+        "Ontario",
+        "DST end",
+        "First Sunday in November, at 2:00 a.m."
+      ],
+      [
+        "Quebec",
+        "DST start",
+        "Second Sunday in March, at 2:00 a.m."
+      ],
+      [
+        "Quebec",
+        "DST end",
+        "First Sunday in November, at 2:00 a.m."
+      ],
+      [
+        "New Brunswick",
+        "DST start",
+        "First Sunday in April, at 2"
+      ]
+    ],
+    "reference": [
+      "In regions where daylight saving time is used , it commences on the second Sunday of March , and standard time restarts on the first Sunday in November ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-610965397636500508",
+    "response": "The name Mandy is a diminutive form of the name Amanda, which means \"worthy of love\" or \"loveable\" in Latin. It is also sometimes used as a shortened form of other names starting with \"M,\" such as Mary or Margaret.\n\nIn English-speaking countries, Mandy has been used as a given name since the 17th century, and it became particularly popular in the 19th and 20th centuries. It is a unisex name, but it is more commonly given to girls.\n\nIn addition to its association with the name Amanda, Mandy has also been used as a nickname for other names starting with \"M,\" such as Melinda or Miranda.\n\nOverall, the name Mandy is a short, simple, and straightforward name that has been used by many people throughout history. It is a name that symbolizes love and affection, and it is often associated with positive qualities such as warmth, kindness, and friendliness.",
+    "triplets": [
+      [
+        "The name Mandy",
+        "is",
+        "a diminutive form of the name Amanda"
+      ],
+      [
+        "Mandy",
+        "has been used as",
+        "a given name since the 17th century"
+      ],
+      [
+        "Mandy",
+        "became particularly popular in",
+        "the 19th and 20th centuries"
+      ],
+      [
+        "Mandy",
+        "is",
+        "a unisex name"
+      ],
+      [
+        "Mandy",
+        "is more commonly given to",
+        "girls"
+      ],
+      [
+        "\"Mandy\"",
+        "\"has been used as\"",
+        "\"a nickname for other names starting with \"M\"\""
+      ],
+      [
+        "The name Mandy",
+        "symbolizes",
+        "love and affection"
+      ],
+      [
+        "The name Mandy",
+        "is often associated with",
+        "positive qualities such as warmth, kindness, and friendliness"
+      ],
+      [
+        "The name Amanda",
+        "means",
+        "\"worthy of love\" or \"loveable\" in Latin"
+      ]
+    ],
+    "reference": [
+      "Mandy Pronunciation MAN - dee Gender Female Origin Word / name English Meaning Lovable Other names Related names Amanda , Miranda , Amandus , Mandel , Emmanuel , Manda , Mandie , Mandi"
+    ],
     "Y": "Neutral",
     "ys": [
       "Entailment",
@@ -5673,6 +5877,2112 @@
       "Entailment",
       "Neutral",
       "Neutral"
+    ]
+  },
+  {
+    "id": "4876812477232188511",
+    "response": "The last name Perry is of English origin and is derived from the Middle English word \"perry,\" which means \"pear tree.\" It is believed to have originated as a topographic name for someone who lived near a pear tree, or as a habitational name for someone who lived in a place where pear trees were common.\n\nThe name Perry has been found in various forms throughout history, including Peri, Perrey, Perrie, and Pery. It has been used as a surname in England since the 13th century, and has also been found in Scotland and Ireland.\n\nOne of the earliest recorded bearers of the name Perry was a man named William Peri, who was listed in the Subsidy Rolls of Worcestershire, England in 1332. Another early recording of the name is found in the Register of the University of Oxford, which lists a John Perrey in 1580.\n\nOver time, the name Perry has evolved and has been adapted in various ways. In some cases, it has been used as a shortened form of other surnames, such as Peregrine or Percival. In other cases, it has been used as a patronymic surname, meaning \"son of Perry.\"\n\nToday, the name Perry is found in many countries around the world, including the United States, Canada, Australia, and the United",
+    "triplets": [
+      [
+        "last name perry",
+        "derived from",
+        "Middle English word \"perry\""
+      ],
+      [
+        "Middle English word \"perry\"",
+        "means",
+        "pear tree"
+      ],
+      [
+        "last name perry",
+        "believed to have originated as",
+        "topographic name for someone who lived near a pear tree"
+      ],
+      [
+        "last name perry",
+        "believed to have originated as",
+        "habitational name for someone who lived in a place where pear trees were common"
+      ],
+      [
+        "name Perry",
+        "found in various forms throughout history",
+        "Peri, Perrey, Perrie, Pery"
+      ],
+      [
+        "name Perry",
+        "used as surname in England since",
+        "13th century"
+      ],
+      [
+        "name Perry",
+        "also found in",
+        "Scotland"
+      ],
+      [
+        "name Perry",
+        "also found in",
+        "Ireland"
+      ],
+      [
+        "earliest recorded bearer of name Perry",
+        "William Peri",
+        "listed in Subsidy Rolls of Worcestershire, England in 1332"
+      ],
+      [
+        "another early recording of name Perry",
+        "John Perrey",
+        "listed in Register of University of Oxford in 1580"
+      ],
+      [
+        "name Perry",
+        "used as shortened form of other surnames",
+        "Peregrine, Percival"
+      ],
+      [
+        "name Perry",
+        "used as",
+        "patronymic surname"
+      ],
+      [
+        "patronymic surname Perry",
+        "means",
+        "\"son of Perry\""
+      ],
+      [
+        "name Perry",
+        "found today in many countries",
+        "United States, Canada, Australia, United Kingdom"
+      ]
+    ],
+    "reference": [
+      "Perry is a surname with several distinct origins . In England deriving from the Old English pyrige ( pear tree ) , referring to one who dwells by a pear tree , while in Wales Perry , along with Parry , arose as patronymics , via a shortening of `` ap Harry '' ( son of Harry ) . There are some variants in the Romance or Romantic languages ( derived from the Latin ) : Pereira , Pereyra , Pereyro , Pereiro , Pereiros Pereire , Perera , Perer , Perero , Pereros ; the Norman French perrieur ( quarry ) , possibly referring to a quarryman . Perry was recorded as a surname from the late 16th century in villages near Colchester , Essex , East England , such as Lexden and Copford . Perry has some resemblance with the Portuguese common surname Pereira , which means pear tree in Portuguese language . Because of that , many Portuguese immigrants to the USA ( especially Massachusetts ) chose to `` Americanize '' their Pereira surname to Perry . The Italian surname , Perri , related to `` Peter '' , is also often Americanized to Perry ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-3428106355897335676",
+    "response": "I apologize for my mistake. Birth certificates are typically completed by the hospital or healthcare facility where the birth took place, rather than by a department within the hospital. The information on a birth certificate is usually provided by the parents or guardians of the child, and it is then verified and recorded by the hospital staff. The birth certificate is an official document that serves as proof of a person's identity and is used for a variety of purposes, such as obtaining a passport, enrolling in school, or applying for government benefits.\n\nHere is a revised version of the paragraph that is more accurate:\n\nBirth certificates are official documents that are completed by hospitals or healthcare facilities to record the birth of a child. The certificate includes information about the child's name, date of birth, place of birth, and parentage. The information on a birth certificate is typically provided by the parents or guardians of the child, and it is then verified and recorded by the hospital staff. Birth certificates are important documents that serve as proof of a person's identity and are used for a variety of purposes, such as obtaining a passport, enrolling in school, or applying for government benefits.",
+    "triplets": [
+      [
+        "Birth certificates",
+        "are completed by",
+        "hospitals or healthcare facilities"
+      ],
+      [
+        "Birth certificates",
+        "record",
+        "birth of a child"
+      ],
+      [
+        "Birth certificates",
+        "include",
+        "child's name"
+      ],
+      [
+        "Birth certificates",
+        "include",
+        "date of birth"
+      ],
+      [
+        "Birth certificates",
+        "include",
+        "place of birth"
+      ],
+      [
+        "Birth certificates",
+        "include",
+        "parentage"
+      ],
+      [
+        "Information on birth certificates",
+        "provided by",
+        "parents or guardians"
+      ],
+      [
+        "Information on birth certificates",
+        "verified and recorded by",
+        "hospital staff"
+      ],
+      [
+        "Birth certificates",
+        "serve as",
+        "proof of identity"
+      ],
+      [
+        "Birth certificates",
+        "used for",
+        "obtaining passport"
+      ],
+      [
+        "Birth certificates",
+        "used for",
+        "enrolling in school"
+      ],
+      [
+        "Birth certificates",
+        "used for",
+        "applying for government benefits"
+      ]
+    ],
+    "reference": [
+      "In the U.S. , the issuance of birth certificates is a function of the Vital Records Office of the states , capital district , territories and former territories . Birth in the U.S. establishes automatic eligibility for American citizenship , so a birth certificate from a local authority is commonly provided to the federal government to obtain a U.S. passport . However , the U.S. State Department does issue a Consular Report of Birth Abroad for children born to U.S. citizens ( who are also eligible for citizenship ) , including births on military bases in foreign territory ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "8451264603946634151",
+    "response": "Ambulatory refers to the ability of a patient to walk or move around freely, without the need for bed rest or hospitalization. In healthcare, the term \"ambulatory care\" refers to medical services or procedures that are performed on an outpatient basis, meaning the patient does not need to stay overnight in a hospital or clinic.\n\nAmbulatory care can include a wide range of services, such as:\n\n1. Doctor's offices: Primary care physicians, specialists, and other healthcare providers who see patients in their offices for routine check-ups, consultations, and treatments.\n2. Clinics: Specialized clinics that provide focused care for specific conditions or populations, such as pediatric clinics, cancer clinics, or geriatric clinics.\n3. Urgent care centers: Facilities that provide immediate medical attention for non-life-threatening conditions, such as sprains, strains, and minor injuries.\n4. Surgical centers: Facilities that provide same-day surgical procedures, such as cataract surgery, endoscopies, and colonoscopies.\n5. Rehabilitation centers: Facilities that provide physical therapy, occupational therapy, and other forms of rehabilitation for patients recovering from injuries, illnesses, or surgery.",
+    "triplets": [
+      [
+        "Ambulatory",
+        "refers to",
+        "ability of a patient to walk or move around freely"
+      ],
+      [
+        "Ambulatory",
+        "refers to",
+        "ability of a patient to move around without need for bed rest or hospitalization"
+      ],
+      [
+        "Ambulatory care",
+        "refers to",
+        "medical services or procedures performed on outpatient basis"
+      ],
+      [
+        "Ambulatory care",
+        "means",
+        "patient does not need to stay overnight in hospital or clinic"
+      ],
+      [
+        "Ambulatory care",
+        "includes",
+        "Doctor's offices"
+      ],
+      [
+        "Ambulatory care",
+        "includes",
+        "Clinics"
+      ],
+      [
+        "Ambulatory care",
+        "includes",
+        "Urgent care centers"
+      ],
+      [
+        "Ambulatory care",
+        "includes",
+        "Surgical centers"
+      ],
+      [
+        "Ambulatory care",
+        "includes",
+        "Rehabilitation centers"
+      ]
+    ],
+    "reference": [
+      "Ambulatory care or outpatient care is medical care provided on an outpatient basis , including diagnosis , observation , consultation , treatment , intervention , and rehabilitation services . This care can include advanced medical technology and procedures even when provided outside of hospitals ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "6605227747829720945",
+    "response": "The width of a cricket bat is typically around 4 inches (10 cm). However, the exact width can vary slightly depending on the specifications of the bat and the manufacturer.\n\nAccording to the laws of cricket, a bat must be no wider than 4.25 inches (10.8 cm) at its widest point, and no thicker than 2.5 inches (6.4 cm) at its thickest point. The length of a cricket bat, on the other hand, can vary between 30 and 34 inches (76 and 86 cm).\n\nIt's worth noting that the width of a cricket bat can vary slightly depending on the type of bat and the level of play. For example, bats used in professional cricket matches may be slightly wider than those used in amateur or recreational games. Additionally, some bats may have a slightly tapered or rounded edge, which can affect their overall width.",
+    "triplets": [
+      [
+        "width of a cricket bat",
+        "is typically around",
+        "4 inches (10 cm)"
+      ],
+      [
+        "width of a cricket bat",
+        "can vary slightly depending on",
+        "specifications of the bat"
+      ],
+      [
+        "width of a cricket bat",
+        "can vary slightly depending on",
+        "manufacturer"
+      ],
+      [
+        "laws of cricket",
+        "state bat width must be no wider than",
+        "4.25 inches (10.8 cm)"
+      ],
+      [
+        "laws of cricket",
+        "state bat width must be no thicker than",
+        "2.5 inches (6.4 cm)"
+      ],
+      [
+        "length of a cricket bat",
+        "can vary between",
+        "30 and 34 inches (76 and 86 cm)"
+      ],
+      [
+        "width of a cricket bat",
+        "can vary depending on",
+        "type of bat"
+      ],
+      [
+        "width of a cricket bat",
+        "can vary depending on",
+        "level of play"
+      ],
+      [
+        "bats used in professional cricket matches",
+        "may be slightly wider than",
+        "those used in amateur or recreational games"
+      ],
+      [
+        "some bats",
+        "may have",
+        "slightly tapered or rounded edge"
+      ],
+      [
+        "slightly tapered or rounded edge",
+        "can affect",
+        "overall width"
+      ]
+    ],
+    "reference": [
+      "A cricket bat is a specialised piece of equipment used by batsmen in the sport of cricket to hit the ball , typically consisting of a cane handle attached to a flat - fronted willow - wood blade . The length of the bat may be no more than 38 inches ( 965 mm ) and the width no more than 4.25 inches ( 108 mm ) . Its use is first mentioned in 1624 . Since 1979 , a rule change stipulated that bats can only be made from wood ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "8848582210866367992",
+    "response": "The Nobel Peace Prize for 2017 was awarded to the International Campaign to Abolish Nuclear Weapons (ICAN). ICAN is a coalition of non-governmental organizations that works to promote disarmament and to abolish nuclear weapons. The organization was founded in 2007 and has since worked to raise awareness about the devastating effects of nuclear weapons and to promote international cooperation to eliminate them.\n\nThe Nobel Committee chose ICAN as the recipient of the prize in recognition of its efforts to promote a nuclear weapons-free world. In its announcement, the Committee stated that ICAN had been a driving force in the efforts to prohibit nuclear weapons, and that its work had helped to bring attention to the catastrophic humanitarian consequences of nuclear weapons.\n\nICAN's executive director, Beatrice Fihn, accepted the prize on behalf of the organization. In her acceptance speech, she emphasized the need for international cooperation to eliminate nuclear weapons and called on all countries to work together to achieve this goal.\n\nThe Nobel Peace Prize is considered one of the most prestigious awards in the world, and it is awarded annually to individuals or organizations who have made outstanding contributions to peace and conflict resolution. Previous recipients of the prize include Martin Luther King Jr., Nelson Mandela, and Malala Yousafzai.",
+    "triplets": [
+      [
+        "The Nobel Peace Prize for 2017",
+        "awarded to",
+        "International Campaign to Abolish Nuclear Weapons (ICAN)"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "is",
+        "coalition of non-governmental organizations"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "founded in",
+        "2007"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "works to promote",
+        "disarmament"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "works to promote",
+        "abolish nuclear weapons"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "raise awareness about",
+        "devastating effects of nuclear weapons"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "promote",
+        "international cooperation to eliminate nuclear weapons"
+      ],
+      [
+        "Nobel Committee",
+        "chose ICAN",
+        "in recognition of its efforts to promote a nuclear weapons-free world"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "been",
+        "driving force in efforts to prohibit nuclear weapons"
+      ],
+      [
+        "International Campaign to Abolish Nuclear Weapons (ICAN)",
+        "work helped",
+        "bring attention to catastrophic humanitarian consequences of nuclear weapons"
+      ],
+      [
+        "Beatrice Fihn",
+        "is",
+        "executive director of International Campaign to Abolish Nuclear Weapons (ICAN)"
+      ],
+      [
+        "Beatrice Fihn",
+        "accepted prize on behalf of",
+        "International Campaign to Abolish Nuclear Weapons (ICAN)"
+      ],
+      [
+        "Beatrice Fihn",
+        "emphasized in acceptance speech",
+        "need for international cooperation to eliminate nuclear weapons"
+      ],
+      [
+        "Beatrice Fihn",
+        "called on",
+        "all countries"
+      ],
+      [
+        "Beatrice Fihn",
+        "called on all countries",
+        "to work together to achieve goal of eliminating nuclear weapons"
+      ],
+      [
+        "Nobel Peace Prize",
+        "is",
+        "one of most prestigious awards in world"
+      ],
+      [
+        "Nobel Peace Prize",
+        "awarded annually to",
+        "individuals or organizations who made outstanding contributions to peace and conflict resolution"
+      ]
+    ],
+    "reference": [
+      "The 2017 Nobel Peace Prize was awarded to the International Campaign to Abolish Nuclear Weapons ( ICAN ) `` for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground - breaking efforts to achieve a treaty - based prohibition on such weapons , '' according to the Norwegian Nobel Committee announcement on October 6 , 2017 . The award announcement acknowledged the fact that `` the world 's nine nuclear - armed powers and their allies '' neither signed nor supported the treaty - based prohibition known as the Treaty on the Prohibition of Nuclear Weapons or nuclear ban treaty , yet in an interview Committee Chair Berit Reiss - Andersen told reporters that the award was intended to give `` encouragement to all players in the field '' to disarm . The award was hailed by civil society as well as governmental and intergovernmental representatives who support the nuclear ban treaty , but drew criticism from those opposed . At the Nobel Peace Prize award ceremony held in Oslo City Hall on December 10 , 2017 , Setsuko Thurlow , an 85 - year - old survivor of the 1945 atomic bombing of Hiroshima , and ICAN Executive Director Beatrice Fihn jointly received a medal and diploma of the award on behalf of ICAN and delivered the Nobel lecture ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "7539197459439257235",
+    "response": "\"Jai Ho\" is a song from the 2008 film \"Slumdog Millionaire.\" The song was performed by Indian singer A. R. Rahman, who also composed the music for the film. The lyrics were written by Gulzar. The song became a major hit and is considered one of the most iconic songs in Indian cinema.\n\nThe chorus of the song, which includes the lines \"Jai ho, jai ho, jai ho, jai ho, come and dance with me\" is sung by Rahman himself, along with a chorus of backing vocalists. The song features a blend of Indian classical music and contemporary pop elements, and its catchy melody and upbeat rhythm made it a popular dance number.\n\nThe song has been widely acclaimed for its memorable melody and lyrics, and it has won several awards, including the Academy Award for Best Original Song at the 81st Academy Awards.",
+    "triplets": [
+      [
+        "Jai Ho",
+        "is a song from",
+        "the 2008 film \"Slumdog Millionaire\""
+      ],
+      [
+        "Jai Ho",
+        "performed by",
+        "Indian singer A. R. Rahman"
+      ],
+      [
+        "A. R. Rahman",
+        "also composed the music for",
+        "the film"
+      ],
+      [
+        "Lyrics of Jai Ho",
+        "written by",
+        "Gulzar"
+      ],
+      [
+        "Jai Ho",
+        "became",
+        "a major hit"
+      ],
+      [
+        "Jai Ho",
+        "considered",
+        "one of the most iconic songs in Indian cinema"
+      ],
+      [
+        "Chorus of Jai Ho",
+        "includes lines",
+        "\"Jai ho, jai ho, jai ho, jai ho, come and dance with me\""
+      ],
+      [
+        "Chorus of Jai Ho",
+        "sung by",
+        "A. R. Rahman"
+      ],
+      [
+        "Chorus of Jai Ho",
+        "sung by",
+        "a chorus of backing vocalists"
+      ],
+      [
+        "Jai Ho",
+        "features",
+        "a blend of Indian classical music and contemporary pop elements"
+      ],
+      [
+        "Jai Ho",
+        "features",
+        "a catchy melody"
+      ],
+      [
+        "Jai Ho",
+        "features",
+        "an upbeat rhythm"
+      ],
+      [
+        "Jai Ho",
+        "made it",
+        "a popular dance number"
+      ],
+      [
+        "Jai Ho",
+        "won",
+        "Academy Award for Best Original Song"
+      ],
+      [
+        "Jai Ho",
+        "won Academy Award for Best Original Song at",
+        "the 81st Academy Awards"
+      ]
+    ],
+    "reference": [
+      "`` Jai Ho '' is a song composed by A.R. Rahman for the 2008 film , Slumdog Millionaire . When Danny Boyle , the director of Slumdog Millionaire , approached Rahman to compose its soundtrack , he included the song . `` Jai Ho '' accompanies a choreographed dance sequence at the end credits of Slumdog Millionaire . The song features vocals from Sukhvinder Singh , Mahalaxmi Iyer and Vijay Prakash in Hindi , Urdu and Punjabi . Indian singer Tanvi Shah wrote and provided vocals for a Spanish section of the song . `` Jai Ho '' is a Hindi phrase which can be roughly translated as `` Let ( the ) victory prevail '' , `` Let there be victory '' , or `` May there always be victory '' ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "6403691727808631943",
+    "response": "Wind power is used extensively in various parts of the United States, particularly in the Great Plains region and other areas with suitable wind resources. According to the American Wind Energy Association (AWEA), the top five states for wind energy production in the US are:\n\n1. Texas: With over 28,000 MW of installed wind capacity, Texas is the leading wind energy producer in the US. The state's vast plains and panhandle region make it an ideal location for wind farms.\n2. Oklahoma: Oklahoma has seen rapid growth in wind energy production in recent years, with over 7,000 MW of installed capacity. The state's wind resources are concentrated in the western and central regions.\n3. Kansas: Kansas has around 6,000 MW of wind capacity, with most of it located in the western and central parts of the state.\n4. Iowa: Iowa has over 5,000 MW of wind capacity, with the majority of it located in the western and northern regions. The state aims to generate 50% of its electricity from wind energy by 2025.\n5. Minnesota: Minnesota has around 4,000 MW of wind capacity, mostly located in the western and southern parts of the state. The state aims to generate 50% of its electricity from renewable sources by",
+    "triplets": [
+      [
+        "Texas",
+        "has",
+        "over 28,000 MW of installed wind capacity"
+      ],
+      [
+        "Texas",
+        "is",
+        "the leading wind energy producer in the US"
+      ],
+      [
+        "Oklahoma",
+        "has",
+        "over 7,000 MW of installed wind capacity"
+      ],
+      [
+        "Oklahoma",
+        "has seen",
+        "rapid growth in wind energy production in recent years"
+      ],
+      [
+        "Kansas",
+        "has around",
+        "6,000 MW of wind capacity"
+      ],
+      [
+        "Most of Kansas wind capacity",
+        "located in",
+        "the western and central parts of the state"
+      ],
+      [
+        "Iowa",
+        "has over",
+        "5,000 MW of wind capacity"
+      ],
+      [
+        "Majority of Iowa wind capacity",
+        "located in",
+        "the western and northern regions"
+      ],
+      [
+        "Iowa",
+        "aims to generate",
+        "50% of its electricity from wind energy by 2025"
+      ],
+      [
+        "Minnesota",
+        "has around",
+        "4,000 MW of wind capacity"
+      ],
+      [
+        "Most of Minnesota wind capacity",
+        "located in",
+        "the western and southern parts of the state"
+      ],
+      [
+        "Minnesota",
+        "aims to generate",
+        "50% of its electricity from renewable sources"
+      ]
+    ],
+    "reference": [
+      "In 2016 , Nebraska became the eighteenth state to have installed over 1,000 MW of wind power capacity . Texas , with over 20,000 MW of capacity , had the most installed wind power capacity of any U.S. state at the end of 2016 . Texas also had more under construction than any other state currently has installed . The state generating the highest percentage of energy from wind power is Iowa . North Dakota has the most per capita wind generation . The Alta Wind Energy Center in California is the largest wind farm in the United States with a capacity of 1548 MW . GE Energy is the largest domestic wind turbine manufacturer ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "8900387163847503723",
+    "response": "The role of Mr. Kincaid on The Partridge Family was played by actor Dave Madden. Madden portrayed the character of Mr. Kincaid, the family's manager, for the entire four-season run of the show, from 1970 to 1974.",
+    "triplets": [
+      [
+        "Mr. Kincaid on The Partridge Family",
+        "played by",
+        "actor Dave Madden"
+      ],
+      [
+        "Dave Madden",
+        "portrayed",
+        "the character of Mr. Kincaid"
+      ],
+      [
+        "Mr. Kincaid",
+        "was",
+        "the family's manager"
+      ],
+      [
+        "Dave Madden",
+        "played",
+        "Mr. Kincaid"
+      ],
+      [
+        "Dave Madden",
+        "played Mr. Kincaid",
+        "for the entire four-season run of the show"
+      ],
+      [
+        "four-season run of The Partridge Family show",
+        "from",
+        "1970"
+      ],
+      [
+        "four-season run of The Partridge Family show",
+        "to",
+        "1974"
+      ]
+    ],
+    "reference": [
+      "David Joseph Madden ( December 17 , 1931 -- January 16 , 2014 ) was a Canadian - born American actor . His most famous role came on the 1970s sitcom The Partridge Family , in which he played the group 's manager , Reuben Kincaid , opposite Shirley Jones 's character . Madden later had a recurring role as diner customer Earl Hicks on the mid-1970s to mid-1980s sitcom , Alice ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "334627437220863517",
+    "response": "The First Battle of Ypres ended on November 22, 1914. The battle had started on October 19, 1914, and lasted for almost a month. It was one of the earliest battles of World War I and marked a significant turning point in the conflict. The battle was fought between the German Empire and the Allied Powers, including British, French, and Canadian forces. The battle took place in and around the town of Ypres, in western Belgium, and was known for its brutal fighting and heavy casualties. The battle ended with a German retreat, but the fighting in the Ypres salient continued for much of the war.",
+    "triplets": [
+      [
+        "The First Battle of Ypres",
+        "ended on",
+        "November 22, 1914"
+      ],
+      [
+        "The First Battle of Ypres",
+        "started on",
+        "October 19, 1914"
+      ],
+      [
+        "The First Battle of Ypres",
+        "lasted for",
+        "almost a month"
+      ],
+      [
+        "The First Battle of Ypres",
+        "marked",
+        "a significant turning point in the conflict"
+      ],
+      [
+        "The First Battle of Ypres",
+        "was fought between",
+        "the German Empire and the Allied Powers"
+      ],
+      [
+        "Allied Powers",
+        "included",
+        "British, French, and Canadian forces"
+      ],
+      [
+        "The First Battle of Ypres",
+        "took place in and around",
+        "the town of Ypres, in western Belgium"
+      ],
+      [
+        "The First Battle of Ypres",
+        "was known for",
+        "its brutal fighting and heavy casualties"
+      ],
+      [
+        "The First Battle of Ypres",
+        "ended with",
+        "a German retreat"
+      ],
+      [
+        "fighting in the Ypres salient",
+        "continued for",
+        "much of the war"
+      ]
+    ],
+    "reference": [
+      "First Battle of Ypres ( 19 October -- 22 November 1914 ) . During the Race to the Sea . More than 100,000 casualties ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "1669394955232263644",
+    "response": "The Battle of Badr took place on March 17, 624 CE (17 Ramadan, 2 AH) in the Hejaz region of Arabia. It was a key battle in the early days of Islam and marked a significant victory for the Muslims, who were led by the Prophet Muhammad (peace be upon him). The battle was fought between the Muslims and the Quraish tribe of Mecca, who were opposed to the spread of Islam and had persecuted the Muslims for many years. The Muslims were greatly outnumbered, but they were able to defeat the Quraish and gain a decisive victory. The Battle of Badr is considered one of the most important events in Islamic history and is often referred to as the \"Battle of the Faithful.\"",
+    "triplets": [
+      [
+        "The Battle of Badr",
+        "took place on",
+        "March 17, 624 CE"
+      ],
+      [
+        "The Battle of Badr",
+        "took place on",
+        "17 Ramadan, 2 AH"
+      ],
+      [
+        "The Battle of Badr",
+        "took place in",
+        "the Hejaz region of Arabia"
+      ],
+      [
+        "The Battle of Badr",
+        "was",
+        "a key battle in the early days of Islam"
+      ],
+      [
+        "The Battle of Badr",
+        "marked",
+        "a significant victory for the Muslims"
+      ],
+      [
+        "The Muslims",
+        "were led by",
+        "the Prophet Muhammad (peace be upon him)"
+      ],
+      [
+        "The Quraish tribe of Mecca",
+        "were opposed to",
+        "the spread of Islam"
+      ],
+      [
+        "The Quraish tribe of Mecca",
+        "had persecuted",
+        "the Muslims"
+      ],
+      [
+        "The Quraish tribe of Mecca",
+        "had persecuted",
+        "the Muslims for many years"
+      ],
+      [
+        "The Muslims",
+        "were",
+        "greatly outnumbered"
+      ],
+      [
+        "The Muslims",
+        "were able to",
+        "defeat the Quraish"
+      ],
+      [
+        "The Muslims",
+        "were able to",
+        "gain a decisive victory"
+      ],
+      [
+        "The Battle of Badr",
+        "is considered",
+        "one of the most important events in Islamic history"
+      ],
+      [
+        "The Battle of Badr",
+        "is often referred to as",
+        "the \"Battle of the Faithful\""
+      ]
+    ],
+    "reference": [
+      "The Battle of Badr ( Arabic : \u063a\u0632\u0648\u0629 \u0628\u062f\u0631 \u200e \u200e ) , fought on Tuesday , 13 March 624 CE ( 17 Ramadan , 2 AH in the Islamic calendar ) in the Hejaz region of western Arabia ( present - day Saudi Arabia ) , was a key battle in the early days of Islam and a turning point in Muhammad 's struggle with his opponents among the Quraish in Mecca . The battle has been passed down in Islamic history as a decisive victory attributable to divine intervention , or by secular sources to the strategic genius of Muhammad . It is one of the few battles specifically mentioned in the Quran . All knowledge of the battle at Badr comes from traditional Islamic accounts , both hadiths and biographies of Muhammad , recorded in written form some time after the battle . There is little evidence outside of these of the battle . There are no descriptions of the battle prior to the 9th Century ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1259577751352734948",
+    "response": "\"I Wanna Dance with Somebody (Who Loves Me)\" was written by George Merrill and Shannon Rubicam. The song was released in 1987 and became a hit single for Whitney Houston, reaching number one on the US Billboard Hot 100 chart and several other charts around the world. Merrill and Rubicam are both songwriters and producers who have worked with many artists over the years, and they have written several other successful songs together, including \"How Do You Keep the Music Playing\" for James Ingram and \"I'll Be There for You\" for The Rembrandts.",
+    "triplets": [
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "written by",
+        "George Merrill"
+      ],
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "written by",
+        "Shannon Rubicam"
+      ],
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "released in",
+        "1987"
+      ],
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "became",
+        "hit single"
+      ],
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "hit single for",
+        "Whitney Houston"
+      ],
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "reached",
+        "number one on the US Billboard Hot 100 chart"
+      ],
+      [
+        "I Wanna Dance with Somebody (Who Loves Me)",
+        "reached",
+        "number one on several other charts around the world"
+      ],
+      [
+        "George Merrill",
+        "is",
+        "songwriter"
+      ],
+      [
+        "George Merrill",
+        "is",
+        "producer"
+      ],
+      [
+        "Shannon Rubicam",
+        "is",
+        "songwriter"
+      ],
+      [
+        "Shannon Rubicam",
+        "is",
+        "producer"
+      ],
+      [
+        "George Merrill",
+        "worked with",
+        "many artists over the years"
+      ],
+      [
+        "Shannon Rubicam",
+        "worked with",
+        "many artists over the years"
+      ],
+      [
+        "George Merrill",
+        "wrote",
+        "several other successful songs together with Shannon Rubicam"
+      ],
+      [
+        "How Do You Keep the Music Playing",
+        "written by George Merrill and Shannon Rubicam",
+        "for James Ingram"
+      ],
+      [
+        "I'll Be There for You",
+        "written by George Merrill and Shannon Rubicam",
+        "for The Rembrandts"
+      ]
+    ],
+    "reference": [
+      "`` I Wanna Dance with Somebody ( Who Loves Me ) '' is the first single from Whitney Houston 's second studio album Whitney . It was produced by Narada Michael Walden , and written by George Merrill and Shannon Rubicam of the band Boy Meets Girl , who had previously written the number - one Whitney Houston hit `` How Will I Know . '' The original arrangement was written for her grandnephew Mau Rosillo when he was 9 years old , as he was a well - renoun dancer ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "4674269357266381610",
+    "response": "The character of the walking boss in the movie \"Cool Hand Luke\" is played by actor Strother Martin. Martin's portrayal of the prison's cruel and sadistic warden, Captain, is one of the most memorable aspects of the film. His character's iconic line, \"What we've got here is failure to communicate,\" has become a catchphrase and is often referenced in popular culture.",
+    "triplets": [
+      [
+        "The walking boss in cool hand luke",
+        "played by",
+        "Strother Martin"
+      ],
+      [
+        "Strother Martin",
+        "portrays",
+        "Captain"
+      ],
+      [
+        "Captain",
+        "is",
+        "the prison's cruel and sadistic warden"
+      ],
+      [
+        "Captain",
+        "is character in movie",
+        "Cool Hand Luke"
+      ],
+      [
+        "Strother Martin's portrayal of Captain",
+        "is one of",
+        "the most memorable aspects of Cool Hand Luke"
+      ],
+      [
+        "What we've got here is failure to communicate",
+        "is line by",
+        "Captain"
+      ],
+      [
+        "What we've got here is failure to communicate",
+        "has become",
+        "a catchphrase"
+      ],
+      [
+        "What we've got here is failure to communicate",
+        "often referenced in",
+        "popular culture"
+      ]
+    ],
+    "reference": [
+      "Decorated war veteran Lucas `` Luke '' Jackson ( Paul Newman ) , is arrested for cutting parking meters off their poles one drunken night . He is sentenced to two years in prison and sent to a Florida chain gang prison run by a stern warden , the Captain ( Strother Martin ) , and a stoic rifleman , Walking Boss Godfrey ( Morgan Woodward ) , whose eyes are always covered by a pair of mirrored sunglasses. Carr ( Clifton James ) the floorwalker , tells the rules to the new set of prisoners , with any violations resulting in spending the night in `` the box , '' a small square room with limited air and very little room to move ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-7306805811512692008",
+    "response": "The Red River starts in the Texas Panhandle and flows east for approximately 1,300 miles (2,100 km) before emptying into the Atchafalaya River in Louisiana. In Louisiana, the Red River forms the boundary between the parishes of Caddo and Bossier before flowing through the city of Shreveport. From there, it continues east and empties into the Atchafalaya River just north of Simmesport.\n\nHere are the specific locations where the Red River starts and ends in Louisiana:\n\nStart:\n\n* The Red River starts in the Texas Panhandle, just north of the town of Amarillo.\n* The exact location is at the confluence of the North Fork Red River and the South Fork Red River, which are both located in Carson County, Texas.\n\nEnd:\n\n* The Red River ends in Louisiana, just north of the town of Simmesport.\n* The exact location is at the confluence of the Red River and the Atchafalaya River, which is located in Avoyelles Parish, Louisiana.\n\nIt's worth noting that the Red River is a significant waterway that plays an important role in the region's economy and ecology. It provides a source of freshwater, supports a variety of fish and wildlife, and is used for irrigation",
+    "triplets": [
+      [
+        "Red River",
+        "starts in",
+        "Texas Panhandle"
+      ],
+      [
+        "Red River",
+        "flows east for",
+        "approximately 1,300 miles (2,100 km)"
+      ],
+      [
+        "Red River",
+        "empties into",
+        "Atchafalaya River"
+      ],
+      [
+        "Red River",
+        "forms boundary between",
+        "parishes of Caddo and Bossier"
+      ],
+      [
+        "Red River",
+        "flows through",
+        "city of Shreveport"
+      ],
+      [
+        "Red River",
+        "continues east and empties into",
+        "Atchafalaya River"
+      ],
+      [
+        "Location where Red River empties into Atchafalaya River",
+        "is just north of",
+        "Simmesport"
+      ],
+      [
+        "Start of Red River",
+        "is at",
+        "confluence of North Fork Red River and South Fork Red River"
+      ],
+      [
+        "North Fork Red River",
+        "located in",
+        "Carson County, Texas"
+      ],
+      [
+        "South Fork Red River",
+        "located in",
+        "Carson County, Texas"
+      ],
+      [
+        "End of Red River",
+        "is at",
+        "confluence of Red River and Atchafalaya River"
+      ],
+      [
+        "Confluence of Red River and Atchafalaya River",
+        "located in",
+        "Avoyelles Parish, Louisiana"
+      ],
+      [
+        "Red River",
+        "provides",
+        "source of freshwater"
+      ],
+      [
+        "Red River",
+        "supports",
+        "variety of fish and wildlife"
+      ],
+      [
+        "Red River",
+        "used for",
+        "irrigation"
+      ]
+    ],
+    "reference": [
+      "The Red River is the second - largest river basin in the southern Great Plains . It rises in two branches in the Texas Panhandle and flows east , where it acts as the border between the states of Texas and Oklahoma . It forms a short border between Texas and Arkansas before entering Arkansas , turning south near Fulton , Arkansas , and flowing into Louisiana , where it flows into the Atchafalaya River . The total length of the river is 1,360 miles ( 2,190 km ) , with a mean flow of over 57,000 cubic feet per second ( 1,600 m / s ) at the mouth ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "2532633865902253646",
+    "response": "\"What I Like About You\" was originally recorded by the Romantics, an American rock band, in 1979. The lead vocals on the song were sung by the band's lead singer, Wally Palmar. The song was released as a single and became a hit, reaching the top 10 on the Billboard Hot 100 chart in 1980. It has since become a classic rock staple and has been covered by several other artists, but the original version by the Romantics remains the most well-known and popular.",
+    "triplets": [
+      [
+        "What I Like About You",
+        "originally recorded by",
+        "the Romantics"
+      ],
+      [
+        "the Romantics",
+        "is",
+        "American rock band"
+      ],
+      [
+        "What I Like About You",
+        "released as",
+        "single"
+      ],
+      [
+        "What I Like About You",
+        "became",
+        "hit"
+      ],
+      [
+        "What I Like About You",
+        "reached",
+        "top 10 on Billboard Hot 100 chart"
+      ],
+      [
+        "What I Like About You",
+        "released in",
+        "1979"
+      ],
+      [
+        "What I Like About You",
+        "reached top 10 in",
+        "1980"
+      ],
+      [
+        "lead vocals on What I Like About You",
+        "sung by",
+        "Wally Palmar"
+      ],
+      [
+        "Wally Palmar",
+        "is",
+        "lead singer of the Romantics"
+      ],
+      [
+        "What I Like About You",
+        "has become",
+        "classic rock staple"
+      ],
+      [
+        "What I Like About You",
+        "has been covered by",
+        "several other artists"
+      ],
+      [
+        "original version of What I Like About You by the Romantics",
+        "remains",
+        "most well-known and popular"
+      ]
+    ],
+    "reference": [
+      "`` What I Like About You '' is a song by American rock band The Romantics . The song , written by Romantics members Wally Palmar , Mike Skill and Jimmy Marinos in 1979 is included on the band 's self - titled debut album ( 1980 ) , and was also released as a single . Marinos , the band 's drummer , is the lead vocalist on the song . The band filmed a music video for the song that appeared frequently on MTV during the early 1980s ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "1389300307230755697",
+    "response": "\"I Knew the Bride When She Used to Rock and Roll\" is a song written and recorded by British singer-songwriter Nick Lowe. It was released in 1976 and became a hit single for Lowe, reaching No. 12 on the UK Singles Chart. The song has since become a classic of the pub rock and punk rock genres.",
+    "triplets": [
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "written by",
+        "Nick Lowe"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "recorded by",
+        "Nick Lowe"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "released in",
+        "1976"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "became",
+        "hit single for Nick Lowe"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "reached #12 on",
+        "UK Singles Chart"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "genre",
+        "pub rock"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "genre",
+        "punk rock"
+      ],
+      [
+        "I Knew the Bride When She Used to Rock and Roll",
+        "became",
+        "classic"
+      ]
+    ],
+    "reference": [
+      "`` I Knew the Bride ( When She Used to Rock ' n ' Roll ) '' is a song written by Nick Lowe and first popularized by Dave Edmunds . It was released on Edmunds 's 1977 album Get It and a year later in a live version by Nick Lowe 's Last Chicken in the Shop on Live Stiffs Live ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "2191432481376971337",
+    "response": "The Baltimore Colts were owned by Robert Irsay when they left Baltimore in 1984. Irsay had purchased the team in 1972 from the estate of the team's founder, Carroll Rosenbloom. At the time, the Colts were struggling financially and had been losing money for several years. Irsay was a successful businessman who had made his fortune in the oil and gas industry, and he was able to provide the financial stability that the team needed.\n\nHowever, Irsay's ownership of the Colts was not without controversy. He was known for being a hands-on owner who was heavily involved in the team's operations, and he often clashed with the team's coaches and players. In 1984, Irsay decided to move the Colts to Indianapolis, Indiana, citing a lack of fan support and inadequate facilities in Baltimore. The move was met with widespread criticism and anger from Baltimore fans, who felt betrayed by Irsay's decision to leave the city that had supported the team for over 30 years.\n\nDespite the controversy surrounding his ownership, Irsay's legacy in Baltimore is complex. On the one hand, he helped to save the team from financial ruin and provided stability during a time of turmoil. On the other hand, his decision to",
+    "triplets": [
+      [
+        "Baltimore Colts",
+        "owned by",
+        "Robert Irsay"
+      ],
+      [
+        "Robert Irsay",
+        "purchased",
+        "Baltimore Colts"
+      ],
+      [
+        "Robert Irsay",
+        "purchased Baltimore Colts from",
+        "estate of Carroll Rosenbloom"
+      ],
+      [
+        "Carroll Rosenbloom",
+        "founder of",
+        "Baltimore Colts"
+      ],
+      [
+        "Robert Irsay",
+        "made fortune in",
+        "oil and gas industry"
+      ],
+      [
+        "Robert Irsay",
+        "provided financial stability to",
+        "Baltimore Colts"
+      ],
+      [
+        "Robert Irsay",
+        "known as",
+        "hands-on owner"
+      ],
+      [
+        "Robert Irsay",
+        "heavily involved in",
+        "team operations of Baltimore Colts"
+      ],
+      [
+        "Robert Irsay",
+        "often clashed with",
+        "coaches and players of Baltimore Colts"
+      ],
+      [
+        "Robert Irsay",
+        "decided to move",
+        "Baltimore Colts"
+      ],
+      [
+        "Robert Irsay",
+        "moved Baltimore Colts to",
+        "Indianapolis, Indiana"
+      ],
+      [
+        "Robert Irsay",
+        "cited lack of fan support in",
+        "Baltimore"
+      ],
+      [
+        "Robert Irsay",
+        "cited inadequate facilities in",
+        "Baltimore"
+      ],
+      [
+        "Move of Baltimore Colts",
+        "met with",
+        "widespread criticism"
+      ],
+      [
+        "Move of Baltimore Colts",
+        "met with",
+        "anger from Baltimore fans"
+      ],
+      [
+        "Baltimore fans",
+        "felt betrayed by",
+        "Robert Irsay's decision to leave Baltimore"
+      ]
+    ],
+    "reference": [
+      "The Baltimore Colts relocation to Indianapolis was a successful effort by the then - owner of the Baltimore Colts ( Robert Irsay ) to move the American football team from Baltimore , Maryland to Indianapolis , Indiana . The team began play as the Indianapolis Colts for the 1984 National Football League ( NFL ) season . The Colts ' move was completely unannounced and occurred in the early hours of March 29 , 1984 , after years of lobbying for a new stadium to replace the inadequate Memorial Stadium . The franchise 's move continues to embitter many Baltimore natives decades afterward , and would have a lasting impact on the NFL , including another controversial relocation twelve years later that resulted in Baltimore receiving its current NFL team , the Ravens ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-5489426796364143729",
+    "response": "The first President of the Constituent Assembly of India was Dr. Rajendra Prasad. He was elected as the President of the Constituent Assembly on December 11, 1946, and served in this position until the adoption of the Constitution of India on November 26, 1949. Dr. Rajendra Prasad later went on to become the first President of India, serving from 1950 to 1962.",
+    "triplets": [
+      [
+        "The first President of the Constituent Assembly of India",
+        "was",
+        "Dr. Rajendra Prasad"
+      ],
+      [
+        "Dr. Rajendra Prasad",
+        "elected as President of the Constituent Assembly on",
+        "December 11, 1946"
+      ],
+      [
+        "Dr. Rajendra Prasad",
+        "served as President of the Constituent Assembly",
+        "until adoption of Constitution of India on November 26, 1949"
+      ],
+      [
+        "Dr. Rajendra Prasad",
+        "later became",
+        "first President of India"
+      ],
+      [
+        "Dr. Rajendra Prasad",
+        "served as first President of India from",
+        "1950 to 1962"
+      ]
+    ],
+    "reference": [
+      "Dr. Sachchidananda Sinha was the first chairman ( temporary ) of Constituent Assembly . Later Dr. Rajendra Prasad was elected as the president and Its vice-president was Harendra Coomar Mookerjee , a Christian from Bengal and former vice-chancellor of Calcutta University . Also chairing the assembly 's Minorities Committee , Mookerjee was appointed governor of West Bengal after India became a republic . Jurist B.N. Rau was appointed constitutional adviser to the assembly ; Rau prepared the original draft of the constitution , and was later appointed a judge in the Permanent Court of International Justice in The Hague ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "3480908309420822259",
+    "response": "The song \"Should Have Been a Cowboy\" was recorded and released by American country music artist Toby Keith. It was released in May 1993 as the lead single from his self-titled debut album. The song became Keith's first number one single on the Billboard Hot Country Songs chart, and it has since become one of his signature songs.",
+    "triplets": [
+      [
+        "The song \"Should Have Been a Cowboy\"",
+        "recorded by",
+        "Toby Keith"
+      ],
+      [
+        "The song \"Should Have Been a Cowboy\"",
+        "released by",
+        "Toby Keith"
+      ],
+      [
+        "Toby Keith",
+        "is",
+        "American country music artist"
+      ],
+      [
+        "The song \"Should Have Been a Cowboy\"",
+        "released in",
+        "May 1993"
+      ],
+      [
+        "The song \"Should Have Been a Cowboy\"",
+        "lead single from album",
+        "Toby Keith (album)"
+      ],
+      [
+        "The song \"Should Have Been a Cowboy\"",
+        "became",
+        "Toby Keith's first number one single on the Billboard Hot Country Songs chart"
+      ],
+      [
+        "The song \"Should Have Been a Cowboy\"",
+        "has become",
+        "one of Toby Keith's signature songs"
+      ]
+    ],
+    "reference": [
+      "`` Should 've Been a Cowboy '' is a song written and recorded by American country music artist Toby Keith . It was released on February 8 , 1993 as his debut single , and was served as the first single released from Keith 's self - titled debut studio album , Toby Keith . On June 5 , 1993 , it reached number one on the US Hot Country Songs chart and the Canadian RPM Country Tracks . It also peaked at number 93 on the Billboard Hot 100 , making it a minor crossover hit ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "3311962143974666464",
+    "response": "The king cobra (Ophiophagus hannah) is capable of producing a large amount of venom, with a single bite capable of delivering up to 1.2 milliliters (mL) of venom. However, the amount of venom produced by a king cobra can vary depending on several factors, such as the size and age of the snake, the season, and the individual snake's overall health.\n\nOn average, a mature king cobra can produce around 200-300 mg of venom per bite, with a maximum yield of around 500-600 mg. However, some reports suggest that the venom yield can be much higher, with up to 1.5 mL (1,500 mg) of venom produced in a single bite.\n\nIt's worth noting that the venom yield of a king cobra can also vary depending on the method of venom extraction. For example, milking the venom from a live king cobra can result in a higher yield than extracting venom from a dead snake.\n\nOverall, the king cobra is considered to be one of the most venomous snakes in the world, with a potent neurotoxin that can cause respiratory failure, card",
+    "triplets": [
+      [
+        "king cobra (Ophiophagus hannah)",
+        "capable of producing",
+        "large amount of venom"
+      ],
+      [
+        "king cobra (Ophiophagus hannah)",
+        "capable of delivering",
+        "up to 1.2 milliliters (mL) of venom"
+      ],
+      [
+        "king cobra (Ophiophagus hannah) venom yield",
+        "varies depending on",
+        "size of the snake"
+      ],
+      [
+        "king cobra (Ophiophagus hannah) venom yield",
+        "varies depending on",
+        "age of the snake"
+      ],
+      [
+        "king cobra (Ophiophagus hannah) venom yield",
+        "varies depending on",
+        "season"
+      ],
+      [
+        "king cobra (Ophiophagus hannah) venom yield",
+        "varies depending on",
+        "individual snake's overall health"
+      ],
+      [
+        "mature king cobra",
+        "can produce around",
+        "200-300 mg of venom per bite"
+      ],
+      [
+        "mature king cobra",
+        "maximum venom yield",
+        "500-600 mg"
+      ],
+      [
+        "some reports",
+        "suggest",
+        "venom yield up to 1.5 mL (1,500 mg) in a single bite"
+      ],
+      [
+        "king cobra venom yield",
+        "varies depending on",
+        "method of venom extraction"
+      ],
+      [
+        "milking venom from live king cobra",
+        "results in",
+        "higher yield"
+      ],
+      [
+        "king cobra",
+        "considered",
+        "one of the most venomous snakes in the world"
+      ],
+      [
+        "king cobra venom",
+        "contains",
+        "potent neurotoxin"
+      ],
+      [
+        "king cobra neurotoxin",
+        "can cause",
+        "respiratory failure"
+      ],
+      [
+        "king cobra neurotoxin",
+        "can cause",
+        "cardiac arrest"
+      ]
+    ],
+    "reference": [
+      "This species is capable of delivering a fatal bite and the victim may receive a large quantity of venom with a dose of 200 to 500 mg up to 7 ml . Engelmann and Obst ( 1981 ) list the average venom yield at 420 mg ( dry weight ) . Accordingly , large quantities of antivenom may be needed to reverse the progression of symptoms developed if bitten by a king cobra . The toxins affect the victim 's central nervous system , resulting in severe pain , blurred vision , vertigo , drowsiness , and eventually paralysis . If the envenomation is serious , it progresses to cardiovascular collapse , and the victim falls into a coma . Death soon follows due to respiratory failure . Bites from a king cobra may result in a rapid fatality which can be as early as 30 minutes after the envenomation . The king cobra 's envenomation was even recorded to be capable of killing elephants within hours ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "2352051038192309240",
+    "response": "The brain gets its energy from the food we eat, specifically from the glucose (a type of sugar) that is present in the bloodstream. The brain is a highly energetic organ, accounting for only 2% of the body's weight but consuming approximately 20% of the body's energy expenditure at rest.\n\nThe process of providing energy to the brain is a complex one, involving several steps. Here's a simplified overview of how the brain gets its energy:\n\n1. Food consumption: We consume food that contains carbohydrates, proteins, and fats. Carbohydrates are the body's primary source of energy.\n2. Digestion: The food we eat is broken down into smaller molecules during digestion. Carbohydrates are broken down into simple sugars, such as glucose, in the small intestine.\n3. Absorption: The broken-down nutrients, including glucose, are absorbed into the bloodstream through the walls of the small intestine.\n4. Blood transport: The bloodstream carries glucose and other nutrients to the liver for processing and distribution to other parts of the body.\n5. Glycolysis: In the liver, glucose is converted into a molecule called pyruvate through a",
+    "triplets": [
+      [
+        "brain",
+        "gets energy from",
+        "food we eat"
+      ],
+      [
+        "brain",
+        "gets energy specifically from",
+        "glucose"
+      ],
+      [
+        "glucose",
+        "is a type of",
+        "sugar"
+      ],
+      [
+        "glucose",
+        "present in",
+        "bloodstream"
+      ],
+      [
+        "brain",
+        "is",
+        "highly energetic organ"
+      ],
+      [
+        "brain",
+        "accounts for",
+        "2% of body's weight"
+      ],
+      [
+        "brain",
+        "consumes around",
+        "20% of body's energy expenditure at rest"
+      ],
+      [
+        "providing energy to brain",
+        "is a",
+        "complex process"
+      ],
+      [
+        "providing energy to brain",
+        "involves",
+        "several steps"
+      ],
+      [
+        "food consumption",
+        "is a step in",
+        "providing energy to brain"
+      ],
+      [
+        "digestion",
+        "is a step in",
+        "providing energy to brain"
+      ],
+      [
+        "absorption",
+        "is a step in",
+        "providing energy to brain"
+      ],
+      [
+        "blood transport",
+        "is a step in",
+        "providing energy to brain"
+      ],
+      [
+        "glycolysis",
+        "is a step in",
+        "providing energy to brain"
+      ],
+      [
+        "carbohydrates",
+        "broken down into",
+        "glucose"
+      ],
+      [
+        "glucose",
+        "absorbed into",
+        "bloodstream"
+      ],
+      [
+        "bloodstream",
+        "carries",
+        "glucose"
+      ],
+      [
+        "liver",
+        "processes",
+        "glucose"
+      ],
+      [
+        "liver",
+        "distributes",
+        "glucose"
+      ]
+    ],
+    "reference": [
+      "Brain tissue consumes a large amount of energy in proportion to its volume , so large brains place severe metabolic demands on animals . The need to limit body weight in order , for example , to fly , has apparently led to selection for a reduction of brain size in some species , such as bats . Most of the brain 's energy consumption goes into sustaining the electric charge ( membrane potential ) of neurons . Most vertebrate species devote between 2 % and 8 % of basal metabolism to the brain . In primates , however , the percentage is much higher -- in humans it rises to 20 -- 25 % . The energy consumption of the brain does not vary greatly over time , but active regions of the cerebral cortex consume somewhat more energy than inactive regions ; this forms the basis for the functional brain imaging methods PET , fMRI , and NIRS . The brain typically gets most of its energy from oxygen - dependent metabolism of glucose ( i.e. , blood sugar ) , but ketones provide a major alternative source , together with contributions from medium chain fatty acids ( caprylic and heptanoic acids ) , lactate , acetate , and possibly amino acids ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "7735703748660141931",
+    "response": "The theme song for the TV show \"Cops\" is performed by the band Inner Circle. The song, titled \"Bad Boys,\" was released in 1993 and has been used as the theme song for the show since its debut in 1989. Inner Circle is a Jamaican reggae band that was formed in the late 1960s and has had several hit songs over the years, including \"Sweat (A La La La La)\" and \"Games People Play.\" \"Bad Boys\" has become one of the band's most recognizable and enduring songs, thanks to its use as the theme song for \"Cops.\"",
+    "triplets": [
+      [
+        "theme song for the tv show cops",
+        "performed by",
+        "Inner Circle"
+      ],
+      [
+        "Inner Circle",
+        "is a",
+        "Jamaican reggae band"
+      ],
+      [
+        "Inner Circle",
+        "formed in",
+        "the late 1960s"
+      ],
+      [
+        "Inner Circle",
+        "has had",
+        "several hit songs over the years"
+      ],
+      [
+        "Inner Circle hit songs",
+        "include",
+        "\"Sweat (A La La La La)\""
+      ],
+      [
+        "Inner Circle hit songs",
+        "include",
+        "\"Games People Play\""
+      ],
+      [
+        "theme song for Cops",
+        "titled",
+        "\"Bad Boys\""
+      ],
+      [
+        "\"Bad Boys\"",
+        "released in",
+        "1993"
+      ],
+      [
+        "\"Bad Boys\"",
+        "used as theme song for Cops since",
+        "1989"
+      ],
+      [
+        "\"Bad Boys\"",
+        "become one of",
+        "Inner Circle's most recognizable and enduring songs"
+      ],
+      [
+        "recognizability of \"Bad Boys\"",
+        "thanks to",
+        "use as theme song for \"Cops\""
+      ]
+    ],
+    "reference": [
+      "`` Bad Boys '' is a 1987 song by the Jamaican reggae band Inner Circle , which obtained high popularity in the United States after its re-release in 1993 , peaking at number 8 on the Billboard Hot 100 and number 7 on the Top 40 Mainstream . It is well known as the opening theme to the U.S. TV show Cops ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "3028343500075334931",
+    "response": "The longest-serving moderator of Meet the Press is Tim Russert, who hosted the show for 17 years, from 1991 until his death in 2008. Russert was a well-respected journalist and political analyst who was known for his tough but fair questioning of politicians and newsmakers. He was widely credited with helping to establish Meet the Press as one of the most influential and respected news programs on television.",
+    "triplets": [
+      [
+        "Tim Russert",
+        "was",
+        "moderator on Meet the Press"
+      ],
+      [
+        "Tim Russert",
+        "hosted Meet the Press for",
+        "17 years"
+      ],
+      [
+        "Tim Russert's tenure as Meet the Press moderator",
+        "from",
+        "1991"
+      ],
+      [
+        "Tim Russert's tenure as Meet the Press moderator",
+        "until",
+        "his death in 2008"
+      ],
+      [
+        "Tim Russert",
+        "known for",
+        "tough but fair questioning of politicians and newsmakers"
+      ],
+      [
+        "Tim Russert",
+        "credited with helping establish",
+        "Meet the Press as one of the most influential and respected news programs on television"
+      ],
+      [
+        "Tim Russert",
+        "had the longest tenure as moderator on",
+        "Meet the Press"
+      ]
+    ],
+    "reference": [
+      "Network officials , concerned for the show 's future , turned to Tim Russert , the network 's Washington , D.C. , bureau chief . He took over as moderator of Meet the Press on December 8 , 1991 , and remained with the program until his death on June 13 , 2008 , becoming the longest serving moderator in the program 's history ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "1848006246448298349",
+    "response": "The Killing of a Sacred Deer was filmed in various locations in the United States and Europe. The film was shot in Cincinnati, Ohio, and the surrounding areas, as well as in Dublin, Ireland, and Amsterdam, Netherlands.\n\nSome specific locations used in the film include:\n\n* Cincinnati, Ohio: The film's protagonist, Dr. Steven Murphy, lives in a wealthy suburb of Cincinnati. Many of the interior scenes, such as the Murphy family home and Dr. Murphy's medical practice, were filmed in Cincinnati.\n* Dublin, Ireland: The film's director, Yorgos Lanthimos, is Greek, but he chose to film in Ireland to take advantage of the country's tax incentives for film production. Many of the film's exterior scenes, such as the scenes set in the woods, were filmed in Dublin.\n* Amsterdam, Netherlands: Some of the film's interior scenes, such as the hotel room where Dr. Murphy meets with Martin, were filmed in Amsterdam.\n\nOverall, the film's locations were chosen for their visual appeal and their ability to create a sense of unease and discomfort, which is a hallmark of Lanthimos' filmmaking style.",
+    "triplets": [
+      [
+        "The Killing of a Sacred Deer",
+        "filmed in",
+        "Cincinnati, Ohio"
+      ],
+      [
+        "The Killing of a Sacred Deer",
+        "filmed in",
+        "Dublin, Ireland"
+      ],
+      [
+        "The Killing of a Sacred Deer",
+        "filmed in",
+        "Amsterdam, Netherlands"
+      ],
+      [
+        "Cincinnati, Ohio",
+        "location of",
+        "the Murphy family home"
+      ],
+      [
+        "Cincinnati, Ohio",
+        "location of",
+        "Dr. Murphy's medical practice"
+      ],
+      [
+        "Dublin, Ireland",
+        "location of",
+        "exterior scenes"
+      ],
+      [
+        "Dublin, Ireland",
+        "chosen for",
+        "tax incentives"
+      ],
+      [
+        "Amsterdam, Netherlands",
+        "location of",
+        "hotel room scene"
+      ],
+      [
+        "Film locations",
+        "chosen for",
+        "visual appeal"
+      ],
+      [
+        "Film locations",
+        "chosen for",
+        "sense of unease"
+      ]
+    ],
+    "reference": [
+      "As of August 23 , 2016 , the film had begun principal photography in Cincinnati , filming at The Christ Hospital . It was also shot in the Hyde Park and Northside neighborhoods . The school scenes in the film were shot at Roger Bacon High School ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-927966355158112429",
+    "response": "The group that officially elects the President of the United States is the Electoral College. The Electoral College is a process established by the Founding Fathers in the Constitution, where each state is allocated a certain number of electoral votes based on its population, and the candidate who receives the majority of the electoral votes, at least 270 out of 538, wins the presidency.\n\nThe Electoral College consists of 538 electors, with each state having a number of electors equal to its number of members in the House of Representatives plus its number of Senators. The District of Columbia also has three electors.\n\nDuring a presidential election, voters cast ballots for a candidate, but they are actually voting for a slate of electors who have pledged to support that candidate. These electors then meet in their respective state capitals to cast their electoral votes for president and vice president. The candidate who receives the majority of the electoral votes wins the presidency.\n\nThe Electoral College system has been the subject of controversy and criticism over the years, with some arguing that it is undemocratic and that it can lead to a candidate winning the presidency without receiving the most popular votes. However, others argue that the Electoral College ensures that smaller states have a voice in the election process and prevents larger states from dominating the outcome.",
+    "triplets": [
+      [
+        "The group that officially elects the President of the United States",
+        "is called",
+        "the Electoral College"
+      ],
+      [
+        "The Electoral College",
+        "is",
+        "a process established by the Founding Fathers in the Constitution"
+      ],
+      [
+        "The Electoral College",
+        "allocates",
+        "a certain number of electoral votes based on state's population"
+      ],
+      [
+        "The Electoral College",
+        "consists of",
+        "538 electors"
+      ],
+      [
+        "Each state",
+        "has",
+        "a number of electors equal to its number of members in the House of Representatives plus its number of Senators"
+      ],
+      [
+        "The District of Columbia",
+        "has",
+        "three electors"
+      ],
+      [
+        "Voters",
+        "cast ballots for",
+        "a candidate"
+      ],
+      [
+        "Voters",
+        "are actually voting for",
+        "a slate of electors who have pledged to support that candidate"
+      ],
+      [
+        "These electors",
+        "meet in",
+        "their respective state capitals"
+      ],
+      [
+        "These electors",
+        "cast",
+        "their electoral votes for president and vice president"
+      ],
+      [
+        "The Electoral College system",
+        "has been",
+        "the subject of controversy and criticism over the years"
+      ],
+      [
+        "Some",
+        "argue",
+        "it is undemocratic"
+      ],
+      [
+        "Others",
+        "argue",
+        "the Electoral College ensures that smaller states have a voice in the election process"
+      ],
+      [
+        "Others",
+        "argue",
+        "it prevents larger states from dominating the outcome"
+      ]
+    ],
+    "reference": [
+      "The election of President and Vice President of the United States is an indirect election in which citizens of the United States who are registered to vote in one of the 50 U.S. states or in Washington , D.C. cast ballots not directly for those offices , but instead for members of the U.S. Electoral College , known as electors . These electors then in turn cast direct votes , known as electoral votes , for President , and for Vice President . The candidate who receives an absolute majority of electoral votes ( at least 270 out of a total of 538 , since the Twenty - Third Amendment granting voting rights to citizens of Washington , D.C. ) is then elected to that office . If no candidate receives an absolute majority of the votes for President , the House of Representatives chooses the winner ; if no one receives an absolute majority of the votes for Vice President , then the Senate chooses the winner ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-5984668857988357373",
+    "response": "The joint between the coxal bone of the pelvis and the sacrum is called the sacroiliac joint (SI joint). It is a synovial joint that connects the auricular surface of the sacrum and the acetabulum of the coxal bone (hip bone).\n\nThe SI joint is a gliding joint, which means that it allows for movement in multiple planes, including flexion, extension, abduction, adduction, rotation, and circumduction. The joint is surrounded by a capsule and ligaments that provide stability and support.\n\nThe SI joint plays a crucial role in the transmission of forces between the pelvis and the lower extremities. It helps to absorb shock and distribute pressure during weight-bearing activities, such as walking, running, and jumping. The joint also helps to maintain proper alignment of the pelvis and lower extremities, which is essential for proper gait and balance.\n\nDysfunction or inflammation of the SI joint can cause pain and discomfort in the lower back, hips, and legs. This condition is known as sacroiliac joint dysfunction or SI joint syndrome. Treatment options for SI joint dysfunction include physical therapy, chiropractic care, and in some cases, surgery.",
+    "triplets": [
+      [
+        "The joint between the coxal bone of the pelvis and the sacrum",
+        "called",
+        "the sacroiliac joint (SI joint)"
+      ],
+      [
+        "The sacroiliac joint (SI joint)",
+        "connects",
+        "the auricular surface of the sacrum"
+      ],
+      [
+        "The sacroiliac joint (SI joint)",
+        "connects",
+        "the acetabulum of the coxal bone (hip bone)"
+      ],
+      [
+        "The SI joint",
+        "is a",
+        "gliding joint"
+      ],
+      [
+        "The SI joint",
+        "allows",
+        "movement in multiple planes, including flexion, extension, abduction, adduction, rotation, and circumduction"
+      ],
+      [
+        "The joint",
+        "is surrounded by",
+        "a capsule and ligaments"
+      ],
+      [
+        "a capsule and ligaments",
+        "provide",
+        "stability and support"
+      ],
+      [
+        "The SI joint",
+        "plays a crucial role in",
+        "the transmission of forces between the pelvis and the lower extremities"
+      ],
+      [
+        "The SI joint",
+        "helps to absorb",
+        "shock"
+      ],
+      [
+        "The SI joint",
+        "helps to distribute",
+        "pressure during weight-bearing activities, such as walking, running, and jumping"
+      ],
+      [
+        "The joint",
+        "helps to maintain",
+        "proper alignment of the pelvis and lower extremities"
+      ],
+      [
+        "proper alignment of the pelvis and lower extremities",
+        "is essential for",
+        "proper gait and balance"
+      ],
+      [
+        "Dysfunction or inflammation of the SI joint",
+        "can cause",
+        "pain and discomfort in the lower back, hips, and legs"
+      ],
+      [
+        "Dysfunction or inflammation of the SI joint",
+        "known as",
+        "sacroiliac joint dysfunction or SI joint syndrome"
+      ],
+      [
+        "Treatment options for SI joint dysfunction",
+        "include",
+        "physical therapy"
+      ],
+      [
+        "Treatment options for SI joint dysfunction",
+        "include",
+        "chiropractic care"
+      ],
+      [
+        "Treatment options for SI joint dysfunction",
+        "include",
+        "in some cases, surgery"
+      ]
+    ],
+    "reference": [
+      "The sacroiliac joint or SI joint ( SIJ ) is the joint between the sacrum and the ilium bones of the pelvis , which are connected by strong ligaments . In humans , the sacrum supports the spine and is supported in turn by an ilium on each side . The joint is a strong , weight transferral synovial plane joint with irregular elevations and depressions that produce interlocking of the two bones . The human body has two sacroiliac joints , one on the left and one on the right , that often match each other but are highly variable from person to person ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment"
     ]
   }
 ]
