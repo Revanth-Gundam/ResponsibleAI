@@ -1,6 +1,6 @@
 from transformers import AutoModel, AutoTokenizer
 
-from collector_base import ResponseCollectorBase
+from data_gen.collector_base import ResponseCollectorBase
 
 
 class ChatGLM3(ResponseCollectorBase):
