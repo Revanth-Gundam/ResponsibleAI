@@ -1,6 +1,5 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from vllm import LLM, SamplingParams
-
 from data_gen.collector_base import ResponseCollectorBase
 
 

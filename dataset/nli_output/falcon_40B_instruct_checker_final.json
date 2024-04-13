@@ -1,0 +1,1856 @@
+[
+    {
+      "id": "4073418639113603971",
+      "response": "The song 'I Dig Rock and Roll Music' was originally recorded by The Dixie Cups in 1964.",
+      "triplets": [
+        [
+          "The song 'I Dig Rock and Roll Music'",
+          "originally recorded by",
+          "The Dixie Cups"
+        ],
+        [
+          "The song 'I Dig Rock and Roll Music'",
+          "year recorded",
+          "1964"
+        ]
+      ],
+      "reference": [
+        "`` I Dig Rock and Roll Music '' is a 1967 song by the American folk group Peter , Paul and Mary , written by Paul Stookey , James Mason and Dave Dixon ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "2223188268381215709",
+      "response": "The Speaker of the House of Commons presides over the joint sessions of parliament.",
+      "triplets": [
+        [
+          "Speaker of the House of Commons",
+          "presides over",
+          "joint sessions of parliament"
+        ]
+      ],
+      "reference": [
+        "The Parliament of India is bicameral . Concurrence of both houses are required to pass any bill . However , the authors of the Constitution of India visualised situations of deadlock between the upper house i.e. Rajya Sabha and the lower house i.e. Lok Sabha . Therefore , the Constitution of India provides for Joint sittings of both the Houses to break this deadlock . The joint sitting of the Parliament is called by the President and is presided over by the Speaker or , in his absence , by the Deputy Speaker of the Lok Sabha or in his absence , the Deputy - Chairman of the Rajya Sabha . If any of the above officers are not present then any other member of the Parliament can preside by consensus of both the House ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-3476455683698256952",
+      "response": "The judge in Good Will Hunting was played by actor Robin Williams.",
+      "triplets": [
+        [
+          "judge in Good Will Hunting",
+          "played by",
+          "actor Robin Williams"
+        ]
+      ],
+      "reference": [
+        "Flynn appeared in many films shot in the New England area . In show business he goes by the name ' James P. Flynn ' . Flynn was cast as a judge in the Boston - based film Good Will Hunting in 1997 . Later , he acted in the 1999 film The Cider House Rules and What 's the Worst That Could Happen ? in 2001 . He was also a truck driver for movie production equipment during the filming of My Best Friend 's Girl in 2008 . Boston actor Tom Kemp remarked : `` ( The film The Departed ) would n't be a Boston movie without me , a Wahlberg , and Jimmy Flynn from the teamsters . ''"
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-5646056836091194880",
+      "response": "The two fibres that are made of proteins are collagen and elastin.",
+      "triplets": [
+        [
+          "collagen",
+          "is",
+          "protein fiber"
+        ],
+        [
+          "elastin",
+          "is",
+          "protein fiber"
+        ]
+      ],
+      "reference": [
+        "Animal fibers are natural fibers that consist largely of particular proteins . Instances are silk , hair / fur ( including wool ) and feathers . The animal fibers used most commonly both in the manufacturing world as well as by the hand spinners are wool from domestic sheep and silk . Also very popular are alpaca fiber and mohair from Angora goats . Unusual fibers such as Angora wool from rabbits and Chiengora from dogs also exist , but are rarely used for mass production ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Neutral",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-5003538501505873412",
+      "response": "The song 'I Dreamed a Dream' was originally sung by Susan Boyle in the 2009 film adaptation of Les Miserables.",
+      "triplets": [
+        [
+          "I Dreamed a Dream",
+          "originally sung by",
+          "Susan Boyle"
+        ],
+        [
+          "I Dreamed a Dream",
+          "song in",
+          "Les Miserables"
+        ],
+        [
+          "I Dreamed a Dream",
+          "appeared in",
+          "2009 film adaptation of Les Miserables"
+        ]
+      ],
+      "reference": [
+        "`` I Dreamed a Dream '' is a song from the musical Les Mis\u00e9rables . It is a solo that is sung by the character Fantine during the first act . The music is by Claude - Michel Sch\u00f6nberg , with orchestrations by John Cameron . The English lyrics are by Neil Diamond And Herbert Kretzmer , based on the original French libretto by Alain Boublil and Jean - Marc Natel from the original French production ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "-6500826823871433949",
+      "response": "The first person to record with the electric guitar was Les Paul in 1936.",
+      "triplets": [
+        [
+          "Les Paul",
+          "first person to record with",
+          "electric guitar"
+        ],
+        [
+          "Les Paul",
+          "recorded with electric guitar",
+          "in 1936"
+        ]
+      ],
+      "reference": [
+        "George Warren Barnes ( July 17 , 1921 -- September 5 , 1977 ) was an American swing jazz guitarist who played the first electric guitar in 1931 . He made the first commercial recording of an electric guitar on March 1 , 1938 , in sessions with Big Bill Broonzy ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "-2651390481836592629",
+      "response": "Rob Dyrdek's Fantasy Factory ended on August 12, 2013.",
+      "triplets": [
+        [
+          "Rob Dyrdek's Fantasy Factory",
+          "ended on",
+          "August 12, 2013"
+        ]
+      ],
+      "reference": [
+        "The sixth season was originally announced to be the final season , but in June 2014 , MTV announced that Fantasy Factory would return for a seventh season . The seventh season premiered on January 1 , 2015 and ended March 5 , 2015 ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "7422852161474049311",
+      "response": "Charkie is a fictional character from the children's book series Curious George. He is a yellow Labrador Retriever.",
+      "triplets": [
+        [
+          "Charkie",
+          "is a",
+          "fictional character"
+        ],
+        [
+          "Charkie",
+          "from",
+          "children's book series Curious George"
+        ],
+        [
+          "Charkie",
+          "is a",
+          "yellow Labrador Retriever"
+        ]
+      ],
+      "reference": [
+        "Charkie : A female black cocker spaniel owned by Steve and Betsy . Charkie is very hyperactive , loves doing backflips , and frequently runs away from her caretakers . She is very skilled in opening and unlocking things ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Neutral",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "238018115866608950",
+      "response": "How Deep Is Your Love was released on February 16, 1977.",
+      "triplets": [
+        [
+          "How Deep Is Your Love",
+          "released on",
+          "February 16, 1977"
+        ]
+      ],
+      "reference": [
+        "`` How Deep Is Your Love '' is a pop ballad and Rap based , written , and recorded by the Bee Gees in 1977 and released as a single in September of that year . It was ultimately used as part of the soundtrack to the film Saturday Night Fever . It was a number three hit in the United Kingdom and Australia . In the United States , it topped the Billboard Hot 100 on 24 December 1977 ( becoming the first of six consecutive US number - one hits ) , ended the 10 - week reign of Debby Boone 's `` You Light Up My Life '' and stayed in the Top 10 for a then - record 17 weeks . The single spent six weeks atop the US adult contemporary chart . It is listed at number 22 on the 55th anniversary edition of Billboard 's All Time Top 100 . Alongside `` Stayin ' Alive '' and `` Night Fever '' , it is one of the group 's three tracks on the list . The song was covered by Take That for their 1996 Greatest Hits album , reaching number - one on the UK Singles Chart for three weeks ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-6395885127392955720",
+      "response": "Jack Ryan lives in London in the novel 'Patriot Games'.",
+      "triplets": [
+        [
+          "Jack Ryan",
+          "lives in",
+          "London"
+        ],
+        [
+          "Jack Ryan",
+          "character in",
+          "novel 'Patriot Games'"
+        ]
+      ],
+      "reference": [
+        "In Patriot Games , Greer comes to Ryan and asks him to rejoin the CIA permanently as an analyst to help track down the terrorists . He declines initially , only to accept it after a failed ULA attack on the Ryans mildly wounds his pregnant wife , but severely injures his daughter outside her school . Later , while Ryan hosts the Prince and Princess of Wales at his waterfront home on Chesapeake Bay , south of Annapolis in Maryland , the IRA conducts another attack against him , which Ryan , the Prince , and close friend , Navy Commander Robert Jackson foil . Following the incident and arrests of the ULA members and Miller ( whom Ryan nearly executes with his Browning Hi Power ) , Ryan is taken to the Naval Academy hospital , where he arrives just in time for the birth of Jack Ryan Jr. , his second child ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-3170493396531530980",
+      "response": "The song 'Always Be Humble and Kind' was written by Tim McGraw, Lori McKenna, and Keith Urban.",
+      "triplets": [
+        [
+          "Always Be Humble and Kind",
+          "written by",
+          "Tim McGraw"
+        ],
+        [
+          "Always Be Humble and Kind",
+          "written by",
+          "Lori McKenna"
+        ],
+        [
+          "Always Be Humble and Kind",
+          "written by",
+          "Keith Urban"
+        ]
+      ],
+      "reference": [
+        "`` Humble and Kind '' is a song written by Lori McKenna and first released by American singer Tim McGraw on January 20 , 2016 , as the second single from his 14th studio album , Damn Country Music . McKenna later recorded her rendition of the song for her eighth studio album , The Bird and the Rifle , released in July 2016 . Among several other wins and nominations , the song won the award for Best Country Song at the 59th Annual Grammy Awards , `` Video of the Year '' at the 2016 CMT Music Awards , `` Song of the Year '' at 2016 CMA Awards and `` Country Song of the Year '' at 2016 American Music Awards . It has been certified platinum and reached the number one position on the country music charts in both Canada and the United States ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-4283464153717448291",
+      "response": "Mrs. Trumbull was played by actress Mary Treen.",
+      "triplets": [
+        [
+          "Mrs. Trumbull",
+          "character in",
+          "I Love Lucy"
+        ],
+        [
+          "Mrs. Trumbull",
+          "played by",
+          "actress Mary Treen"
+        ]
+      ],
+      "reference": [
+        "Mary Elizabeth Patterson ( November 22 , 1874 -- January 31 , 1966 ) was an American theatre , film , and television character actress who gained popular recognition late in her career playing the elderly neighbor Matilda Trumbull on the television comedy series I Love Lucy ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-853451338783771197",
+      "response": "The song 'When a Man Loves a Woman' was written by Michael Bolton and Brenda Russell.",
+      "triplets": [
+        [
+          "song 'When a Man Loves a Woman'",
+          "written by",
+          "Michael Bolton"
+        ],
+        [
+          "song 'When a Man Loves a Woman'",
+          "written by",
+          "Brenda Russell"
+        ]
+      ],
+      "reference": [
+        "`` When a Man Loves a Woman '' is a song written by Calvin Lewis and Andrew Wright and first recorded by Percy Sledge in 1966 at Norala Sound Studio in Sheffield , Alabama . It made number one on both the Billboard Hot 100 and R&B singles charts . Singer and actress Bette Midler recorded the song 14 years later and had a Top 40 hit with her version in 1980 . In 1991 , Michael Bolton recorded the song and his version peaked at number one on both the Billboard Hot 100 chart and the Billboard Adult Contemporary Singles chart ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "3413977600585971868",
+      "response": "The character of John Connor was played by Michael Biehn in the original Terminator movie.",
+      "triplets": [
+        [
+          "John Connor",
+          "played by",
+          "Michael Biehn"
+        ],
+        [
+          "John Connor",
+          "character in",
+          "original Terminator movie"
+        ]
+      ],
+      "reference": [
+        "John Connor is a fictional character of the Terminator franchise . Created by writer and director James Cameron , the character is first referred to in the 1984 film The Terminator and first appears in its 1991 sequel Terminator 2 : Judgment Day initially portrayed by Michael Edwards ( briefly as the older Connor ) and then by teenage actor Edward Furlong throughout the remainder of the film ; in addition , Linda Hamilton 's real - life son Dalton Abbot played John as a toddler in a dream sequence . The character is subsequently portrayed in the films , Nick Stahl in Terminator 3 : Rise of the Machines ( 2003 ) , Christian Bale in Terminator Salvation ( 2009 ) and Jason Clarke in Terminator Genisys ( 2015 ) and from the television series Thomas Dekker and John De Vito in Terminator : The Sarah Connor Chronicles ( 2008 -- 2009 ) as the teenager and little John respectively . In the fifth film , where John Connor who becomes the T - 3000 and serves as the antagonist of the series ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-4834721811831894172",
+      "response": "The Strictly Come Dancing results show is usually recorded on Sunday evenings after the live show.",
+      "triplets": [
+        [
+          "Strictly Come Dancing results show",
+          "is recorded",
+          "on Sunday evenings"
+        ],
+        [
+          "Strictly Come Dancing results show",
+          "is recorded after",
+          "the live show"
+        ]
+      ],
+      "reference": [
+        "From Series 5 onwards , the results show is recorded on the Saturday night directly after the live show and incorporates the result of the viewers ' votes which are completed by 21 : 30 . This was confirmed by the official BBC website in 2008 :"
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-6591614197125818072",
+      "response": "The soldiers in ending the raid on the harper's ferry arsenal were led by Colonel Robert E. Lee.",
+      "triplets": [
+        [
+          "soldiers",
+          "ended",
+          "raid on the harper's ferry arsenal"
+        ],
+        [
+          "raid on the harper's ferry arsenal",
+          "location",
+          "harper's ferry"
+        ],
+        [
+          "Colonel Robert E. Lee",
+          "led",
+          "soldiers"
+        ],
+        [
+          "soldiers",
+          "ended",
+          "raid on the harper's ferry arsenal"
+        ]
+      ],
+      "reference": [
+        "John Brown 's raid on Harper 's Ferry ( also known as John Brown 's raid or The raid on Harper 's Ferry ) was an effort by armed abolitionist John Brown to initiate an armed slave revolt in 1859 by taking over a United States arsenal at Harpers Ferry , Virginia . Brown 's party of 22 was defeated by a company of U.S. Marines , led by First Lieutenant Israel Greene . Colonel Robert E. Lee was in overall command of the operation to retake the arsenal . John Brown had originally asked Harriet Tubman and Frederick Douglass , both of whom he had met in his transformative years as an abolitionist in Springfield , Massachusetts , to join him in his raid , but Tubman was prevented by illness and Douglass declined , as he believed Brown 's plan would fail ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "2339339749699668536",
+      "response": "Lady Gaga performed the halftime show at Super Bowl 51.",
+      "triplets": [
+        [
+          "Lady Gaga",
+          "performed",
+          "halftime show"
+        ],
+        [
+          "halftime show",
+          "at event",
+          "Super Bowl 51"
+        ]
+      ],
+      "reference": [
+        "The Super Bowl LI Halftime show took place on February 5 , 2017 , at NRG Stadium in Houston , Texas as part of Super Bowl LI . The show was headlined by Lady Gaga , who performed a medley of her songs , including newer material from her most recent studio album Joanne ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Entailment",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "-2419576910417046724",
+      "response": "The longest pier in the UK is the Southend Pier in Essex, which is 1.34 miles (2.16 km) long.",
+      "triplets": [
+        [
+          "Southend Pier",
+          "location",
+          "Essex"
+        ],
+        [
+          "Southend Pier",
+          "length",
+          "1.34 miles (2.16 km)"
+        ],
+        [
+          "Southend Pier",
+          "longest pier in UK",
+          "true"
+        ]
+      ],
+      "reference": [
+        "Southend Pier is a major landmark in Southend - on - Sea . Extending 1.34 miles ( 2.16 km ) into the Thames Estuary , it is the longest pleasure pier in the world . Sir John Betjeman once said that `` the Pier is Southend , Southend is the Pier '' . The pier is a Grade II listed building ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Neutral",
+        "Entailment",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "-1732734622903151644",
+      "response": "The oldest known recording of 'House of the Rising Sun' is by Clarence Ashley in 1933.",
+      "triplets": [
+        [
+          "oldest known recording of 'House of the Rising Sun'",
+          "is by",
+          "Clarence Ashley"
+        ],
+        [
+          "oldest known recording of 'House of the Rising Sun'",
+          "from year",
+          "1933"
+        ]
+      ],
+      "reference": [
+        "The oldest known recording of the song , under the title `` Rising Sun Blues '' , is by Appalachian artists Clarence `` Tom '' Ashley and Gwen Foster , who recorded it for Vocalion Records on September 6 , 1933 . Ashley said he had learned it from his grandfather , Enoch Ashley . Roy Acuff , an `` early - day friend and apprentice '' of Ashley 's , learned it from him and recorded it as `` Rising Sun '' on November 3 , 1938 . Several older blues recordings of songs with similar titles are unrelated , for example , `` Rising Sun Blues '' by Ivy Smith ( 1927 ) and `` The Risin ' Sun '' by Texas Alexander ( 1928 ) ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "583026970021621830",
+      "response": "The first home video security system was invented by Robert L. Turner in 1966.",
+      "triplets": [
+        [
+          "first home video security system",
+          "invented by",
+          "Robert L. Turner"
+        ],
+        [
+          "Robert L. Turner",
+          "invented",
+          "first home video security system"
+        ],
+        [
+          "invention of first home video security system",
+          "took place in",
+          "1966"
+        ]
+      ],
+      "reference": [
+        "Marie Van Brittan Brown ( October 30 , 1922 -- February 2 , 1999 ) was an African - American inventor , becoming the originator of the home security system ( patent number 3,482,037 ) in 1966 , along with her husband Albert Brown , a patent was granted in 1969 . Brown was born in Jamaica , Queens , New York ; she died there at the age of 76 ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "5185978890489959594",
+      "response": "I'm sorry, I cannot provide an accurate answer as the number 95 car in NASCAR is not currently driven by a specific driver.",
+      "triplets": [
+        [
+          "number 95 car in NASCAR",
+          "currently driven by",
+          "no specific driver"
+        ]
+      ],
+      "reference": [
+        "Michael Christopher McDowell ( born December 21 , 1984 ) is an American professional stock car racing driver . He currently competes full - time in the Monster Energy NASCAR Cup Series , driving the No. 95 Chevrolet SS for Leavine Family Racing ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-1531676396763282931",
+      "response": "Icarus",
+      "triplets": [
+        [
+          "Icarus",
+          "is",
+          "greek god"
+        ],
+        [
+          "Icarus",
+          "flew too close to",
+          "the sun"
+        ]
+      ],
+      "reference": [
+        "In Greek mythology , Icarus ( the Latin spelling , conventionally adopted in English ; Ancient Greek : \u1f3c\u03ba\u03b1\u03c1\u03bf\u03c2 , \u00cdkaros , Etruscan : Vikare ) is the son of the master craftsman Daedalus , the creator of the Labyrinth . Often depicted in art , Icarus and his father attempt to escape from Crete by means of wings that his father constructed from feathers and wax . Icarus ' father warns him first of complacency and then of hubris , asking that he fly neither too low nor too high , so the sea 's dampness would not clog his wings or the sun 's heat melt them . Icarus ignored his father 's instructions not to fly too close to the sun ; when the wax in his wings melted he tumbled out of the sky and fell into the sea where he drowned ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "5078709962400196312",
+      "response": "Deion Sanders played for the Atlanta Braves, Cincinnati Reds, New York Yankees, San Francisco Giants, and Atlanta Falcons.",
+      "triplets": [
+        [
+          "Deion Sanders",
+          "played for",
+          "Atlanta Braves"
+        ],
+        [
+          "Deion Sanders",
+          "played for",
+          "Cincinnati Reds"
+        ],
+        [
+          "Deion Sanders",
+          "played for",
+          "New York Yankees"
+        ],
+        [
+          "Deion Sanders",
+          "played for",
+          "San Francisco Giants"
+        ],
+        [
+          "Deion Sanders",
+          "played for",
+          "Atlanta Falcons"
+        ]
+      ],
+      "reference": [
+        "Deion Sanders Left fielder / Center fielder Born : ( 1967 - 08 - 09 ) August 9 , 1967 ( age 50 ) Fort Myers , Florida Batted : Left Threw : Left MLB debut May 31 , 1989 , for the New York Yankees Last MLB appearance June 14 , 2001 , for the Cincinnati Reds MLB statistics Batting average . 263 Hits 558 Home runs 39 Stolen bases 186 Teams New York Yankees ( 1989 -- 1990 ) Atlanta Braves ( 1991 -- 1994 ) Cincinnati Reds ( 1994 -- 1995 ) San Francisco Giants ( 1995 ) Cincinnati Reds ( 1997 , 2001 ) Career highlights and awards NL Triples champion ( 1992 )"
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-7296166998534064378",
+      "response": "The middle sister on Full House was played by Candace Cameron Bure.",
+      "triplets": [
+        [
+          "middle sister on Full House",
+          "played by",
+          "Candace Cameron Bure"
+        ]
+      ],
+      "reference": [
+        "Stephanie Judith Tanner ( portrayed by Jodie Sweetin ) is the witty , sarcastic middle child of Danny and Pam , the younger sister of D.J. , and the older sister of Michelle . Her mother died when she was five years old . Her catchphrases during the early seasons of the series include `` how rude ! , '' `` well , pin a rose on your nose ! '' and `` hot dog '' . She eventually evolved into something of a tomboy in seasons four and five . Stephanie has a habit of spying on D.J. 's life by reading her diary and eavesdropping on her telephone calls ( having been caught in the act several times ) , and is generally the most athletic and nosiest of the Tanner girls . Her best friends in school are Gia Mahan and Mickey , whom she meets in season seven ( the former is the only one who appears through to season eight ) . Of the three sisters , Stephanie has dealt with the toughest issues , such as peer pressure into smoking ( in season seven 's `` Fast Friends '' ) , `` make - out '' parties ( in season eight 's `` Making Out is Hard to Do '' ) , joyriding ( in season eight 's `` Stephanie 's Wild Ride '' ) , and uncovering a classmate 's child abuse ( in season six 's `` Silence is Not Golden '' ) , as well as the death of her mother when she was only five . In her early years , she is very sentimental about Mr. Bear , a stuffed animal that her mother gave to her after Michelle was born ( this was the focal point of the season two episode `` Goodbye Mr. Bear '' ) . She and Jesse are the most abrasive when it comes to how they feel about Kimmy Gibbler ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "734309880189507498",
+      "response": "Dwight's brother on The Office was played by actor Paul Lieberstein.",
+      "triplets": [
+        [
+          "Dwight's brother",
+          "character in",
+          "The Office"
+        ],
+        [
+          "Dwight's brother in The Office",
+          "portrayed by",
+          "Paul Lieberstein"
+        ],
+        [
+          "Paul Lieberstein",
+          "profession",
+          "actor"
+        ]
+      ],
+      "reference": [
+        "`` The Farm '' is the seventeenth episode of the ninth season of the American comedy television series The Office and the 192nd overall . It originally aired on NBC on March 14 , 2013 . The episode guest stars Matt Jones as Dwight 's cousin Zeke , Majandra Delfino as Dwight 's sister Fannie , Blake Garrett Rosenthal as his nephew , and Thomas Middleditch as his brother ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "5063128834246440475",
+      "response": "The only player to play for Manchester United, Manchester City, Liverpool, and Everton is Phil Chisnall.",
+      "triplets": [
+        [
+          "Phil Chisnall",
+          "played for",
+          "Manchester United"
+        ],
+        [
+          "Phil Chisnall",
+          "played for",
+          "Manchester City"
+        ],
+        [
+          "Phil Chisnall",
+          "played for",
+          "Liverpool"
+        ],
+        [
+          "Phil Chisnall",
+          "played for",
+          "Everton"
+        ],
+        [
+          "Phil Chisnall",
+          "only player",
+          "played for Manchester United, Manchester City, Liverpool, and Everton"
+        ]
+      ],
+      "reference": [
+        "Peter Andrew Beardsley MBE ( born 18 January 1961 ) is an English former footballer who played as a forward or midfielder between 1979 and 1999 . In 1987 , he set a record transfer fee in the English game and represented his country 59 times between 1986 and 1996 , once as captain , taking part in two FIFA World Cups ( 1986 and 1990 ) and UEFA Euro 1988 . At club level , he played for Newcastle United , Liverpool and Everton , having also had spells with Carlisle United , Manchester United , Vancouver Whitecaps , Bolton Wanderers , Manchester City , Fulham , Hartlepool United and the Melbourne Knights . He was briefly appointed as the caretaker manager of Newcastle United in 2010 ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Contradiction",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "6217752837777787594",
+      "response": "The character of Heather in Beauty and the Beast is played by actress Emma Thompson.",
+      "triplets": [
+        [
+          "Heather",
+          "character in",
+          "Beauty and the Beast"
+        ],
+        [
+          "Heather",
+          "played by",
+          "actress Emma Thompson"
+        ]
+      ],
+      "reference": [
+        "Nicole Gale Anderson ( born August 29 , 1990 ) is a Filipino - American actress . She is best known for her role as Heather Chandler on The CW series Beauty & the Beast . She is also known for her roles as Macy Misa in the Disney Channel Original Series Jonas , and as Kelly Parker and Miranda Collins respectively on the ABC Family series Make It or Break It and Ravenswood ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "6882831655380911332",
+      "response": "The city farthest from the sea in Britain is Inverness, located in the Scottish Highlands.",
+      "triplets": [
+        [
+          "Inverness",
+          "located in",
+          "Scottish Highlands"
+        ],
+        [
+          "Inverness",
+          "farthest from the sea",
+          "in Britain"
+        ]
+      ],
+      "reference": [
+        "Coton in the Elms is a village and parish in the English county of Derbyshire . At 70 miles ( 113 km ) from the coast , it is the furthest place in the United Kingdom from coastal waters . The population of the civil parish as of the 2011 census was 896 . It is located 5 miles southwest of Swadlincote and 6 miles south of Burton upon Trent ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-1222948057007052760",
+      "response": "There are 11 players on the line of scrimmage in American football.",
+      "triplets": [
+        [
+          "players on the line of scrimmage in American football",
+          "number",
+          "11"
+        ]
+      ],
+      "reference": [
+        "In both American and Canadian professional football , every player on the defensive team is considered eligible . The offensive team must have at least seven players lined up on the line of scrimmage . Of the players on the line of scrimmage , only the two players on the ends of the line of scrimmage are eligible receivers . The remaining players are in the backfield ( four in American football , five in Canadian football ) , including the quarterback . These backfield players are also eligible receivers . In the National Football League , a quarterback who takes his stance behind center as a T - formation quarterback is not eligible unless , before the ball is snapped , he legally moves to a position at least one yard behind the line of scrimmage or on the end of the line , and is stationary in that position for at least one second before the snap , but is nonetheless not counted toward the seven men required on the line of scrimmage ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Neutral"
+      ]
+    },
+    {
+      "id": "-278447034238251050",
+      "response": "There are 22 episodes in season 4 of My Name Is Earl.",
+      "triplets": [
+        [
+          "My Name Is Earl season 4",
+          "number of episodes",
+          "22"
+        ]
+      ],
+      "reference": [
+        "My Name Is Earl ( season 4 ) DVD cover Country of origin United States No. of episodes 27 Release Original network NBC Original release September 25 , 2008 -- May 14 , 2009 Season chronology \u2190 Previous Season 3 List of My Name Is Earl episodes"
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-4882553194262710105",
+      "response": "The salary of the US Secretary of State is $208,100 per year.",
+      "triplets": [
+        [
+          "US Secretary of State",
+          "has salary",
+          "$208,100 per year"
+        ]
+      ],
+      "reference": [
+        "The Secretary of State is nominated by the President of the United States and , following a confirmation hearing before the Senate Committee on Foreign Relations , is confirmed by the United States Senate . The Secretary of State , along with the Secretary of the Treasury , Secretary of Defense , and Attorney General , are generally regarded as the four most important Cabinet members because of the importance of their respective departments . Secretary of State is a Level I position in the Executive Schedule and thus earns the salary prescribed for that level ( currently $205,700 ) ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "5901661238535651276",
+      "response": "Nikko was played by actor Billy Gray in the 1939 film 'The Wizard of Oz'.",
+      "triplets": [
+        [
+          "Nikko",
+          "character in",
+          "The Wizard of Oz"
+        ],
+        [
+          "Nikko",
+          "played by",
+          "Billy Gray"
+        ],
+        [
+          "Billy Gray",
+          "actor in",
+          "1939 film The Wizard of Oz"
+        ]
+      ],
+      "reference": [
+        "Patrick Walshe ( July 26 , 1900 -- December 11 , 1991 ) was an American dwarf character actor and circus performer who specialized portraying animals ( animal impersonating ) . He is best known for playing Nikko , the head of the Winged Monkeys in The Wizard of Oz . He appeared in only a few films , as most of his work was in theater , vaudeville and circus ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "5217063434217549041",
+      "response": "The sun first hits the United States in the easternmost parts of the country, such as Maine and Florida.",
+      "triplets": [
+        [
+          "sun",
+          "hits",
+          "easternmost parts of United States first"
+        ],
+        [
+          "easternmost parts of United States",
+          "include",
+          "Maine"
+        ],
+        [
+          "easternmost parts of United States",
+          "include",
+          "Florida"
+        ]
+      ],
+      "reference": [
+        "Driving or hiking to the summit of Cadillac Mountain to see `` the nation 's first sunrise '' is a popular activity among visitors of Acadia National Park . However , Cadillac only sees the first sunrise in the fall and winter , when the sun rises south of due east . During most of the spring and summer , the sun rises first on Mars Hill , 150 miles ( 240 km ) to the northeast . For a few weeks around the equinoxes , the sun rises first at West Quoddy Head in Lubec , Maine ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "4245798066923223457",
+      "response": "Kareem Abdul-Jabbar has the most All-Star MVP awards with six.",
+      "triplets": [
+        [
+          "Kareem Abdul-Jabbar",
+          "has",
+          "most All-Star MVP awards"
+        ],
+        [
+          "Kareem Abdul-Jabbar",
+          "number of All-Star MVP awards",
+          "six"
+        ]
+      ],
+      "reference": [
+        "Bob Pettit and Kobe Bryant are the only two players to win the All - Star Game MVP four times . Oscar Robertson , Michael Jordan , Shaquille O'Neal , and LeBron James have each won the award three times , while Bob Cousy , Julius Erving , Isiah Thomas , Magic Johnson , Karl Malone , Allen Iverson , and Russell Westbrook have all won the award twice . James ' first All - Star MVP in 2006 made him the youngest to have ever won the award at the age of 21 years , 1 month . Kyrie Irving , winner of the 2014 All - Star Game MVP , is the second - youngest at 21 years , 10 months . They are notable as being the two youngest to win the award , both as Cleveland Cavaliers . Four of the games had joint winners -- Elgin Baylor and Pettit in 1959 , John Stockton and Malone in 1993 , O'Neal and Tim Duncan in 2000 , and O'Neal and Bryant in 2009 . O'Neal became the first player in All - Star history to share two MVP awards as well as the first player to win the award with multiple teams . The Los Angeles Lakers have had eleven winners while the Boston Celtics have had eight . Duncan of the U.S. Virgin Islands and Irving of Australia are the only winners not born in the United States . Both Duncan and Irving are American citizens , but are considered `` international '' players by the NBA because they were not born in one of the fifty states or Washington , D.C. No player trained entirely outside the U.S. has won the award ; Irving lived in the U.S. since age two , and Duncan played U.S. college basketball at Wake Forest ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "8852834747561852791",
+      "response": "The idea that microorganisms play a role in disease was first established by Louis Pasteur in the 19th century.",
+      "triplets": [
+        [
+          "idea that microorganisms play a role in disease",
+          "first established by",
+          "Louis Pasteur"
+        ],
+        [
+          "Louis Pasteur",
+          "established idea",
+          "in the 19th century"
+        ]
+      ],
+      "reference": [
+        "The Italian Agostino Bassi was the first person to prove that a disease was caused by a microorganism when he conducted a series of experiments between 1808 and 1813 , demonstrating that a `` vegetable parasite '' caused a disease in silkworms known as calcinaccio -- this disease was devastating the French silk industry at the time . The `` vegetable parasite '' is now known to be a fungus pathogenic to insects called Beauveria bassiana ( named after Bassi ) ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "-5039045537721106027",
+      "response": "There are 22 episodes in season six of Nashville.",
+      "triplets": [
+        [
+          "Season six of Nashville",
+          "has",
+          "22 episodes"
+        ]
+      ],
+      "reference": [
+        "The sixth and final season of the American television drama series Nashville , created by Callie Khouri , premiered on January 4 , 2018 , on CMT . The season will consist of 16 episodes ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-8490085242981497626",
+      "response": "The song 'Gonna Sit Right Down and Write Myself a Letter' was written by Thomas 'Fats' Waller and Harry Brooks in 1935.",
+      "triplets": [
+        [
+          "song 'Gonna Sit Right Down and Write Myself a Letter'",
+          "written by",
+          "Thomas 'Fats' Waller and Harry Brooks"
+        ],
+        [
+          "song 'Gonna Sit Right Down and Write Myself a Letter'",
+          "written in",
+          "1935"
+        ]
+      ],
+      "reference": [
+        "`` I 'm Gonna Sit Right Down and Write Myself a Letter '' is a 1935 popular song with music by Fred E. Ahlert and lyrics by Joe Young . It has been recorded many times , and has become a standard of the Great American Songbook . It was popularized by Fats Waller , who recorded it in 1935 at the height of his fame ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "8361850218460994084",
+      "response": "The father of the Green Revolution in India is considered to be Dr. Norman Borlaug.",
+      "triplets": [
+        [
+          "Norman Borlaug",
+          "known as",
+          "father of green revolution in India"
+        ]
+      ],
+      "reference": [
+        "Mankombu Sambasivan Swaminathan ( born 7 August 1925 ) is an Indian geneticist and international administrator , renowned for his leading role in India 's Green Revolution a program under which high - yield varieties of wheat and rice seedlings were planted in the fields of poor farmers . Swaminathan is known as `` Indian Father of Green Revolution '' for his leadership and success in introducing and further developing high - yielding varieties of wheat in India . He is the founder and chairman of the MS Swaminathan Research Foundation . His stated vision is to rid the world of hunger and poverty . Swaminathan is an advocate of moving India to sustainable development , especially using environmentally sustainable agriculture , sustainable food security and the preservation of biodiversity , which he calls an `` evergreen revolution . ''"
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "5259818422556035007",
+      "response": "The Beatles",
+      "triplets": [
+        [
+          "good night",
+          "sung by",
+          "The Beatles"
+        ]
+      ],
+      "reference": [
+        "`` Good Night '' is a song by the Beatles , composed by John Lennon , but credited to Lennon - McCartney . It is sung by Ringo Starr , the only Beatle to appear on the track . The music was provided by an orchestra arranged and conducted by George Martin . It is the last song on the Beatles ' 1968 album The Beatles ( also known as the `` White Album '' ) ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment"
+      ]
+    },
+    {
+      "id": "465961107727601737",
+      "response": "The Chief Justice of the Illinois Supreme Court is elected by the Illinois General Assembly.",
+      "triplets": [
+        [
+          "Chief Justice of the Illinois Supreme Court",
+          "elected by",
+          "Illinois General Assembly"
+        ]
+      ],
+      "reference": [
+        "The Supreme Court of Illinois is the state supreme court , the highest court of the state of Illinois . The court 's authority is granted in Article VI of the current Illinois Constitution , which provides for seven justices elected from the five appellate judicial districts of the state : Three justices from the First District ( Cook County ) and one from each of the other four districts . Each justice is elected for a term of ten years and the chief justice is elected by the court from its members for a three - year term ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-2126374007719970792",
+      "response": "The Olympic athlete with the most medals is Soviet gymnast Larisa Latynina, who won a total of 18 medals (nine gold, five silver, and four bronze) in three Olympic Games (1956, 1960, and 1964).",
+      "triplets": [
+        [
+          "Larisa Latynina",
+          "is",
+          "Soviet gymnast"
+        ],
+        [
+          "Larisa Latynina",
+          "won",
+          "18 medals"
+        ],
+        [
+          "18 medals won by Larisa Latynina",
+          "comprise",
+          "9 gold medals"
+        ],
+        [
+          "18 medals won by Larisa Latynina",
+          "comprise",
+          "5 silver medals"
+        ],
+        [
+          "18 medals won by Larisa Latynina",
+          "comprise",
+          "4 bronze medals"
+        ],
+        [
+          "18 medals",
+          "won in",
+          "3 Olympic Games"
+        ],
+        [
+          "3 Olympic Games",
+          "are",
+          "1956 Olympics"
+        ],
+        [
+          "3 Olympic Games",
+          "are",
+          "1960 Olympics"
+        ],
+        [
+          "3 Olympic Games",
+          "are",
+          "1964 Olympics"
+        ],
+        [
+          "Larisa Latynina",
+          "holds record for",
+          "most Olympic medals won by an individual"
+        ]
+      ],
+      "reference": [
+        "American swimmer Michael Phelps has won the most Olympic medals with 28 medals ( 23 gold , 3 silver , 2 bronze ) . He is also the most decorated Olympian in individual events , with 16 medals ( 13 gold , 2 silver , 1 bronze ) . Norwegian cross-country skier Marit Bj\u00f8rgen is the most decorated Winter Olympian , with 15 medals ( 8 gold , 4 silver , and 3 bronze ) ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Neutral",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-1123449784666821676",
+      "response": "The theme song for season 5 of The Wire is called 'Way Down in the Hole' and it is performed by Tom Waits.",
+      "triplets": [
+        [
+          "theme song for season 5 of The Wire",
+          "called",
+          "'Way Down in the Hole'"
+        ],
+        [
+          "theme song for season 5 of The Wire",
+          "performed by",
+          "Tom Waits"
+        ]
+      ],
+      "reference": [
+        "The song was used as the theme for HBO 's The Wire . A different recording was used each season . Versions , in series order , were recorded by The Blind Boys of Alabama , Tom Waits , The Neville Brothers , DoMaJe , and Steve Earle . Season four 's version , performed by the Baltimore teenagers Ivan Ashford , Markel Steele , Cameron Brown , Tariq Al - Sabir and Avery Bargasse , was arranged and recorded specifically for the show . An extended version of the Blind Boys of Alabama recording was played over a montage in the series finale ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Neutral",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "4265986416867251482",
+      "response": "The submarine was not invented during the American Civil War. The first submarine was invented by a Dutchman named Cornelis Drebbel in the 17th century.",
+      "triplets": [
+        [
+          "The submarine",
+          "was not invented during",
+          "the American Civil War"
+        ],
+        [
+          "The first submarine",
+          "was invented by",
+          "Cornelis Drebbel"
+        ],
+        [
+          "Cornelis Drebbel",
+          "nationality",
+          "Dutchman"
+        ],
+        [
+          "Cornelis Drebbel",
+          "lived in",
+          "the 17th century"
+        ]
+      ],
+      "reference": [
+        "H.L. Hunley , often referred to as Hunley , was a submarine of the Confederate States of America that played a small part in the American Civil War . Hunley demonstrated the advantages and the dangers of undersea warfare . She was the first combat submarine to sink a warship ( USS Housatonic ) , although Hunley was not completely submerged and , following her successful attack , was lost along with her crew before she could return to base . The Confederacy lost 21 crewmen in three sinkings of Hunley during her short career . She was named for her inventor , Horace Lawson Hunley , shortly after she was taken into government service under the control of the Confederate States Army at Charleston , South Carolina ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction",
+        "Neutral",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "6672231732847608194",
+      "response": "The theme song for Laverne and Shirley was sung by Cyndi Grecco.",
+      "triplets": [
+        [
+          "theme song for Laverne and Shirley",
+          "sung by",
+          "Cyndi Grecco"
+        ]
+      ],
+      "reference": [
+        "Cyndi Grecco ( born May 19 , 1952 , in New York , New York ) is an American singer who performed the theme tune to the popular 1970s American television show Laverne & Shirley . Titled `` Making Our Dreams Come True '' , the song ( in which Grecco was accompanied by the Ron Hicklin Singers ) was also put out as a single and charted at # 25 on July 25 , 1976 . The song came out on the small Private Stock label ( # 45086 ) . An album followed , though a second disco - themed single , `` Dancing , Dancing '' , failed to chart . She also provided the theme to another 1970s ABC television sitcom Blansky 's Beauties . Nevertheless , Grecco remains a one - hit wonder ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment"
+      ]
+    },
+    {
+      "id": "4943207042321394497",
+      "response": "The 10 shilling note was discontinued in 1990.",
+      "triplets": [
+        [
+          "10 shilling note",
+          "went out of circulation",
+          "1990"
+        ]
+      ],
+      "reference": [
+        "A new design for ten - shilling notes was introduced in 1961 , with the old notes ceasing to be legal tender in 1962 . These new series C notes were slightly longer and narrower , and were the first ten - shilling notes to feature a portrait of Queen Elizabeth II on the front . The reverse design incorporated the logo of the Bank of England . In the late 1960s it was decided that future banknotes should feature a British historical figure on the reverse . The first such note was the series D \u00a3 20 note , first issued in 1970 , featuring William Shakespeare . A design for a ten - shilling note featuring Walter Raleigh on the reverse was approved in 1964 but was never issued . Instead , in 1969 , as part of the process of decimalisation , a new fifty pence coin was introduced as a replacement for the ten - shilling note . The principal reason for the change was economy : the notes had an average lifetime of about five months whereas coins could last at least fifty years . The series C ten shilling notes ceased to be legal tender on 22 November 1970 ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-1206653570097564556",
+      "response": "The movie Proof of Life takes place in South America, specifically in the fictional country of Tecala.",
+      "triplets": [
+        [
+          "The movie Proof of Life",
+          "takes place in",
+          "South America"
+        ],
+        [
+          "South America",
+          "contains",
+          "fictional country of Tecala"
+        ],
+        [
+          "The movie Proof of Life",
+          "takes place in",
+          "fictional country of Tecala"
+        ]
+      ],
+      "reference": [
+        "The Republic of Tecala , where most of Proof of Life is set , is a fictional South American country . Tecala has long been the scene of an internal conflict between its government forces and the Liberation Army of Tecala ( ELT ) . The ELT was originally a Marxist guerrilla group supported by the Soviet Union , but after the Soviet Union 's dissolution in 1991 , the ELT 's primary source of funding fell through , and they began kidnapping people for ransom to fund their operations . A map seen in the film is that of Ecuador . The country 's capital Quito was chosen along with the eastern jungle and the nearby city of Ba\u00f1os de Agua Santa in the Ecuadorian Andes ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "6405015309290964923",
+      "response": "The saying'monkey's uncle' is believed to have originated in the 19th century and is used to express disbelief or surprise. It is unclear where the phrase originated from, but it is believed to have originated in the United States.",
+      "triplets": [
+        [
+          "saying 'monkey's uncle'",
+          "originated",
+          "19th century"
+        ],
+        [
+          "saying 'monkey's uncle'",
+          "used to express",
+          "disbelief or surprise"
+        ],
+        [
+          "saying 'monkey's uncle'",
+          "origin",
+          "unclear"
+        ],
+        [
+          "saying 'monkey's uncle'",
+          "believed originated in",
+          "United States"
+        ]
+      ],
+      "reference": [
+        "The term monkey 's uncle , most notably seen in the idiom `` ( well ) I 'll be a monkey 's uncle '' , is used to express complete surprise , amazement or disbelief . It can also be used to acknowledge the impossibility of a situation , in the same way that `` pigs might fly '' is used . An example is if one says : `` I may agree that if two plus two equals five , then I am a monkey 's uncle '' . `` I 'll be a monkey 's uncle '' has been said to date from after 1925 , the date of the widely publicized Scopes Trial in the United States , where the term first appears . The Oxford English Dictionary 's earliest example is the phrase If that 's a joke I 'm a monkey 's uncle , from an Ohio newspaper on 8 February 1925 . It was originally a sarcastic remark made by creationists . The notion `` that ( people ) were descended from apes was considered blasphemous ... by Darwin 's contemporaries '' , and it was for this reason that the sarcastic phrase came into use ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "3790834797035922554",
+      "response": "&lt;/a&gt;\nThe Vice President of the United States breaks a tie in the Senate.",
+      "triplets": [
+        [
+          "Vice President of the United States",
+          "breaks",
+          "tie in the Senate"
+        ]
+      ],
+      "reference": [
+        "The Vice President of the United States is the ex officio President of the Senate , as provided in Article I , Section 3 , Clause 4 , of the United States Constitution , but may only vote in order to break a tie . According to the U.S. Senate , as of February 28 , 2018 , a tie - breaking vote had been cast 264 times by 36 vice presidents ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-6992125597790283273",
+      "response": "2018\nCanada does not observe daylight saving time.",
+      "triplets": [
+        [
+          "Canada",
+          "does not observe",
+          "daylight saving time"
+        ]
+      ],
+      "reference": [
+        "In regions where daylight saving time is used , it commences on the second Sunday of March , and standard time restarts on the first Sunday in November ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "8451264603946634151",
+      "response": "a patient who is able to move around on their own, without assistance.",
+      "triplets": [
+        [
+          "ambulatory",
+          "is a term",
+          "used in health care"
+        ],
+        [
+          "ambulatory",
+          "describes",
+          "a patient who is able to move around on their own, without assistance"
+        ]
+      ],
+      "reference": [
+        "Ambulatory care or outpatient care is medical care provided on an outpatient basis , including diagnosis , observation , consultation , treatment , intervention , and rehabilitation services . This care can include advanced medical technology and procedures even when provided outside of hospitals ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Entailment",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "6605227747829720945",
+      "response": "The width of a cricket bat varies depending on the size and type of bat. Generally, the width of a cricket bat ranges from 4.25 inches to 4.75 inches.",
+      "triplets": [
+        [
+          "width of a cricket bat",
+          "varies depending on",
+          "size and type of bat"
+        ],
+        [
+          "width of a cricket bat",
+          "ranges from",
+          "4.25 inches to 4.75 inches"
+        ]
+      ],
+      "reference": [
+        "A cricket bat is a specialised piece of equipment used by batsmen in the sport of cricket to hit the ball , typically consisting of a cane handle attached to a flat - fronted willow - wood blade . The length of the bat may be no more than 38 inches ( 965 mm ) and the width no more than 4.25 inches ( 108 mm ) . Its use is first mentioned in 1624 . Since 1979 , a rule change stipulated that bats can only be made from wood ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Neutral",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "8848582210866367992",
+      "response": "The Nobel Peace Prize for 2017 was awarded to the International Campaign to Abolish Nuclear Weapons (ICAN).",
+      "triplets": [
+        [
+          "The Nobel Peace Prize for 2017",
+          "was awarded to",
+          "the International Campaign to Abolish Nuclear Weapons (ICAN)"
+        ]
+      ],
+      "reference": [
+        "The 2017 Nobel Peace Prize was awarded to the International Campaign to Abolish Nuclear Weapons ( ICAN ) `` for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground - breaking efforts to achieve a treaty - based prohibition on such weapons , '' according to the Norwegian Nobel Committee announcement on October 6 , 2017 . The award announcement acknowledged the fact that `` the world 's nine nuclear - armed powers and their allies '' neither signed nor supported the treaty - based prohibition known as the Treaty on the Prohibition of Nuclear Weapons or nuclear ban treaty , yet in an interview Committee Chair Berit Reiss - Andersen told reporters that the award was intended to give `` encouragement to all players in the field '' to disarm . The award was hailed by civil society as well as governmental and intergovernmental representatives who support the nuclear ban treaty , but drew criticism from those opposed . At the Nobel Peace Prize award ceremony held in Oslo City Hall on December 10 , 2017 , Setsuko Thurlow , an 85 - year - old survivor of the 1945 atomic bombing of Hiroshima , and ICAN Executive Director Beatrice Fihn jointly received a medal and diploma of the award on behalf of ICAN and delivered the Nobel lecture ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment"
+      ]
+    },
+    {
+      "id": "7539197459439257235",
+      "response": "The song 'So Come and Dance with Me' is not from the movie 'Jai Ho'. It is a song by the band 'The Real Thing' and was released in 1978.",
+      "triplets": [
+        [
+          "song 'So Come and Dance with Me'",
+          "performed by",
+          "The Real Thing"
+        ],
+        [
+          "The Real Thing",
+          "released song",
+          "1978"
+        ],
+        [
+          "song 'So Come and Dance with Me'",
+          "not from movie",
+          "Jai Ho"
+        ]
+      ],
+      "reference": [
+        "`` Jai Ho '' is a song composed by A.R. Rahman for the 2008 film , Slumdog Millionaire . When Danny Boyle , the director of Slumdog Millionaire , approached Rahman to compose its soundtrack , he included the song . `` Jai Ho '' accompanies a choreographed dance sequence at the end credits of Slumdog Millionaire . The song features vocals from Sukhvinder Singh , Mahalaxmi Iyer and Vijay Prakash in Hindi , Urdu and Punjabi . Indian singer Tanvi Shah wrote and provided vocals for a Spanish section of the song . `` Jai Ho '' is a Hindi phrase which can be roughly translated as `` Let ( the ) victory prevail '' , `` Let there be victory '' , or `` May there always be victory '' ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Neutral",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "6403691727808631943",
+      "response": "Wind power is used most in the United States in the states of Texas, Iowa, Oklahoma, Kansas, and South Dakota.",
+      "triplets": [
+        [
+          "wind power",
+          "used most in",
+          "Texas"
+        ],
+        [
+          "wind power",
+          "used most in",
+          "Iowa"
+        ],
+        [
+          "wind power",
+          "used most in",
+          "Oklahoma"
+        ],
+        [
+          "wind power",
+          "used most in",
+          "Kansas"
+        ],
+        [
+          "wind power",
+          "used most in",
+          "South Dakota"
+        ]
+      ],
+      "reference": [
+        "In 2016 , Nebraska became the eighteenth state to have installed over 1,000 MW of wind power capacity . Texas , with over 20,000 MW of capacity , had the most installed wind power capacity of any U.S. state at the end of 2016 . Texas also had more under construction than any other state currently has installed . The state generating the highest percentage of energy from wind power is Iowa . North Dakota has the most per capita wind generation . The Alta Wind Energy Center in California is the largest wind farm in the United States with a capacity of 1548 MW . GE Energy is the largest domestic wind turbine manufacturer ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Neutral",
+        "Neutral",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "8900387163847503723",
+      "response": "The actor who played Mr. Kincaid on The Partridge Family was Dave Madden.",
+      "triplets": [
+        [
+          "Dave Madden",
+          "played role of",
+          "Mr. Kincaid"
+        ],
+        [
+          "Mr. Kincaid",
+          "character on TV show",
+          "The Partridge Family"
+        ]
+      ],
+      "reference": [
+        "David Joseph Madden ( December 17 , 1931 -- January 16 , 2014 ) was a Canadian - born American actor . His most famous role came on the 1970s sitcom The Partridge Family , in which he played the group 's manager , Reuben Kincaid , opposite Shirley Jones 's character . Madden later had a recurring role as diner customer Earl Hicks on the mid-1970s to mid-1980s sitcom , Alice ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "334627437220863517",
+      "response": "The First Battle of Ypres ended on November 22, 1914.",
+      "triplets": [
+        [
+          "First Battle of Ypres",
+          "ended on",
+          "November 22, 1914"
+        ]
+      ],
+      "reference": [
+        "First Battle of Ypres ( 19 October -- 22 November 1914 ) . During the Race to the Sea . More than 100,000 casualties ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment"
+      ]
+    },
+    {
+      "id": "1669394955232263644",
+      "response": "The Battle of Badr took place on March 17, 624 AD.",
+      "triplets": [
+        [
+          "The Battle of Badr",
+          "took place on",
+          "March 17, 624 AD"
+        ]
+      ],
+      "reference": [
+        "The Battle of Badr ( Arabic : \u063a\u0632\u0648\u0629 \u0628\u062f\u0631 \u200e \u200e ) , fought on Tuesday , 13 March 624 CE ( 17 Ramadan , 2 AH in the Islamic calendar ) in the Hejaz region of western Arabia ( present - day Saudi Arabia ) , was a key battle in the early days of Islam and a turning point in Muhammad 's struggle with his opponents among the Quraish in Mecca . The battle has been passed down in Islamic history as a decisive victory attributable to divine intervention , or by secular sources to the strategic genius of Muhammad . It is one of the few battles specifically mentioned in the Quran . All knowledge of the battle at Badr comes from traditional Islamic accounts , both hadiths and biographies of Muhammad , recorded in written form some time after the battle . There is little evidence outside of these of the battle . There are no descriptions of the battle prior to the 9th Century ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-1259577751352734948",
+      "response": "The song 'I Want to Dance with Somebody' was written by George Merrill and Shannon Rubicam.",
+      "triplets": [
+        [
+          "I Want to Dance with Somebody",
+          "written by",
+          "George Merrill"
+        ],
+        [
+          "I Want to Dance with Somebody",
+          "written by",
+          "Shannon Rubicam"
+        ]
+      ],
+      "reference": [
+        "`` I Wanna Dance with Somebody ( Who Loves Me ) '' is the first single from Whitney Houston 's second studio album Whitney . It was produced by Narada Michael Walden , and written by George Merrill and Shannon Rubicam of the band Boy Meets Girl , who had previously written the number - one Whitney Houston hit `` How Will I Know . '' The original arrangement was written for her grandnephew Mau Rosillo when he was 9 years old , as he was a well - renoun dancer ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "4674269357266381610",
+      "response": "The character of the walking boss is played by actor Strother Martin in the movie Cool Hand Luke.",
+      "triplets": [
+        [
+          "the walking boss",
+          "played by",
+          "actor Strother Martin"
+        ],
+        [
+          "Cool Hand Luke",
+          "is a",
+          "movie"
+        ]
+      ],
+      "reference": [
+        "Decorated war veteran Lucas `` Luke '' Jackson ( Paul Newman ) , is arrested for cutting parking meters off their poles one drunken night . He is sentenced to two years in prison and sent to a Florida chain gang prison run by a stern warden , the Captain ( Strother Martin ) , and a stoic rifleman , Walking Boss Godfrey ( Morgan Woodward ) , whose eyes are always covered by a pair of mirrored sunglasses. Carr ( Clifton James ) the floorwalker , tells the rules to the new set of prisoners , with any violations resulting in spending the night in `` the box , '' a small square room with limited air and very little room to move ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-7306805811512692008",
+      "response": "The Red River starts in the Texas Panhandle and flows through Oklahoma, Arkansas, and Louisiana before emptying into the Mississippi River.",
+      "triplets": [
+        [
+          "Red River",
+          "starts in",
+          "Texas Panhandle"
+        ],
+        [
+          "Red River",
+          "flows through",
+          "Oklahoma"
+        ],
+        [
+          "Red River",
+          "flows through",
+          "Arkansas"
+        ],
+        [
+          "Red River",
+          "flows through",
+          "Louisiana"
+        ],
+        [
+          "Red River",
+          "empties into",
+          "Mississippi River"
+        ]
+      ],
+      "reference": [
+        "The Red River is the second - largest river basin in the southern Great Plains . It rises in two branches in the Texas Panhandle and flows east , where it acts as the border between the states of Texas and Oklahoma . It forms a short border between Texas and Arkansas before entering Arkansas , turning south near Fulton , Arkansas , and flowing into Louisiana , where it flows into the Atchafalaya River . The total length of the river is 1,360 miles ( 2,190 km ) , with a mean flow of over 57,000 cubic feet per second ( 1,600 m / s ) at the mouth ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "2532633865902253646",
+      "response": "The song 'What I Like About You' was originally performed by The Romantics in 1979.",
+      "triplets": [
+        [
+          "What I Like About You",
+          "originally performed by",
+          "The Romantics"
+        ],
+        [
+          "What I Like About You",
+          "originally performed in",
+          "1979"
+        ]
+      ],
+      "reference": [
+        "`` What I Like About You '' is a song by American rock band The Romantics . The song , written by Romantics members Wally Palmar , Mike Skill and Jimmy Marinos in 1979 is included on the band 's self - titled debut album ( 1980 ) , and was also released as a single . Marinos , the band 's drummer , is the lead vocalist on the song . The band filmed a music video for the song that appeared frequently on MTV during the early 1980s ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Entailment",
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "1389300307230755697",
+      "response": "The song 'I Knew the Bride When She Used to Rock and Roll' was written by Tom Petty and performed by his band Tom Petty and the Heartbreakers.",
+      "triplets": [
+        [
+          "I Knew the Bride When She Used to Rock and Roll",
+          "written by",
+          "Tom Petty"
+        ],
+        [
+          "I Knew the Bride When She Used to Rock and Roll",
+          "performed by",
+          "Tom Petty and the Heartbreakers"
+        ]
+      ],
+      "reference": [
+        "`` I Knew the Bride ( When She Used to Rock ' n ' Roll ) '' is a song written by Nick Lowe and first popularized by Dave Edmunds . It was released on Edmunds 's 1977 album Get It and a year later in a live version by Nick Lowe 's Last Chicken in the Shop on Live Stiffs Live ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "2191432481376971337",
+      "response": "The Colts were owned by Robert Irsay when they left Baltimore in 1984.",
+      "triplets": [
+        [
+          "The Colts",
+          "owned by",
+          "Robert Irsay"
+        ],
+        [
+          "The Colts",
+          "left",
+          "Baltimore"
+        ],
+        [
+          "The Colts",
+          "left",
+          "Baltimore in 1984"
+        ]
+      ],
+      "reference": [
+        "The Baltimore Colts relocation to Indianapolis was a successful effort by the then - owner of the Baltimore Colts ( Robert Irsay ) to move the American football team from Baltimore , Maryland to Indianapolis , Indiana . The team began play as the Indianapolis Colts for the 1984 National Football League ( NFL ) season . The Colts ' move was completely unannounced and occurred in the early hours of March 29 , 1984 , after years of lobbying for a new stadium to replace the inadequate Memorial Stadium . The franchise 's move continues to embitter many Baltimore natives decades afterward , and would have a lasting impact on the NFL , including another controversial relocation twelve years later that resulted in Baltimore receiving its current NFL team , the Ravens ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-5489426796364143729",
+      "response": "The first president of the Constituent Assembly was Dr. Rajendra Prasad.",
+      "triplets": [
+        [
+          "The first president of the Constituent Assembly",
+          "was",
+          "Dr. Rajendra Prasad"
+        ]
+      ],
+      "reference": [
+        "Dr. Sachchidananda Sinha was the first chairman ( temporary ) of Constituent Assembly . Later Dr. Rajendra Prasad was elected as the president and Its vice-president was Harendra Coomar Mookerjee , a Christian from Bengal and former vice-chancellor of Calcutta University . Also chairing the assembly 's Minorities Committee , Mookerjee was appointed governor of West Bengal after India became a republic . Jurist B.N. Rau was appointed constitutional adviser to the assembly ; Rau prepared the original draft of the constitution , and was later appointed a judge in the Permanent Court of International Justice in The Hague ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "3480908309420822259",
+      "response": "The song 'Should Have Been a Cowboy' was written and performed by Toby Keith.",
+      "triplets": [
+        [
+          "Should Have Been a Cowboy",
+          "written by",
+          "Toby Keith"
+        ],
+        [
+          "Should Have Been a Cowboy",
+          "performed by",
+          "Toby Keith"
+        ]
+      ],
+      "reference": [
+        "`` Should 've Been a Cowboy '' is a song written and recorded by American country music artist Toby Keith . It was released on February 8 , 1993 as his debut single , and was served as the first single released from Keith 's self - titled debut studio album , Toby Keith . On June 5 , 1993 , it reached number one on the US Hot Country Songs chart and the Canadian RPM Country Tracks . It also peaked at number 93 on the Billboard Hot 100 , making it a minor crossover hit ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "3311962143974666464",
+      "response": "A king cobra can produce up to 7.5 ml of venom in a single bite.",
+      "triplets": [
+        [
+          "king cobra",
+          "venom production per bite",
+          "up to 7.5 ml"
+        ]
+      ],
+      "reference": [
+        "This species is capable of delivering a fatal bite and the victim may receive a large quantity of venom with a dose of 200 to 500 mg up to 7 ml . Engelmann and Obst ( 1981 ) list the average venom yield at 420 mg ( dry weight ) . Accordingly , large quantities of antivenom may be needed to reverse the progression of symptoms developed if bitten by a king cobra . The toxins affect the victim 's central nervous system , resulting in severe pain , blurred vision , vertigo , drowsiness , and eventually paralysis . If the envenomation is serious , it progresses to cardiovascular collapse , and the victim falls into a coma . Death soon follows due to respiratory failure . Bites from a king cobra may result in a rapid fatality which can be as early as 30 minutes after the envenomation . The king cobra 's envenomation was even recorded to be capable of killing elephants within hours ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Neutral"
+      ]
+    },
+    {
+      "id": "2352051038192309240",
+      "response": "The brain gets its energy from glucose, which is obtained from the food we eat.",
+      "triplets": [
+        [
+          "brain",
+          "gets energy from",
+          "glucose"
+        ],
+        [
+          "glucose",
+          "obtained from",
+          "food we eat"
+        ]
+      ],
+      "reference": [
+        "Brain tissue consumes a large amount of energy in proportion to its volume , so large brains place severe metabolic demands on animals . The need to limit body weight in order , for example , to fly , has apparently led to selection for a reduction of brain size in some species , such as bats . Most of the brain 's energy consumption goes into sustaining the electric charge ( membrane potential ) of neurons . Most vertebrate species devote between 2 % and 8 % of basal metabolism to the brain . In primates , however , the percentage is much higher -- in humans it rises to 20 -- 25 % . The energy consumption of the brain does not vary greatly over time , but active regions of the cerebral cortex consume somewhat more energy than inactive regions ; this forms the basis for the functional brain imaging methods PET , fMRI , and NIRS . The brain typically gets most of its energy from oxygen - dependent metabolism of glucose ( i.e. , blood sugar ) , but ketones provide a major alternative source , together with contributions from medium chain fatty acids ( caprylic and heptanoic acids ) , lactate , acetate , and possibly amino acids ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Entailment",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "7735703748660141931",
+      "response": "The theme song for the TV show Cops is performed by the band The Crystal Method.",
+      "triplets": [
+        [
+          "theme song for the TV show Cops",
+          "performed by",
+          "The Crystal Method"
+        ],
+        [
+          "The Crystal Method",
+          "is a",
+          "band"
+        ]
+      ],
+      "reference": [
+        "`` Bad Boys '' is a 1987 song by the Jamaican reggae band Inner Circle , which obtained high popularity in the United States after its re-release in 1993 , peaking at number 8 on the Billboard Hot 100 and number 7 on the Top 40 Mainstream . It is well known as the opening theme to the U.S. TV show Cops ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Neutral",
+        "Neutral"
+      ]
+    },
+    {
+      "id": "3028343500075334931",
+      "response": "The longest tenure as moderator on Meet the Press was held by Tim Russert, who hosted the show for 17 years from 1991 until his death in 2008.",
+      "triplets": [
+        [
+          "Tim Russert",
+          "longest tenure as moderator of",
+          "Meet the Press"
+        ],
+        [
+          "Tim Russert",
+          "hosted",
+          "Meet the Press"
+        ],
+        [
+          "Duration of Tim Russert hosting Meet the Press",
+          "was",
+          "17 years"
+        ],
+        [
+          "Tim Russert hosted Meet the Press",
+          "from",
+          "1991"
+        ],
+        [
+          "Tim Russert hosted Meet the Press",
+          "until",
+          "2008"
+        ],
+        [
+          "End of Tim Russert's tenure",
+          "due to",
+          "his death"
+        ],
+        [
+          "His death",
+          "year",
+          "2008"
+        ]
+      ],
+      "reference": [
+        "Network officials , concerned for the show 's future , turned to Tim Russert , the network 's Washington , D.C. , bureau chief . He took over as moderator of Meet the Press on December 8 , 1991 , and remained with the program until his death on June 13 , 2008 , becoming the longest serving moderator in the program 's history ."
+      ],
+      "Y": "Neutral",
+      "ys": [
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Entailment",
+        "Neutral",
+        "Entailment"
+      ]
+    },
+    {
+      "id": "1848006246448298349",
+      "response": "The Killing of a Sacred Deer was filmed in Athens, Greece.",
+      "triplets": [
+        [
+          "The Killing of a Sacred Deer",
+          "filmed in",
+          "Athens, Greece"
+        ]
+      ],
+      "reference": [
+        "As of August 23 , 2016 , the film had begun principal photography in Cincinnati , filming at The Christ Hospital . It was also shot in the Hyde Park and Northside neighborhoods . The school scenes in the film were shot at Roger Bacon High School ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-927966355158112429",
+      "response": "The group that officially elects the president of the United States is called the Electoral College.",
+      "triplets": [
+        [
+          "Electoral College",
+          "elects",
+          "president of the United States"
+        ]
+      ],
+      "reference": [
+        "The election of President and Vice President of the United States is an indirect election in which citizens of the United States who are registered to vote in one of the 50 U.S. states or in Washington , D.C. cast ballots not directly for those offices , but instead for members of the U.S. Electoral College , known as electors . These electors then in turn cast direct votes , known as electoral votes , for President , and for Vice President . The candidate who receives an absolute majority of electoral votes ( at least 270 out of a total of 538 , since the Twenty - Third Amendment granting voting rights to citizens of Washington , D.C. ) is then elected to that office . If no candidate receives an absolute majority of the votes for President , the House of Representatives chooses the winner ; if no one receives an absolute majority of the votes for Vice President , then the Senate chooses the winner ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment"
+      ]
+    },
+    {
+      "id": "-5984668857988357373",
+      "response": "the joint between the sacrum and the coccyx\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and the ilium of the hip bone\nthe joint between the sacrum and",
+      "triplets": [
+        [
+          "sacroiliac joint",
+          "is",
+          "joint between sacrum and ilium of hip bone"
+        ]
+      ],
+      "reference": [
+        "The sacroiliac joint or SI joint ( SIJ ) is the joint between the sacrum and the ilium bones of the pelvis , which are connected by strong ligaments . In humans , the sacrum supports the spine and is supported in turn by an ilium on each side . The joint is a strong , weight transferral synovial plane joint with irregular elevations and depressions that produce interlocking of the two bones . The human body has two sacroiliac joints , one on the left and one on the right , that often match each other but are highly variable from person to person ."
+      ],
+      "Y": "Contradiction",
+      "ys": [
+        "Contradiction"
+      ]
+    },
+    {
+      "id": "-704529031648349308",
+      "response": "The character who plays Red on Orange is the New Black is Kate Mulgrew.",
+      "triplets": [
+        [
+          "Kate Mulgrew",
+          "plays",
+          "Red"
+        ],
+        [
+          "Red",
+          "character on",
+          "Orange is the New Black"
+        ]
+      ],
+      "reference": [
+        "Katherine Kiernan Maria `` Kate '' Mulgrew ( born April 29 , 1955 ) is an American actress . She is known for the roles of Captain Kathryn Janeway on Star Trek : Voyager and Galina `` Red '' Reznikov on Orange Is the New Black . She first came to attention in the role of Mary Ryan on the daytime soap opera Ryan 's Hope . Mulgrew has won an Obie Award , and has received a Golden Globe Award and Primetime Emmy Award nomination . She is an active member of the Alzheimer 's Association National Advisory Council and the voice of Cleveland 's MetroHealth System ."
+      ],
+      "Y": "Entailment",
+      "ys": [
+        "Entailment",
+        "Entailment"
+      ]
+    }
+  ]

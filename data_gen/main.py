@@ -8,9 +8,9 @@ def get_model():
     elif args.model == 'chatglm3_6b':
         from data_gen.chatglm3_6b import ChatGLM3
         model = ChatGLM3(mname=args.model)
-    elif args.model == 'gpt4_turbo':
-        from gpt4_turbo import GPT4Turbo
-        model = GPT4Turbo(mname=args.model)
+    elif args.model == "alpaca_7b":
+        from data_gen.alpaca_7b import ChatAlpaca7B
+        model = ChatAlpaca7B(mname=args.model)
     return model
 
 def main():
