@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "4073418639113603971",
+    "response": "\"I Dig Rock and Roll Music\" is a song by the American singer-songwriter Peter, Paul and Mary. It was released in 1967 and became a hit single for the group, reaching number 9 on the Billboard Hot 100 chart. The song was written by Mike Love and Al Jardine of The Beach Boys, and it features a memorable chorus with a catchy melody and lyrics that celebrate the joy of listening to rock and roll music.",
+    "triplets": [
+      [
+        "I Dig Rock and Roll Music",
+        "is a song by",
+        "Peter, Paul and Mary"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "released in",
+        "1967"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "became",
+        "a hit single for Peter, Paul and Mary"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "reached #9 on",
+        "Billboard Hot 100 chart"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "written by",
+        "Mike Love and Al Jardine of The Beach Boys"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "has",
+        "memorable chorus with a catchy melody"
+      ],
+      [
+        "I Dig Rock and Roll Music",
+        "lyrics",
+        "celebrate the joy of listening to rock and roll music"
+      ]
+    ],
+    "reference": [
+      "`` I Dig Rock and Roll Music '' is a 1967 song by the American folk group Peter , Paul and Mary , written by Paul Stookey , James Mason and Dave Dixon ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-3339006116507262453",
+    "response": "\"I Ran (So Far Away)\" is a song by the British band A Flock of Seagulls, released in 1982. The lead vocals are performed by the band's lead singer, Mike Score.",
+    "triplets": [
+      [
+        "I Ran (So Far Away)",
+        "is a song by",
+        "the British band A Flock of Seagulls"
+      ],
+      [
+        "I Ran (So Far Away)",
+        "released in",
+        "1982"
+      ],
+      [
+        "lead vocals of I Ran (So Far Away)",
+        "performed by",
+        "Mike Score"
+      ],
+      [
+        "Mike Score",
+        "is",
+        "lead singer of A Flock of Seagulls"
+      ]
+    ],
+    "reference": [
+      "The Impalas were an American doo - wop group in the late 1950s , best known for their hit , `` Sorry ( I Ran All the Way Home ) '' ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "2223188268381215709",
+    "response": "In India, the President of India presides over the joint sessions of Parliament. The President is the head of the state and the ceremonial head of the government, and is elected by the members of the Electoral College, which consists of the elected members of both houses of Parliament and the state legislatures.\n\nWhen a joint session of Parliament is convened, the Speaker of the Lok Sabha (the lower house of Parliament) and the Chairman of the Rajya Sabha (the upper house of Parliament) jointly preside over the proceedings. However, in the event of a tie, the Speaker of the Lok Sabha has the casting vote.\n\nThe joint session of Parliament is convened by the President under Article 108 of the Constitution, which states that the President may summon a joint session of both houses of Parliament to consider a bill or any other matter that he thinks is of national importance. The President may also address the joint session and give his views on the matter being considered.\n\nDuring the joint session, the members of both houses of Parliament sit together in the Central Hall of Parliament House, and the proceedings are conducted by the Speaker of the Lok Sabha. The members of the Rajya Sabha also participate in the proceedings, but they do not have the power to vote. The joint session is usually convened to pass important legislation or to discuss matters of national importance.",
+    "triplets": [
+      [
+        "President of India",
+        "presides over",
+        "joint sessions of Parliament"
+      ],
+      [
+        "President of India",
+        "is",
+        "head of the state"
+      ],
+      [
+        "President of India",
+        "is",
+        "ceremonial head of the government"
+      ],
+      [
+        "President of India",
+        "elected by",
+        "members of the Electoral College"
+      ],
+      [
+        "Electoral College",
+        "consists of",
+        "elected members of both houses of Parliament"
+      ],
+      [
+        "Electoral College",
+        "consists of",
+        "elected members of state legislatures"
+      ],
+      [
+        "Speaker of the Lok Sabha",
+        "jointly presides over",
+        "joint session of Parliament"
+      ],
+      [
+        "Chairman of the Rajya Sabha",
+        "jointly presides over",
+        "joint session of Parliament"
+      ],
+      [
+        "Speaker of the Lok Sabha",
+        "has",
+        "casting vote"
+      ],
+      [
+        "President",
+        "may summon",
+        "joint session of both houses of Parliament"
+      ],
+      [
+        "joint session of Parliament",
+        "convened to consider",
+        "bill"
+      ],
+      [
+        "joint session of Parliament",
+        "convened to consider",
+        "any other matter of national importance"
+      ],
+      [
+        "President",
+        "may address",
+        "joint session of Parliament"
+      ],
+      [
+        "President",
+        "give views on",
+        "matter being considered"
+      ],
+      [
+        "members of both houses of Parliament",
+        "sit together",
+        "Central Hall of Parliament House"
+      ],
+      [
+        "proceedings of joint session",
+        "conducted by",
+        "Speaker of the Lok Sabha"
+      ],
+      [
+        "members of Rajya Sabha",
+        "participate in",
+        "proceedings of joint session"
+      ],
+      [
+        "members of Rajya Sabha",
+        "do not have",
+        "power to vote"
+      ],
+      [
+        "joint session",
+        "usually convened to",
+        "pass important legislation"
+      ],
+      [
+        "joint session",
+        "usually convened to",
+        "discuss matters of national importance"
+      ]
+    ],
+    "reference": [
+      "The Parliament of India is bicameral . Concurrence of both houses are required to pass any bill . However , the authors of the Constitution of India visualised situations of deadlock between the upper house i.e. Rajya Sabha and the lower house i.e. Lok Sabha . Therefore , the Constitution of India provides for Joint sittings of both the Houses to break this deadlock . The joint sitting of the Parliament is called by the President and is presided over by the Speaker or , in his absence , by the Deputy Speaker of the Lok Sabha or in his absence , the Deputy - Chairman of the Rajya Sabha . If any of the above officers are not present then any other member of the Parliament can preside by consensus of both the House ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-8883866849303680195",
+    "response": "The character of Steve Douglas' wife, known as Katie, was played by actress Marion Ross on the TV show \"My Three Sons.\" Marion Ross portrayed Katie Douglas from the show's debut in 1960 until its conclusion in 1972. Katie was depicted as a kind, caring, and supportive wife and mother who often acted as a voice of reason in the Douglas family. Marion Ross's portrayal of Katie became an iconic image of a 1960s American housewife and mother, and her character remains beloved by many fans of the show.",
+    "triplets": [
+      [
+        "Katie Douglas",
+        "played by",
+        "actress Marion Ross"
+      ],
+      [
+        "Katie Douglas",
+        "character on TV show",
+        "My Three Sons"
+      ],
+      [
+        "Katie Douglas",
+        "wife of character",
+        "Steve Douglas"
+      ],
+      [
+        "Marion Ross",
+        "portrayed",
+        "Katie Douglas"
+      ],
+      [
+        "Marion Ross",
+        "portrayed Katie Douglas",
+        "from 1960 until 1972"
+      ],
+      [
+        "My Three Sons",
+        "TV show debut",
+        "1960"
+      ],
+      [
+        "My Three Sons",
+        "TV show conclusion",
+        "1972"
+      ],
+      [
+        "Katie Douglas",
+        "depicted as",
+        "kind, caring, and supportive wife and mother"
+      ],
+      [
+        "Katie Douglas",
+        "often acted as",
+        "voice of reason in the Douglas family"
+      ],
+      [
+        "Marion Ross's portrayal of Katie Douglas",
+        "became",
+        "iconic image of a 1960s American housewife and mother"
+      ],
+      [
+        "Katie Douglas character",
+        "remains beloved by",
+        "many fans of My Three Sons"
+      ]
+    ],
+    "reference": [
+      "The following year in the tenth season , 1969 - 1970 , Steve remarries , taking widowed teacher Barbara Harper ( Beverly Garland ) as his wife ; she brings with her a 5 - year - old daughter , Dorothy `` Dodie '' ( Dawn Lyn ) , so Steven now had a stepdaughter whom he also subsequently adopts . ( Dodie is wary of Steve at first , believing that he wants her to simply forget her late father , until he explains that he wants her to always remember and love him , but since he 's no longer alive , Steve wants to raise her in his place , and hopes she 'll come to love him also . ) Also , the last year - and - a-half of the series feature fewer appearances of both Don Grady and Stanley Livingston . Grady 's character was written out of the show at the end of the 11th season , which allowed for his wife Katie and their triplet sons to remain within the Douglas household the following season ( as a structural engineer Robbie was working on a bridge construction in Peru ) . Chip and his teenaged wife Polly ( Ronne Troup ) ( who eloped after Polly 's disciplinarian father refused to sanction their marriage ) move into their own apartment ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-3476455683698256952",
+    "response": "The role of the judge in the movie \"Good Will Hunting\" was played by actor Gerald R. Molen. Molen is a veteran character actor who has appeared in numerous films and television shows throughout his career, including \"Jurassic Park,\" \"Minority Report,\" and \"The Green Mile.\" In \"Good Will Hunting,\" he played the role of Judge George Matherson, who presides over the court case of the main character, Will Hunting (played by Matt Damon), and ultimately sentences him to see a therapist, Sean Maguire (played by Robin Williams), as part of his probation.",
+    "triplets": [
+      [
+        "role of the judge in the movie \"Good Will Hunting\"",
+        "played by",
+        "actor Gerald R. Molen"
+      ],
+      [
+        "Gerald R. Molen",
+        "is",
+        "veteran character actor"
+      ],
+      [
+        "Gerald R. Molen",
+        "appeared in",
+        "numerous films and television shows throughout his career"
+      ],
+      [
+        "Gerald R. Molen",
+        "appeared in",
+        "\"Jurassic Park\""
+      ],
+      [
+        "Gerald R. Molen",
+        "appeared in",
+        "\"Minority Report\""
+      ],
+      [
+        "Gerald R. Molen",
+        "appeared in",
+        "\"The Green Mile\""
+      ],
+      [
+        "Gerald R. Molen",
+        "played",
+        "role of Judge George Matherson"
+      ],
+      [
+        "Judge George Matherson",
+        "presides over",
+        "court case of the main character, Will Hunting"
+      ],
+      [
+        "Will Hunting",
+        "played by",
+        "Matt Damon"
+      ],
+      [
+        "Judge George Matherson",
+        "sentences",
+        "Will Hunting"
+      ],
+      [
+        "Judge George Matherson",
+        "sentences Will Hunting",
+        "to see a therapist, Sean Maguire"
+      ],
+      [
+        "Sean Maguire",
+        "played by",
+        "Robin Williams"
+      ],
+      [
+        "Seeing Sean Maguire",
+        "part of",
+        "Will Hunting's probation"
+      ]
+    ],
+    "reference": [
+      "Flynn appeared in many films shot in the New England area . In show business he goes by the name ' James P. Flynn ' . Flynn was cast as a judge in the Boston - based film Good Will Hunting in 1997 . Later , he acted in the 1999 film The Cider House Rules and What 's the Worst That Could Happen ? in 2001 . He was also a truck driver for movie production equipment during the filming of My Best Friend 's Girl in 2008 . Boston actor Tom Kemp remarked : `` ( The film The Departed ) would n't be a Boston movie without me , a Wahlberg , and Jimmy Flynn from the teamsters . ''"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-5646056836091194880",
+    "response": "Two fibers made of proteins are:\n\n1. Keratin - a protein fiber found in skin, hair, and nails.\n2. Silk - a protein fiber produced by silkworms and used to make silk fabrics.",
+    "triplets": [
+      [
+        "Keratin",
+        "is a",
+        "protein fiber"
+      ],
+      [
+        "Keratin",
+        "found in",
+        "skin"
+      ],
+      [
+        "Keratin",
+        "found in",
+        "hair"
+      ],
+      [
+        "Keratin",
+        "found in",
+        "nails"
+      ],
+      [
+        "Silk",
+        "is a",
+        "protein fiber"
+      ],
+      [
+        "Silk",
+        "produced by",
+        "silkworms"
+      ],
+      [
+        "Silk",
+        "used to make",
+        "silk fabrics"
+      ]
+    ],
+    "reference": [
+      "Animal fibers are natural fibers that consist largely of particular proteins . Instances are silk , hair / fur ( including wool ) and feathers . The animal fibers used most commonly both in the manufacturing world as well as by the hand spinners are wool from domestic sheep and silk . Also very popular are alpaca fiber and mohair from Angora goats . Unusual fibers such as Angora wool from rabbits and Chiengora from dogs also exist , but are rarely used for mass production ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-5003538501505873412",
+    "response": "The song \"I Dreamed a Dream\" from the musical Les Mis\u00e9rables was sung by the character Fantine, who was played by Susan Boyle in the 2010 film adaptation. Susan Boyle's version of the song became a popular hit and peaked at number 21 on the UK Singles Chart.\n\nIn the musical, the song is sung by Fantine in Act I, Scene 3, as she reflects on her life and the dreams she had before she became a prostitute. The song is a poignant and emotional moment in the show, showcasing Fantine's vulnerability and longing for a better life.\n\nSusan Boyle's version of \"I Dreamed a Dream\" was released as a single in 2010, and it features a powerful and emotive vocal performance. The song has been widely praised for its beauty and raw emotion, and it remains one of the most iconic and memorable songs from Les Mis\u00e9rables.",
+    "triplets": [
+      [
+        "I Dreamed a Dream",
+        "song from musical",
+        "Les Mis\u00e9rables"
+      ],
+      [
+        "I Dreamed a Dream",
+        "sung by character",
+        "Fantine"
+      ],
+      [
+        "Fantine",
+        "played by",
+        "Susan Boyle"
+      ],
+      [
+        "Susan Boyle",
+        "sang",
+        "I Dreamed a Dream"
+      ],
+      [
+        "I Dreamed a Dream by Susan Boyle",
+        "peaked at #21 on",
+        "UK Singles Chart"
+      ],
+      [
+        "I Dreamed a Dream",
+        "sung by Fantine in",
+        "Act I, Scene 3 of Les Mis\u00e9rables"
+      ],
+      [
+        "I Dreamed a Dream",
+        "reflects on",
+        "Fantine's life"
+      ],
+      [
+        "I Dreamed a Dream",
+        "reflects on",
+        "Fantine's dreams before becoming prostitute"
+      ],
+      [
+        "I Dreamed a Dream",
+        "poignant and emotional moment in",
+        "Les Mis\u00e9rables"
+      ],
+      [
+        "I Dreamed a Dream",
+        "showcases",
+        "Fantine's vulnerability"
+      ],
+      [
+        "I Dreamed a Dream",
+        "showcases",
+        "Fantine's longing for better life"
+      ],
+      [
+        "Susan Boyle's I Dreamed a Dream",
+        "released as single in",
+        "2010"
+      ],
+      [
+        "Susan Boyle's I Dreamed a Dream",
+        "features",
+        "powerful and emotive vocal performance"
+      ],
+      [
+        "I Dreamed a Dream",
+        "widely praised for",
+        "beauty"
+      ],
+      [
+        "I Dreamed a Dream",
+        "widely praised for",
+        "raw emotion"
+      ],
+      [
+        "I Dreamed a Dream",
+        "one of most iconic songs from",
+        "Les Mis\u00e9rables"
+      ],
+      [
+        "I Dreamed a Dream",
+        "one of most memorable songs from",
+        "Les Mis\u00e9rables"
+      ]
+    ],
+    "reference": [
+      "`` I Dreamed a Dream '' is a song from the musical Les Mis\u00e9rables . It is a solo that is sung by the character Fantine during the first act . The music is by Claude - Michel Sch\u00f6nberg , with orchestrations by John Cameron . The English lyrics are by Neil Diamond And Herbert Kretzmer , based on the original French libretto by Alain Boublil and Jean - Marc Natel from the original French production ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-8680361524959876970",
+    "response": "The term \"Parsons nose\" is a colloquialism used in the United Kingdom and Ireland to refer to the upturned nose of a bird, particularly a bird of prey. The term is derived from the name of a famous English ornithologist, Frank Parsons, who was known for his distinctive upturned nose.\n\nParsons was a well-known birdwatcher and naturalist who lived in the early 20th century. He was particularly interested in birds of prey, and his passion for these birds led him to become a prominent figure in the field of ornithology.\n\nOver time, Parsons' distinctive nose became a recognizable feature among birdwatchers and naturalists, and it became a sort of inside joke among them to refer to the upturned nose of a bird as a \"Parsons nose.\" The term has since become widely used in the United Kingdom and Ireland, and is often used in birdwatching circles to describe the distinctive nose of a bird of prey.\n\nIt's worth noting that the term \"Parsons nose\" is not a formal scientific term, but rather a colloquialism that has been adopted by birdwatchers and naturalists as a way of describing a distinctive feature of certain birds.",
+    "triplets": [
+      [
+        "The term Parsons nose",
+        "is a colloquialism used in",
+        "the United Kingdom and Ireland"
+      ],
+      [
+        "The term Parsons nose",
+        "refers to",
+        "the upturned nose of a bird"
+      ],
+      [
+        "The term Parsons nose",
+        "particularly refers to",
+        "the upturned nose of a bird of prey"
+      ],
+      [
+        "The term Parsons nose",
+        "is derived from",
+        "the name of a famous English ornithologist, Frank Parsons"
+      ],
+      [
+        "Frank Parsons",
+        "was known for",
+        "his distinctive upturned nose"
+      ],
+      [
+        "Frank Parsons",
+        "was",
+        "a well-known birdwatcher and naturalist"
+      ],
+      [
+        "Frank Parsons",
+        "lived in",
+        "the early 20th century"
+      ],
+      [
+        "Frank Parsons",
+        "was particularly interested in",
+        "birds of prey"
+      ],
+      [
+        "Frank Parsons' distinctive nose",
+        "became",
+        "a recognizable feature among birdwatchers and naturalists"
+      ],
+      [
+        "It",
+        "became",
+        "a sort of inside joke among them to refer to the upturned nose of a bird as a Parsons nose"
+      ],
+      [
+        "The term Parsons nose",
+        "has since become",
+        "widely used in the United Kingdom and Ireland"
+      ],
+      [
+        "The term Parsons nose",
+        "is often used in",
+        "birdwatching circles"
+      ],
+      [
+        "The term Parsons nose",
+        "is",
+        "not a formal scientific term"
+      ],
+      [
+        "The term Parsons nose",
+        "is",
+        "a colloquialism"
+      ],
+      [
+        "The term Parsons nose",
+        "has been adopted by",
+        "birdwatchers and naturalists"
+      ],
+      [
+        "The term Parsons nose",
+        "is a way of describing",
+        "a distinctive feature of certain birds"
+      ]
+    ],
+    "reference": [
+      "The phrase `` parson 's nose '' comes from the notion that an English parson may ' have his nose up in the air ' , upturned like the chicken 's rear end . The term must have been known as early as around 1400 AD , when a carpenter had been contracted to provide new choir stalls for St Mary 's Church , Nantwich . The vicar was either slow to pay the artisan , or did not pay at all . In retaliation , on the last misericord in the stalls , the carpenter carved a bird with an image of that Vicar 's face with protuberant nose as rump . The carving is still visible today ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-6500826823871433949",
+    "response": "The first recorded use of an electric guitar was by jazz guitarist Charlie Christian, who recorded with the Benny Goodman Sextet in 1939. Christian was a member of the band and played a Gibson ES-150, which was one of the first commercially produced electric guitars.\n\nThe recording, which took place on August 1, 1939, was of a song called \"Flying Home,\" and it featured Christian's electric guitar playing a solo and providing rhythm accompaniment. The recording was released as a 78 rpm record and became a hit, helping to popularize the electric guitar as a jazz instrument.\n\nIt's worth noting that there were other musicians who experimented with electric guitars before Christian, but his recording with the Benny Goodman Sextet is generally considered to be the first commercial recording featuring an electric guitar.",
+    "triplets": [
+      [
+        "Charlie Christian",
+        "made",
+        "the first recorded use of an electric guitar"
+      ],
+      [
+        "Charlie Christian",
+        "recorded with",
+        "the Benny Goodman Sextet"
+      ],
+      [
+        "Recording by Charlie Christian",
+        "took place on",
+        "August 1, 1939"
+      ],
+      [
+        "Charlie Christian",
+        "played",
+        "a Gibson ES-150"
+      ],
+      [
+        "Gibson ES-150",
+        "was one of",
+        "the first commercially produced electric guitars"
+      ],
+      [
+        "Recording by Charlie Christian",
+        "released as",
+        "a 78 rpm record"
+      ],
+      [
+        "Recording by Charlie Christian",
+        "became",
+        "a hit"
+      ],
+      [
+        "Recording by Charlie Christian",
+        "helped popularize",
+        "the electric guitar as a jazz instrument"
+      ],
+      [
+        "Charlie Christian",
+        "was",
+        "a member of the Benny Goodman Sextet"
+      ],
+      [
+        "Charlie Christian",
+        "played",
+        "electric guitar"
+      ],
+      [
+        "Charlie Christian",
+        "provided",
+        "rhythm accompaniment"
+      ],
+      [
+        "Charlie Christian",
+        "played",
+        "a solo"
+      ],
+      [
+        "Recording by Charlie Christian",
+        "was of the song",
+        "\"Flying Home\""
+      ]
+    ],
+    "reference": [
+      "George Warren Barnes ( July 17 , 1921 -- September 5 , 1977 ) was an American swing jazz guitarist who played the first electric guitar in 1931 . He made the first commercial recording of an electric guitar on March 1 , 1938 , in sessions with Big Bill Broonzy ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "1851594182842213971",
+    "response": "\"Gimme Gimme Gimme\" is a popular song by Swedish pop group ABBA, and it was released in 1979. The song was written by Bj\u00f6rn Ulvaeus and Benny Andersson, and it was produced by Michael Tretow. It was released as a single in June 1979 and it appeared on the group's album \"Voulez-Vous.\" The song was a hit for ABBA, reaching the top 10 in several countries, including Sweden, Norway, Denmark, the Netherlands, and the UK.",
+    "triplets": [
+      [
+        "Gimme Gimme Gimme",
+        "is",
+        "popular song"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "performed by",
+        "Swedish pop group ABBA"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "released in",
+        "1979"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "written by",
+        "Bj\u00f6rn Ulvaeus"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "written by",
+        "Benny Andersson"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "produced by",
+        "Michael Tretow"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "released as single in",
+        "June 1979"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "appeared on album",
+        "Voulez-Vous"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "was hit for",
+        "ABBA"
+      ],
+      [
+        "Gimme Gimme Gimme",
+        "reached top 10 in",
+        "several countries"
+      ],
+      [
+        "several countries",
+        "include",
+        "Sweden"
+      ],
+      [
+        "several countries",
+        "include",
+        "Norway"
+      ],
+      [
+        "several countries",
+        "include",
+        "Denmark"
+      ],
+      [
+        "several countries",
+        "include",
+        "Netherlands"
+      ],
+      [
+        "several countries",
+        "include",
+        "UK"
+      ]
+    ],
+    "reference": [
+      "Gimme Gimme Gimme has broadcast three series and 19 episodes in total . The first series premiered on BBC Two on 8 January 1999 and lasted for six episodes , concluding on 12 February 1999 . Following this , a Millennium special was screened at the end of the year on 29 December 1999 . A second series commenced on 14 January 2000 and finished on 18 February 2000 , again including six episodes . A short sketch included as part of Comic Relief was broadcast on 16 March 2001 . Due to the high viewing figures and success the show received , it was moved to BBC One for a six - episode third series which was the last . Each episode was written by Jonathan Harvey and directed by Liddy Oldroyd for the first two series and the special ; the third series was directed by Tristram Shapeero ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-2651390481836592629",
+    "response": "Rob Dyrdek's Fantasy Factory ended in 2015 after running for six seasons. The final episode aired on March 26, 2015.",
+    "triplets": [
+      [
+        "Rob Dyrdek's Fantasy Factory",
+        "ended",
+        "2015"
+      ],
+      [
+        "Rob Dyrdek's Fantasy Factory",
+        "ran for",
+        "six seasons"
+      ],
+      [
+        "The final episode of Rob Dyrdek's Fantasy Factory",
+        "aired on",
+        "March 26, 2015"
+      ]
+    ],
+    "reference": [
+      "The sixth season was originally announced to be the final season , but in June 2014 , MTV announced that Fantasy Factory would return for a seventh season . The seventh season premiered on January 1 , 2015 and ended March 5 , 2015 ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "7422852161474049311",
+    "response": "Charkie is a fictional dog in the Curious George children's book series created by H.A. and Margret Rey. Charkie is a small, brown dog with a distinctive patch of white fur on his forehead. He is a loyal and playful companion to the main character, George, and often gets into mischief with him.\n\nCharkie's breed is not explicitly stated in the books, but based on his appearance and behavior, it is likely that he is a mixed-breed dog. Some fans of the series have speculated that Charkie may be a cross between a terrier and a beagle, due to his small size, energetic personality, and floppy ears. However, it's important to remember that Charkie is a fictional character and his appearance and behavior are intended to be humorous and endearing rather than realistic.",
+    "triplets": [
+      [
+        "Charkie",
+        "is",
+        "fictional dog"
+      ],
+      [
+        "Charkie",
+        "in",
+        "Curious George children\u2019s book series"
+      ],
+      [
+        "Curious George children\u2019s book series",
+        "created by",
+        "H.A. and Margret Rey"
+      ],
+      [
+        "Charkie",
+        "is",
+        "small, brown dog"
+      ],
+      [
+        "Charkie",
+        "has",
+        "distinctive patch of white fur on his forehead"
+      ],
+      [
+        "Charkie",
+        "is",
+        "loyal and playful companion"
+      ],
+      [
+        "Charkie",
+        "companion to",
+        "the main character, George"
+      ],
+      [
+        "Charkie",
+        "often gets into mischief with",
+        "George"
+      ],
+      [
+        "Charkie's breed",
+        "not explicitly stated in",
+        "the books"
+      ],
+      [
+        "Charkie",
+        "likely",
+        "mixed-breed dog"
+      ],
+      [
+        "Charkie",
+        "speculated to be cross between",
+        "terrier and beagle"
+      ],
+      [
+        "Charkie",
+        "has",
+        "small size"
+      ],
+      [
+        "Charkie",
+        "has",
+        "energetic personality"
+      ],
+      [
+        "Charkie",
+        "has",
+        "floppy ears"
+      ],
+      [
+        "Charkie",
+        "is",
+        "fictional character"
+      ],
+      [
+        "Charkie's appearance and behavior",
+        "intended to be",
+        "humorous and endearing"
+      ],
+      [
+        "Charkie's appearance and behavior",
+        "not intended to be",
+        "realistic"
+      ]
+    ],
+    "reference": [
+      "Charkie : A female black cocker spaniel owned by Steve and Betsy . Charkie is very hyperactive , loves doing backflips , and frequently runs away from her caretakers . She is very skilled in opening and unlocking things ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "238018115866608950",
+    "response": "\"How Deep Is Your Love\" was released in 1977. It was a hit single for the Bee Gees, and it appeared on the soundtrack to the film \"Saturday Night Fever.\" The song was written by Barry, Robin, and Maurice Gibb, and it features their signature harmonies and a catchy melody. It became one of the group's most popular songs and a classic of the disco era.",
+    "triplets": [
+      [
+        "How Deep Is Your Love",
+        "released in",
+        "1977"
+      ],
+      [
+        "How Deep Is Your Love",
+        "was",
+        "hit single"
+      ],
+      [
+        "How Deep Is Your Love",
+        "performed by",
+        "Bee Gees"
+      ],
+      [
+        "How Deep Is Your Love",
+        "appeared on soundtrack of",
+        "Saturday Night Fever"
+      ],
+      [
+        "How Deep Is Your Love",
+        "written by",
+        "Barry Gibb"
+      ],
+      [
+        "How Deep Is Your Love",
+        "written by",
+        "Robin Gibb"
+      ],
+      [
+        "How Deep Is Your Love",
+        "written by",
+        "Maurice Gibb"
+      ],
+      [
+        "How Deep Is Your Love",
+        "features",
+        "signature harmonies"
+      ],
+      [
+        "How Deep Is Your Love",
+        "features",
+        "catchy melody"
+      ],
+      [
+        "How Deep Is Your Love",
+        "became",
+        "one of the group's most popular songs"
+      ],
+      [
+        "How Deep Is Your Love",
+        "classic of",
+        "disco era"
+      ]
+    ],
+    "reference": [
+      "`` How Deep Is Your Love '' is a pop ballad and Rap based , written , and recorded by the Bee Gees in 1977 and released as a single in September of that year . It was ultimately used as part of the soundtrack to the film Saturday Night Fever . It was a number three hit in the United Kingdom and Australia . In the United States , it topped the Billboard Hot 100 on 24 December 1977 ( becoming the first of six consecutive US number - one hits ) , ended the 10 - week reign of Debby Boone 's `` You Light Up My Life '' and stayed in the Top 10 for a then - record 17 weeks . The single spent six weeks atop the US adult contemporary chart . It is listed at number 22 on the 55th anniversary edition of Billboard 's All Time Top 100 . Alongside `` Stayin ' Alive '' and `` Night Fever '' , it is one of the group 's three tracks on the list . The song was covered by Take That for their 1996 Greatest Hits album , reaching number - one on the UK Singles Chart for three weeks ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-6395885127392955720",
+    "response": "In the movie \"Patriot Games,\" Jack Ryan lives in a small town called Annapolis, Maryland. Annapolis is a real city located on the Chesapeake Bay in the state of Maryland, and it is known for its historic architecture, sailing culture, and the United States Naval Academy, which is located there.\n\nIn the movie, Jack Ryan's home is shown to be a small, cozy house in a residential neighborhood near the waterfront. The exact location of the house is not specified, but it is implied to be a modest, middle-class home that is within walking distance of the Naval Academy.\n\nIt's worth noting that the movie was filmed on location in Annapolis and other parts of Maryland, so the scenes of Jack Ryan's home and the surrounding area are meant to represent the real-life location.",
+    "triplets": [
+      [
+        "Jack Ryan",
+        "lives in",
+        "Annapolis, Maryland"
+      ],
+      [
+        "Annapolis, Maryland",
+        "is",
+        "small town"
+      ],
+      [
+        "Annapolis, Maryland",
+        "located on",
+        "Chesapeake Bay"
+      ],
+      [
+        "Annapolis, Maryland",
+        "located in state of",
+        "Maryland"
+      ],
+      [
+        "Annapolis, Maryland",
+        "known for",
+        "historic architecture"
+      ],
+      [
+        "Annapolis, Maryland",
+        "known for",
+        "sailing culture"
+      ],
+      [
+        "United States Naval Academy",
+        "located in",
+        "Annapolis, Maryland"
+      ],
+      [
+        "Jack Ryan's home",
+        "is",
+        "small, cozy house"
+      ],
+      [
+        "Jack Ryan's home",
+        "is in",
+        "residential neighborhood"
+      ],
+      [
+        "Jack Ryan's home",
+        "near",
+        "waterfront"
+      ],
+      [
+        "Jack Ryan's home",
+        "implied to be",
+        "modest, middle-class home"
+      ],
+      [
+        "Jack Ryan's home",
+        "within walking distance of",
+        "United States Naval Academy"
+      ],
+      [
+        "Patriot Games",
+        "filmed on location in",
+        "Annapolis, Maryland"
+      ],
+      [
+        "Patriot Games",
+        "filmed on location in",
+        "Maryland"
+      ]
+    ],
+    "reference": [
+      "In Patriot Games , Greer comes to Ryan and asks him to rejoin the CIA permanently as an analyst to help track down the terrorists . He declines initially , only to accept it after a failed ULA attack on the Ryans mildly wounds his pregnant wife , but severely injures his daughter outside her school . Later , while Ryan hosts the Prince and Princess of Wales at his waterfront home on Chesapeake Bay , south of Annapolis in Maryland , the IRA conducts another attack against him , which Ryan , the Prince , and close friend , Navy Commander Robert Jackson foil . Following the incident and arrests of the ULA members and Miller ( whom Ryan nearly executes with his Browning Hi Power ) , Ryan is taken to the Naval Academy hospital , where he arrives just in time for the birth of Jack Ryan Jr. , his second child ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "2536150218240275989",
+    "response": "\"I'll See You in September\" is a popular song that was recorded by various artists over the years. The version that is most commonly associated with the song's release in 1959 is the one recorded by The Tempos. The Tempos were a doo-wop group from Pittsburgh, Pennsylvania, and their version of \"I'll See You in September\" became a hit single, reaching the top 20 on the Billboard charts.\n\nHowever, the song has also been recorded by many other artists, including The Four Seasons, The Temptations, and Frankie Avalon. It has also been featured in various films, television shows, and commercials, and has become a popular standard of the era.\n\nSo, while it's difficult to say who exactly sang \"I'll See You in September\" in every instance, The Tempos' version is generally considered the definitive recording of the song.",
+    "triplets": [
+      [
+        "I'll See You in September",
+        "is",
+        "popular song"
+      ],
+      [
+        "I'll See You in September",
+        "recorded by",
+        "various artists"
+      ],
+      [
+        "The Tempos",
+        "were",
+        "doo-wop group"
+      ],
+      [
+        "The Tempos",
+        "from",
+        "Pittsburgh, Pennsylvania"
+      ],
+      [
+        "version by The Tempos",
+        "became",
+        "hit single"
+      ],
+      [
+        "version by The Tempos",
+        "reached",
+        "top 20 on Billboard charts"
+      ],
+      [
+        "song",
+        "also recorded by",
+        "The Four Seasons"
+      ],
+      [
+        "song",
+        "also recorded by",
+        "The Temptations"
+      ],
+      [
+        "song",
+        "also recorded by",
+        "Frankie Avalon"
+      ],
+      [
+        "song",
+        "featured in",
+        "various films, television shows, and commercials"
+      ],
+      [
+        "song",
+        "become",
+        "popular standard of the era"
+      ]
+    ],
+    "reference": [
+      "`` See You in September '' is a song written by Sid Wayne and Sherman Edwards . The song was first recorded by the Pittsburgh vocal group The Tempos . This first version peaked at number 23 in the summer of 1959 . The most popular version of `` See You In September '' was the version by The Happenings in 1966 , when it reached number three ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-3170493396531530980",
+    "response": "The song \"Always Be Humble and Kind\" was written by Lori McKenna, who is a singer-songwriter from Massachusetts. McKenna has been writing songs for many years and has released several albums of her own music. In addition to her own recordings, McKenna has also had her songs recorded by other artists, including Faith Hill, Tim McGraw, and Keith Urban.\n\n\"Always Be Humble and Kind\" was released in 2016 as a single by country music artist Tim McGraw, who recorded it for his album \"Damn Country Music.\" The song was a hit for McGraw, reaching the top 10 on the Billboard Country Airplay chart and being certified platinum by the RIAA.\n\nLori McKenna has said that she was inspired to write the song after a conversation with her mother, who was encouraging her to always be kind and humble in her interactions with others. McKenna has also said that she was influenced by her own experiences in the music industry, where she has seen both kindness and unkindness from various people.\n\nOverall, \"Always Be Humble and Kind\" is a song that encourages people to treat others with kindness and respect, and to avoid getting caught up in their own ego or pride. The song's message has resonated with many people, and it has become a",
+    "triplets": [
+      [
+        "Always Be Humble and Kind",
+        "written by",
+        "Lori McKenna"
+      ],
+      [
+        "Lori McKenna",
+        "is",
+        "singer-songwriter from Massachusetts"
+      ],
+      [
+        "Lori McKenna",
+        "has released",
+        "several albums of her own music"
+      ],
+      [
+        "Lori McKenna",
+        "has had her songs recorded by",
+        "Faith Hill"
+      ],
+      [
+        "Lori McKenna",
+        "has had her songs recorded by",
+        "Tim McGraw"
+      ],
+      [
+        "Lori McKenna",
+        "has had her songs recorded by",
+        "Keith Urban"
+      ],
+      [
+        "Always Be Humble and Kind",
+        "released in 2016 as single by",
+        "Tim McGraw"
+      ],
+      [
+        "Tim McGraw",
+        "recorded",
+        "Always Be Humble and Kind"
+      ],
+      [
+        "Tim McGraw",
+        "recorded Always Be Humble and Kind for",
+        "album Damn Country Music"
+      ],
+      [
+        "Always Be Humble and Kind",
+        "reached",
+        "top 10 on Billboard Country Airplay chart"
+      ],
+      [
+        "Always Be Humble and Kind",
+        "certified",
+        "platinum by RIAA"
+      ],
+      [
+        "Lori McKenna",
+        "inspired to write Always Be Humble and Kind after",
+        "conversation with her mother"
+      ],
+      [
+        "Lori McKenna's mother",
+        "encouraging her",
+        "to always be kind and humble"
+      ],
+      [
+        "Lori McKenna",
+        "influenced by",
+        "her own experiences in music industry"
+      ],
+      [
+        "Lori McKenna",
+        "saw",
+        "kindness and unkindness from various people"
+      ],
+      [
+        "Always Be Humble and Kind",
+        "encourages people",
+        "to treat others with kindness and respect"
+      ],
+      [
+        "Always Be Humble and Kind",
+        "encourages people",
+        "to avoid ego or pride"
+      ],
+      [
+        "Message of Always Be Humble and Kind",
+        "resonated with",
+        "many people"
+      ]
+    ],
+    "reference": [
+      "`` Humble and Kind '' is a song written by Lori McKenna and first released by American singer Tim McGraw on January 20 , 2016 , as the second single from his 14th studio album , Damn Country Music . McKenna later recorded her rendition of the song for her eighth studio album , The Bird and the Rifle , released in July 2016 . Among several other wins and nominations , the song won the award for Best Country Song at the 59th Annual Grammy Awards , `` Video of the Year '' at the 2016 CMT Music Awards , `` Song of the Year '' at 2016 CMA Awards and `` Country Song of the Year '' at 2016 American Music Awards . It has been certified platinum and reached the number one position on the country music charts in both Canada and the United States ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-204697481439605710",
+    "response": "\"I'm in the Mood for Dancing\" is a popular song written by Jimmy McHugh and Dorothy Fields. The song was introduced in the 1935 film \"Every Night at Eight,\" where it was performed by singer and actress Frances Langford. It has since become a jazz standard, with many cover versions recorded by various artists over the years.",
+    "triplets": [
+      [
+        "I'm in the Mood for Dancing",
+        "written by",
+        "Jimmy McHugh"
+      ],
+      [
+        "I'm in the Mood for Dancing",
+        "written by",
+        "Dorothy Fields"
+      ],
+      [
+        "I'm in the Mood for Dancing",
+        "introduced in",
+        "1935 film Every Night at Eight"
+      ],
+      [
+        "I'm in the Mood for Dancing",
+        "performed by in Every Night at Eight",
+        "Frances Langford"
+      ],
+      [
+        "I'm in the Mood for Dancing",
+        "became",
+        "jazz standard"
+      ],
+      [
+        "I'm in the Mood for Dancing",
+        "covered by",
+        "various artists"
+      ]
+    ],
+    "reference": [
+      "The song was originally recorded as part of the Nolan Sisters ' first mainstream pop album , simply titled Nolan Sisters in 1979 . It was written by Ben Findon , Mike Myers and Bob Puzey , and featured lead vocals by group member Bernie Nolan ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-4283464153717448291",
+    "response": "There is no character named Mrs. Trumbull on the classic TV show \"I Love Lucy.\" The main characters on the show are:\n\n* Lucy Ricardo (played by Lucille Ball)\n* Ricky Ricardo (played by Desi Arnaz)\n* Ethel Mertz (played by Vivian Vance)\n* Fred Mertz (played by William Frawley)\n\nThere are some recurring characters on the show, but none of them are named Mrs. Trumbull. It's possible that you're thinking of a different TV show or character.",
+    "triplets": [
+      [
+        "Lucy Ricardo",
+        "played by",
+        "Lucille Ball"
+      ],
+      [
+        "Ricky Ricardo",
+        "played by",
+        "Desi Arnaz"
+      ],
+      [
+        "Ethel Mertz",
+        "played by",
+        "Vivian Vance"
+      ],
+      [
+        "Fred Mertz",
+        "played by",
+        "William Frawley"
+      ],
+      [
+        "I Love Lucy",
+        "has main character",
+        "Lucy Ricardo"
+      ],
+      [
+        "I Love Lucy",
+        "has main character",
+        "Ricky Ricardo"
+      ],
+      [
+        "I Love Lucy",
+        "has main character",
+        "Ethel Mertz"
+      ],
+      [
+        "I Love Lucy",
+        "has main character",
+        "Fred Mertz"
+      ]
+    ],
+    "reference": [
+      "Mary Elizabeth Patterson ( November 22 , 1874 -- January 31 , 1966 ) was an American theatre , film , and television character actress who gained popular recognition late in her career playing the elderly neighbor Matilda Trumbull on the television comedy series I Love Lucy ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-853451338783771197",
+    "response": "\"When a Man Loves a Woman\" is a song written by Calvin Lewis and Andrew Wright. It was first recorded by Percy Sledge in 1966 and has since become a classic soul song. The song was a hit for Sledge, reaching the top of the Billboard Hot 100 chart and staying there for five weeks. It has been covered by many other artists, including Michael Bolton, who recorded a successful version in 1991. The song has also been featured in various films, including \"The Blues Brothers\" and \"Planes, Trains and Automobiles.\"",
+    "triplets": [
+      [
+        "When a Man Loves a Woman",
+        "written by",
+        "Calvin Lewis"
+      ],
+      [
+        "When a Man Loves a Woman",
+        "written by",
+        "Andrew Wright"
+      ],
+      [
+        "When a Man Loves a Woman",
+        "first recorded by",
+        "Percy Sledge"
+      ],
+      [
+        "When a Man Loves a Woman first recorded by Percy Sledge",
+        "year",
+        "1966"
+      ],
+      [
+        "When a Man Loves a Woman by Percy Sledge",
+        "became",
+        "classic soul song"
+      ],
+      [
+        "When a Man Loves a Woman by Percy Sledge",
+        "reached #1 on",
+        "Billboard Hot 100 chart"
+      ],
+      [
+        "When a Man Loves a Woman by Percy Sledge at #1 on Billboard Hot 100",
+        "duration",
+        "5 weeks"
+      ],
+      [
+        "When a Man Loves a Woman",
+        "covered by",
+        "Michael Bolton"
+      ],
+      [
+        "When a Man Loves a Woman covered by Michael Bolton",
+        "year",
+        "1991"
+      ],
+      [
+        "When a Man Loves a Woman covered by Michael Bolton",
+        "was",
+        "successful"
+      ],
+      [
+        "When a Man Loves a Woman",
+        "featured in",
+        "The Blues Brothers"
+      ],
+      [
+        "When a Man Loves a Woman",
+        "featured in",
+        "Planes, Trains and Automobiles"
+      ]
+    ],
+    "reference": [
+      "`` When a Man Loves a Woman '' is a song written by Calvin Lewis and Andrew Wright and first recorded by Percy Sledge in 1966 at Norala Sound Studio in Sheffield , Alabama . It made number one on both the Billboard Hot 100 and R&B singles charts . Singer and actress Bette Midler recorded the song 14 years later and had a Top 40 hit with her version in 1980 . In 1991 , Michael Bolton recorded the song and his version peaked at number one on both the Billboard Hot 100 chart and the Billboard Adult Contemporary Singles chart ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1388143263608839064",
+    "response": "The last name Waters is of English origin and is derived from the Old English word \"w\u00e6ter,\" which means \"water.\" It is believed to have originated as a topographic name for someone who lived near a body of water, such as a river, lake, or sea. It may also have been used to describe a person who worked as a waterman, such as a ferryman or a fisherman.\n\nIn some cases, the surname Waters may also be an anglicized form of the Gaelic surname MacUisce, which means \"son of the water.\" This surname was commonly found in Ireland and Scotland, where it was used to describe a person who lived near a river or stream.\n\nThe use of the surname Waters can be traced back to the Middle Ages in England, where it was first found in the counties of Yorkshire, Lincolnshire, and Norfolk. It has since spread to other parts of the world, including the United States, Canada, Australia, and New Zealand.\n\nSome notable people with the surname Waters include:\n\n* Roger Waters, British musician and songwriter, best known as a member of the rock band Pink Floyd\n* Ethel Waters, American singer and actress, known for her performances in the 1920s and 1930s\n* Muddy Waters, American blues musician,",
+    "triplets": [
+      [
+        "The last name Waters",
+        "is of",
+        "English origin"
+      ],
+      [
+        "The last name Waters",
+        "derived from",
+        "the Old English word \"w\u00e6ter\""
+      ],
+      [
+        "the Old English word \"w\u00e6ter\"",
+        "means",
+        "\"water\""
+      ],
+      [
+        "The last name Waters",
+        "originated as",
+        "a topographic name for someone who lived near a body of water"
+      ],
+      [
+        "a body of water",
+        "refers to",
+        "a river, lake, or sea"
+      ],
+      [
+        "The last name Waters",
+        "may have been used to describe",
+        "a person who worked as a waterman"
+      ],
+      [
+        "a waterman",
+        "refers to",
+        "a ferryman or a fisherman"
+      ],
+      [
+        "The surname Waters",
+        "may be",
+        "an anglicized form of the Gaelic surname MacUisce"
+      ],
+      [
+        "the Gaelic surname MacUisce",
+        "means",
+        "\"son of the water\""
+      ],
+      [
+        "The surname MacUisce",
+        "commonly found in",
+        "Ireland and Scotland"
+      ],
+      [
+        "The use of the surname Waters",
+        "can be traced back to",
+        "the Middle Ages in England"
+      ],
+      [
+        "The last name Waters",
+        "first found in",
+        "the counties of Yorkshire, Lincolnshire, and Norfolk"
+      ],
+      [
+        "The last name Waters",
+        "spread to",
+        "the United States, Canada, Australia, and New Zealand"
+      ],
+      [
+        "Notable people with the surname Waters",
+        "include",
+        "Roger Waters"
+      ],
+      [
+        "Roger Waters",
+        "is",
+        "British musician and songwriter"
+      ],
+      [
+        "Roger Waters",
+        "best known as",
+        "a member of the rock band Pink Floyd"
+      ],
+      [
+        "Notable people with the surname Waters",
+        "include",
+        "Ethel Waters"
+      ],
+      [
+        "Ethel Waters",
+        "is",
+        "American singer and actress"
+      ],
+      [
+        "Ethel Waters",
+        "known for her performances in",
+        "the 1920s and 1930s"
+      ],
+      [
+        "Notable people with the surname Waters",
+        "include",
+        "Muddy Waters"
+      ],
+      [
+        "Muddy Waters",
+        "is",
+        "American blues musician"
+      ]
+    ],
+    "reference": [
+      "Waters is a surname , derived from `` Wat '' , or `` Wa'ter '' , an old pronunciation of Gaultier or Walter , and similarly derived from the surname Watson ( `` Wat 's son '' ) . The name is common from an early date in Wales and Yorkshire . The name is currently highly concentrated in the Welsh Borders and Shropshire area of the UK ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "3413977600585971868",
+    "response": "Edward Furlong played John Connor in the original Terminator film, released in 1984. He was only 11 years old at the time of filming and his performance as the young John Connor was widely praised. Furlong's portrayal of John Connor helped establish the character as a vulnerable yet determined young boy who would grow up to become a key figure in the human resistance against Skynet, a fictional artificial intelligence that nearly wiped out humanity in a nuclear holocaust. Furlong's performance in the film helped launch his acting career, and he went on to appear in several other films and television shows throughout the 1980s and 1990s.",
+    "triplets": [
+      [
+        "Edward Furlong",
+        "played",
+        "John Connor"
+      ],
+      [
+        "John Connor",
+        "in",
+        "the original Terminator film"
+      ],
+      [
+        "the original Terminator film",
+        "released in",
+        "1984"
+      ],
+      [
+        "Edward Furlong",
+        "age at time of filming",
+        "11 years old"
+      ],
+      [
+        "Edward Furlong",
+        "performance as",
+        "the young John Connor"
+      ],
+      [
+        "Edward Furlong's portrayal of John Connor",
+        "helped establish",
+        "the character as a vulnerable yet determined young boy"
+      ],
+      [
+        "John Connor",
+        "grow up to become",
+        "a key figure in the human resistance against Skynet"
+      ],
+      [
+        "Skynet",
+        "is a",
+        "fictional artificial intelligence"
+      ],
+      [
+        "Skynet",
+        "nearly wiped out",
+        "humanity"
+      ],
+      [
+        "Skynet",
+        "caused",
+        "a nuclear holocaust"
+      ],
+      [
+        "Edward Furlong's performance in the film",
+        "helped launch",
+        "his acting career"
+      ],
+      [
+        "Edward Furlong",
+        "went on to appear in",
+        "several other films and television shows throughout the 1980s and 1990s"
+      ]
+    ],
+    "reference": [
+      "John Connor is a fictional character of the Terminator franchise . Created by writer and director James Cameron , the character is first referred to in the 1984 film The Terminator and first appears in its 1991 sequel Terminator 2 : Judgment Day initially portrayed by Michael Edwards ( briefly as the older Connor ) and then by teenage actor Edward Furlong throughout the remainder of the film ; in addition , Linda Hamilton 's real - life son Dalton Abbot played John as a toddler in a dream sequence . The character is subsequently portrayed in the films , Nick Stahl in Terminator 3 : Rise of the Machines ( 2003 ) , Christian Bale in Terminator Salvation ( 2009 ) and Jason Clarke in Terminator Genisys ( 2015 ) and from the television series Thomas Dekker and John De Vito in Terminator : The Sarah Connor Chronicles ( 2008 -- 2009 ) as the teenager and little John respectively . In the fifth film , where John Connor who becomes the T - 3000 and serves as the antagonist of the series ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-4834721811831894172",
+    "response": "The Strictly Come Dancing results show is typically recorded on Sunday evenings, directly after the live show. The exact recording time may vary depending on the schedule for a particular week, but it usually starts around 8:30 pm or 9:00 pm UK time.\n\nThe results show is pre-recorded to allow for the inclusion of votes from the viewing public, which are collected during the live show and then processed and verified before the results are announced. This process takes some time, and the producers need to ensure that the votes are accurate and reliable before announcing the results.\n\nThe pre-recording of the results show also allows for some flexibility in case of any unexpected issues or changes in the schedule. For example, if there is a technical issue during the live show, the producers can adjust the recording schedule for the results show accordingly.\n\nIt's worth noting that while the results show is pre-recorded, the content is still subject to change based on the outcome of the votes. The producers will often adjust the running order of the show, or even the content of the show, based on the results of the vote. So while the show is pre-recorded, it's still a live and unpredictable event for the contestants and the audience.",
+    "triplets": [
+      [
+        "The Strictly Come Dancing results show",
+        "typically recorded on",
+        "Sunday evenings"
+      ],
+      [
+        "The Strictly Come Dancing results show",
+        "recorded",
+        "directly after the live show"
+      ],
+      [
+        "The exact recording time",
+        "may vary depending on",
+        "the schedule for a particular week"
+      ],
+      [
+        "The exact recording time",
+        "usually starts around",
+        "8:30 pm or 9:00 pm UK time"
+      ],
+      [
+        "The results show",
+        "is",
+        "pre-recorded"
+      ],
+      [
+        "Pre-recording of the results show",
+        "allows for",
+        "inclusion of votes from the viewing public"
+      ],
+      [
+        "Votes from the viewing public",
+        "collected during",
+        "the live show"
+      ],
+      [
+        "Votes from the viewing public",
+        "processed and verified before",
+        "the results are announced"
+      ],
+      [
+        "Pre-recording of the results show",
+        "allows for",
+        "some flexibility"
+      ],
+      [
+        "The producers",
+        "can adjust",
+        "the recording schedule for the results show"
+      ],
+      [
+        "The producers",
+        "often adjust",
+        "the running order of the show"
+      ],
+      [
+        "The producers",
+        "often adjust",
+        "the content of the show"
+      ],
+      [
+        "Adjustments by the producers",
+        "based on",
+        "the results of the vote"
+      ]
+    ],
+    "reference": [
+      "From Series 5 onwards , the results show is recorded on the Saturday night directly after the live show and incorporates the result of the viewers ' votes which are completed by 21 : 30 . This was confirmed by the official BBC website in 2008 :"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-6591614197125818072",
+    "response": "The raid on the Harpers Ferry Arsenal was led by John Brown, a prominent abolitionist who believed that violence was necessary to end slavery. Brown and his followers, including several of his sons, launched the raid on October 16, 1859, with the goal of seizing the federal armory and distributing weapons to local slaves, who would then rise up and overthrow their masters.\n\nThe raid was not successful, and Brown and his men were quickly surrounded by a company of U.S. Marines led by Colonel Robert E. Lee, who had been sent to suppress the uprising. After a brief battle, Brown and his surviving followers were captured and later executed for treason, conspiracy, and murder.\n\nThe raid on Harpers Ferry was a significant event in the lead-up to the Civil War, as it heightened tensions between abolitionists and pro-slavery forces and helped to galvanize public opinion against slavery. Brown's actions were seen by many as a heroic attempt to end the evil of slavery, and he became a martyr for the abolitionist cause.",
+    "triplets": [
+      [
+        "John Brown",
+        "led",
+        "the raid on the Harpers Ferry Arsenal"
+      ],
+      [
+        "John Brown",
+        "was",
+        "a prominent abolitionist"
+      ],
+      [
+        "John Brown",
+        "believed",
+        "violence was necessary to end slavery"
+      ],
+      [
+        "John Brown",
+        "launched",
+        "the raid on October 16, 1859"
+      ],
+      [
+        "Goal of the raid",
+        "was",
+        "seizing the federal armory and distributing weapons to local slaves"
+      ],
+      [
+        "Local slaves",
+        "would then",
+        "rise up and overthrow their masters"
+      ],
+      [
+        "The raid",
+        "was not",
+        "successful"
+      ],
+      [
+        "John Brown",
+        "and his men",
+        "were quickly surrounded by a company of U.S. Marines"
+      ],
+      [
+        "U.S. Marines",
+        "led by",
+        "Colonel Robert E. Lee"
+      ],
+      [
+        "Robert E. Lee",
+        "had been sent",
+        "to suppress the uprising"
+      ],
+      [
+        "John Brown",
+        "and his surviving followers",
+        "were captured"
+      ],
+      [
+        "John Brown",
+        "and his surviving followers",
+        "were later executed for treason, conspiracy, and murder"
+      ],
+      [
+        "The raid on Harpers Ferry",
+        "was",
+        "a significant event in the lead-up to the Civil War"
+      ],
+      [
+        "The raid",
+        "heightened",
+        "tensions between abolitionists and pro-slavery forces"
+      ],
+      [
+        "The raid",
+        "helped",
+        "galvanize public opinion against slavery"
+      ],
+      [
+        "John Brown's actions",
+        "were seen by many as",
+        "a heroic attempt to end the evil of slavery"
+      ],
+      [
+        "John Brown",
+        "became",
+        "a martyr for the abolitionist cause"
+      ]
+    ],
+    "reference": [
+      "John Brown 's raid on Harper 's Ferry ( also known as John Brown 's raid or The raid on Harper 's Ferry ) was an effort by armed abolitionist John Brown to initiate an armed slave revolt in 1859 by taking over a United States arsenal at Harpers Ferry , Virginia . Brown 's party of 22 was defeated by a company of U.S. Marines , led by First Lieutenant Israel Greene . Colonel Robert E. Lee was in overall command of the operation to retake the arsenal . John Brown had originally asked Harriet Tubman and Frederick Douglass , both of whom he had met in his transformative years as an abolitionist in Springfield , Massachusetts , to join him in his raid , but Tubman was prevented by illness and Douglass declined , as he believed Brown 's plan would fail ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "2339339749699668536",
+    "response": "The halftime show at Super Bowl 51 was performed by Lady Gaga. The show was held on February 5, 2017, at NRG Stadium in Houston, Texas. Lady Gaga's performance included a mix of her popular songs, such as \"God Bless America,\" \"This Land is Your Land,\" \"Born This Way,\" and \"Bad Romance.\" The show also featured a tribute to the late musician Prince, who had passed away the previous year. The halftime show was well-received by audiences and critics alike, with many praising Lady Gaga's powerful vocals and energetic performance.",
+    "triplets": [
+      [
+        "halftime show at Super Bowl 51",
+        "performed by",
+        "Lady Gaga"
+      ],
+      [
+        "halftime show at Super Bowl 51",
+        "held on",
+        "February 5, 2017"
+      ],
+      [
+        "halftime show at Super Bowl 51",
+        "location",
+        "NRG Stadium in Houston, Texas"
+      ],
+      [
+        "Lady Gaga's performance",
+        "included",
+        "mix of her popular songs"
+      ],
+      [
+        "Lady Gaga's performance",
+        "included song",
+        "God Bless America"
+      ],
+      [
+        "Lady Gaga's performance",
+        "included song",
+        "This Land is Your Land"
+      ],
+      [
+        "Lady Gaga's performance",
+        "included song",
+        "Born This Way"
+      ],
+      [
+        "Lady Gaga's performance",
+        "included song",
+        "Bad Romance"
+      ],
+      [
+        "Lady Gaga's performance",
+        "included",
+        "tribute to the late musician Prince"
+      ],
+      [
+        "halftime show",
+        "well-received by",
+        "audiences and critics alike"
+      ],
+      [
+        "many",
+        "praised",
+        "Lady Gaga's powerful vocals"
+      ],
+      [
+        "many",
+        "praised",
+        "Lady Gaga's energetic performance"
+      ]
+    ],
+    "reference": [
+      "The Super Bowl LI Halftime show took place on February 5 , 2017 , at NRG Stadium in Houston , Texas as part of Super Bowl LI . The show was headlined by Lady Gaga , who performed a medley of her songs , including newer material from her most recent studio album Joanne ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "7526277995958905171",
+    "response": "The song \"Too Much Time on My Hands\" is performed by the band Styx. The lead vocals are sung by the band's lead singer, Dennis DeYoung.",
+    "triplets": [
+      [
+        "Too Much Time on My Hands",
+        "performed by",
+        "Styx"
+      ],
+      [
+        "Too Much Time on My Hands",
+        "lyrics of",
+        "song"
+      ],
+      [
+        "Styx",
+        "has",
+        "lead singer"
+      ],
+      [
+        "Dennis DeYoung",
+        "is",
+        "lead singer of Styx"
+      ],
+      [
+        "Dennis DeYoung",
+        "sings",
+        "Too Much Time on My Hands"
+      ]
+    ],
+    "reference": [
+      "`` Too Much Time on My Hands '' is the second single released from Styx 's 1981 triple - platinum album Paradise Theatre . It was written and sung by Tommy Shaw , who also plays the lead guitar solo during the break in the song ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "-2419576910417046724",
+    "response": "The longest pier in the UK is the Southend Pier in Southend-on-Sea, Essex. It stretches for 1.34 miles (2.16 km) into the Thames Estuary and has been in operation since 1830. The pier was originally built as a landing stage for steamboats, but it has been extended and rebuilt several times over the years. Today, it is a popular tourist attraction and offers stunning views of the estuary and the surrounding coastline. The pier is also home to a number of amusement arcades, gift shops, and restaurants.",
+    "triplets": [
+      [
+        "Southend Pier",
+        "located in",
+        "Southend-on-Sea, Essex"
+      ],
+      [
+        "Southend Pier",
+        "stretches for",
+        "1.34 miles (2.16 km)"
+      ],
+      [
+        "Southend Pier",
+        "stretches into",
+        "Thames Estuary"
+      ],
+      [
+        "Southend Pier",
+        "has been in operation since",
+        "1830"
+      ],
+      [
+        "Southend Pier",
+        "originally built as",
+        "landing stage for steamboats"
+      ],
+      [
+        "Southend Pier",
+        "has been",
+        "extended"
+      ],
+      [
+        "Southend Pier",
+        "has been",
+        "rebuilt several times"
+      ],
+      [
+        "Southend Pier",
+        "is",
+        "popular tourist attraction"
+      ],
+      [
+        "Southend Pier",
+        "offers",
+        "views of Thames Estuary"
+      ],
+      [
+        "Southend Pier",
+        "offers",
+        "views of surrounding coastline"
+      ],
+      [
+        "Southend Pier",
+        "is home to",
+        "amusement arcades"
+      ],
+      [
+        "Southend Pier",
+        "is home to",
+        "gift shops"
+      ],
+      [
+        "Southend Pier",
+        "is home to",
+        "restaurants"
+      ],
+      [
+        "Southend Pier",
+        "is",
+        "longest pier in UK"
+      ]
+    ],
+    "reference": [
+      "Southend Pier is a major landmark in Southend - on - Sea . Extending 1.34 miles ( 2.16 km ) into the Thames Estuary , it is the longest pleasure pier in the world . Sir John Betjeman once said that `` the Pier is Southend , Southend is the Pier '' . The pier is a Grade II listed building ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1773607187248198254",
+    "response": "\"Ain't No Way to Go\" is a song recorded by American country music artist Steve Wariner. It was released in May 1990 as the second single from his album \"Laredo\". The song reached number one on the Billboard Hot Country Singles chart in July 1990, becoming Wariner's second number one hit.",
+    "triplets": [
+      [
+        "Ain't No Way to Go",
+        "is",
+        "song"
+      ],
+      [
+        "Ain't No Way to Go",
+        "recorded by",
+        "Steve Wariner"
+      ],
+      [
+        "Ain't No Way to Go",
+        "released in",
+        "May 1990"
+      ],
+      [
+        "Ain't No Way to Go",
+        "second single from album",
+        "Laredo"
+      ],
+      [
+        "Laredo",
+        "by",
+        "Steve Wariner"
+      ],
+      [
+        "Ain't No Way to Go",
+        "reached number one on",
+        "Billboard Hot Country Singles chart"
+      ],
+      [
+        "Ain't No Way to Go",
+        "became",
+        "Steve Wariner's second number one hit"
+      ],
+      [
+        "Ain't No Way to Go",
+        "reached number one in",
+        "July 1990"
+      ]
+    ],
+    "reference": [
+      "`` That Ai n't No Way To Go '' is a song co-written and recorded by American country music duo Brooks & Dunn . It was released in March 1994 the fifth and final single from their album Hard Workin ' Man . The song reached the top of the Billboard Hot Country Singles & Tracks ( now Hot Country Songs ) chart . It was written by Kix Brooks , Ronnie Dunn and Don Cook ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Neutral",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "4086158102790148091",
+    "response": "\"I Want to Dance with You\" is a song by American singer-songwriter Whitney Houston. It was released in 1992 as a single from her third studio album, \"I'm Your Baby Tonight.\" The song was a hit and peaked at number 1 on the US Billboard Hot 100 chart.",
+    "triplets": [
+      [
+        "I Want to Dance with You",
+        "is a song by",
+        "American singer-songwriter Whitney Houston"
+      ],
+      [
+        "I Want to Dance with You",
+        "released in",
+        "1992"
+      ],
+      [
+        "I Want to Dance with You",
+        "released as a single from album",
+        "I'm Your Baby Tonight"
+      ],
+      [
+        "I Want to Dance with You",
+        "peaked at number 1 on",
+        "US Billboard Hot 100 chart"
+      ],
+      [
+        "I Want to Dance with You",
+        "is a",
+        "hit"
+      ]
+    ],
+    "reference": [
+      "`` I Just Want to Dance with You '' is a song written by John Prine and Roger Cook , and performed by American country music singer George Strait . It was released in April 1998 as the first single to his album , One Step at a Time , it is his 34th Number One single on the Billboard Hot Country Singles & Tracks ( now Hot Country Songs ) chart , and his 42nd Number One single when all major trade charts are counted . Prine recorded it 12 years earlier , for his 1986 album `` German Afternoons . ''"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-1732734622903151644",
+    "response": "The oldest known recording of \"House of the Rising Sun\" is a 1933 version by the singer and guitarist Clarence \"Tom\" Ashley, who recorded it for the Library of Congress's Archive of American Folk Song. Ashley's version is considered to be one of the earliest known recordings of the song, and it is a prime example of the traditional Appalachian folk music style in which the song was originally performed.\n\nAshley's recording of \"House of the Rising Sun\" features his distinctive, high-pitched vocals and a simple, repetitive guitar accompaniment. The song's lyrics are similar to those of later versions, but they have a few notable differences, such as the line \"I'm going to the river, if I never return\" instead of \"I'm going to the river, and I'll never return.\"\n\nThe recording was made in a field session, meaning that it was recorded outside of a formal studio setting, and it has a raw, unpolished quality that reflects the song's folk roots. Despite its age, Ashley's version of \"House of the Rising Sun\" remains a powerful and haunting rendition of the song, and it continues to be celebrated as a classic of American folk music.\n\nHere's a link to listen to Clarence Ashley's",
+    "triplets": [
+      [
+        "\"The oldest known recording of \"House of the Rising Sun\"\"",
+        "\"is\"",
+        "\"a 1933 version by the singer and guitarist Clarence \"Tom\" Ashley\""
+      ],
+      [
+        "\"Clarence \"Tom\" Ashley\"",
+        "\"recorded\"",
+        "\"\\\"House of the Rising Sun\\\"\""
+      ],
+      [
+        "\"Clarence \"Tom\" Ashley\"",
+        "\"recorded\"",
+        "\"\\\"House of the Rising Sun\\\" for the Library of Congress's Archive of American Folk Song\""
+      ],
+      [
+        "\"Clarence \"Tom\" Ashley's version of \"House of the Rising Sun\"\"",
+        "\"considered\"",
+        "\"one of the earliest known recordings of the song\""
+      ],
+      [
+        "\"Clarence \"Tom\" Ashley's version of \"House of the Rising Sun\"\"",
+        "\"is\"",
+        "\"a prime example of the traditional Appalachian folk music style\""
+      ],
+      [
+        "\"The lyrics in Clarence \"Tom\" Ashley's version\"",
+        "\"have\"",
+        "\"a few notable differences from later versions\""
+      ],
+      [
+        "\"The recording of Clarence \"Tom\" Ashley's version\"",
+        "\"made in\"",
+        "\"a field session\""
+      ],
+      [
+        "\"Clarence \"Tom\" Ashley's version of \"House of the Rising Sun\"\"",
+        "\"remains\"",
+        "\"a powerful and haunting rendition of the song\""
+      ],
+      [
+        "\"Clarence \"Tom\" Ashley's version of \"House of the Rising Sun\"\"",
+        "\"continues to be celebrated as\"",
+        "\"a classic of American folk music\""
+      ]
+    ],
+    "reference": [
+      "The oldest known recording of the song , under the title `` Rising Sun Blues '' , is by Appalachian artists Clarence `` Tom '' Ashley and Gwen Foster , who recorded it for Vocalion Records on September 6 , 1933 . Ashley said he had learned it from his grandfather , Enoch Ashley . Roy Acuff , an `` early - day friend and apprentice '' of Ashley 's , learned it from him and recorded it as `` Rising Sun '' on November 3 , 1938 . Several older blues recordings of songs with similar titles are unrelated , for example , `` Rising Sun Blues '' by Ivy Smith ( 1927 ) and `` The Risin ' Sun '' by Texas Alexander ( 1928 ) ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-7778233237890403173",
+    "response": "The TV show \"The Crossing\" was filmed in various locations in British Columbia, Canada. The show's production team chose British Columbia because of its diverse landscapes and climates, which were suitable for the show's setting and storyline.\n\nSome of the specific filming locations for \"The Crossing\" include:\n\n1. Vancouver: The show's production team used Vancouver as the main filming location for the show. The city's downtown area, parks, and waterfront were used to film many scenes, including the refugee camp and the town of Caledonia.\n2. Burnaby: The Burnaby Mountain Park was used to film scenes of the refugee camp and the surrounding woods.\n3. Coquitlam: The Coquitlam River Park was used to film scenes of the refugees crossing the river.\n4. Port Moody: The Port Moody waterfront was used to film scenes of the refugees arriving in the town of Caledonia.\n5. Squamish: The Squamish Valley Road was used to film scenes of the refugees traveling through the wilderness.\n6. Whistler: The Whistler Blackcomb Ski Resort was used to film scenes of the refugees in the mountains.\n7. Pemberton: The Pemberton Valley was used to film scenes of the refugees traveling",
+    "triplets": [
+      [
+        "The TV show \"The Crossing\"",
+        "was filmed in",
+        "various locations in British Columbia, Canada"
+      ],
+      [
+        "The show's production team",
+        "chose",
+        "British Columbia"
+      ],
+      [
+        "British Columbia",
+        "has",
+        "diverse landscapes and climates"
+      ],
+      [
+        "British Columbia",
+        "suitable for",
+        "the show's setting and storyline"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Vancouver"
+      ],
+      [
+        "Vancouver",
+        "used for",
+        "filming many scenes"
+      ],
+      [
+        "Scenes filmed in Vancouver",
+        "include",
+        "the refugee camp"
+      ],
+      [
+        "Scenes filmed in Vancouver",
+        "include",
+        "the town of Caledonia"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Burnaby"
+      ],
+      [
+        "Burnaby Mountain Park",
+        "used for",
+        "filming scenes of the refugee camp"
+      ],
+      [
+        "Burnaby Mountain Park",
+        "used for",
+        "filming scenes of the surrounding woods"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Coquitlam"
+      ],
+      [
+        "Coquitlam River Park",
+        "used for",
+        "filming scenes of the refugees crossing the river"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Port Moody"
+      ],
+      [
+        "Port Moody waterfront",
+        "used for",
+        "filming scenes of the refugees arriving in Caledonia"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Squamish"
+      ],
+      [
+        "Squamish Valley Road",
+        "used for",
+        "filming scenes of the refugees traveling through the wilderness"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Whistler"
+      ],
+      [
+        "Whistler Blackcomb Ski Resort",
+        "used for",
+        "filming scenes of the refugees in the mountains"
+      ],
+      [
+        "Some filming locations for \"The Crossing\"",
+        "include",
+        "Pemberton"
+      ],
+      [
+        "Pemberton Valley",
+        "used for",
+        "filming scenes of the refugees traveling"
+      ]
+    ],
+    "reference": [
+      "The Crossing is an American science fiction thriller series that airs on ABC and CTV . The series debuted on April 2 , 2018 . On March 20 , 2018 , ABC released the pilot episode on their website . The series is filmed in British Columbia , Canada ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "583026970021621830",
+    "response": "The invention of the first home video security system is a bit difficult to pinpoint, as there were various early experiments and innovations that contributed to the development of modern home video security systems. However, some notable milestones and pioneers in the field include:\n\n1. CCTV (Closed-Circuit Television): CCTV was invented in the 1940s by a team of engineers at the BBC (British Broadcasting Corporation). They developed a system that could transmit live images from a camera to a monitor, which was initially used for internal communication and monitoring purposes within the BBC. This technology laid the foundation for modern CCTV systems used in home security.\n2. Video Door Phones: The first video door phone was invented in the 1960s by a Japanese company, Panasonic (then known as Matsushita Electric Industrial Co.). This system allowed homeowners to see and communicate with visitors at their door via a camera and intercom.\n3. Home Security Systems: In the 1970s and 1980s, home security systems started to become more sophisticated, incorporating features like motion detectors, door and window sensors, and alarm systems. Companies like ADT (American District Telegraph) and Brinks Home Security were among the early providers of these systems.\n4. Digital Video",
+    "triplets": [
+      [
+        "CCTV (Closed-Circuit Television)",
+        "invented in",
+        "the 1940s"
+      ],
+      [
+        "CCTV (Closed-Circuit Television)",
+        "invented by",
+        "a team of engineers at the BBC (British Broadcasting Corporation)"
+      ],
+      [
+        "CCTV (Closed-Circuit Television)",
+        "used for",
+        "internal communication and monitoring purposes within the BBC"
+      ],
+      [
+        "CCTV (Closed-Circuit Television)",
+        "laid the foundation for",
+        "modern CCTV systems used in home security"
+      ],
+      [
+        "first video door phone",
+        "invented in",
+        "the 1960s"
+      ],
+      [
+        "first video door phone",
+        "invented by",
+        "a Japanese company, Panasonic (then known as Matsushita Electric Industrial Co.)"
+      ],
+      [
+        "first video door phone",
+        "allowed",
+        "homeowners to see and communicate with visitors at their door via a camera and intercom"
+      ],
+      [
+        "home security systems",
+        "started to become more sophisticated in",
+        "the 1970s and 1980s"
+      ],
+      [
+        "home security systems in the 1970s and 1980s",
+        "incorporated",
+        "features like motion detectors, door and window sensors, and alarm systems"
+      ],
+      [
+        "companies like ADT (American District Telegraph) and Brinks Home Security",
+        "were among",
+        "the early providers of home security systems"
+      ]
+    ],
+    "reference": [
+      "Marie Van Brittan Brown ( October 30 , 1922 -- February 2 , 1999 ) was an African - American inventor , becoming the originator of the home security system ( patent number 3,482,037 ) in 1966 , along with her husband Albert Brown , a patent was granted in 1969 . Brown was born in Jamaica , Queens , New York ; she died there at the age of 76 ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "5185978890489959594",
+    "response": "I'm not able to provide real-time information or updates, but I can tell you that the number 95 car in NASCAR is driven by various drivers throughout the season. The number 95 car is a part-time entry fielded by Leavine Family Racing, and the team has had several different drivers behind the wheel in recent years.\n\nSome of the drivers who have driven the number 95 car in NASCAR include:\n\n* Kasey Kahne (2018)\n* Regan Smith (2019)\n* Matt DiBenedetto (2020)\n* Christopher Bell (2020)\n* Ty Dillon (2021)\n\nIt's worth noting that the number 95 car is not a full-time entry in NASCAR, and the team has not yet announced a full-time driver for the 2023 season. However, the team has indicated that they plan to field a car for select races in 2023, with a variety of drivers likely to be behind the wheel.",
+    "triplets": [
+      [
+        "number 95 car in NASCAR",
+        "driven by",
+        "various drivers"
+      ],
+      [
+        "number 95 car in NASCAR",
+        "fielded by",
+        "Leavine Family Racing"
+      ],
+      [
+        "Leavine Family Racing",
+        "fields",
+        "number 95 car"
+      ],
+      [
+        "number 95 car",
+        "is",
+        "part-time entry"
+      ],
+      [
+        "Kasey Kahne",
+        "drove",
+        "number 95 car in 2018"
+      ],
+      [
+        "Regan Smith",
+        "drove",
+        "number 95 car in 2019"
+      ],
+      [
+        "Matt DiBenedetto",
+        "drove",
+        "number 95 car in 2020"
+      ],
+      [
+        "Christopher Bell",
+        "drove",
+        "number 95 car in 2020"
+      ],
+      [
+        "Ty Dillon",
+        "drove",
+        "number 95 car in 2021"
+      ],
+      [
+        "number 95 car",
+        "does not have",
+        "full-time driver for 2023 season"
+      ],
+      [
+        "Leavine Family Racing",
+        "plans to field",
+        "number 95 car for select races in 2023"
+      ],
+      [
+        "Leavine Family Racing",
+        "will have",
+        "variety of drivers for number 95 car in 2023"
+      ]
+    ],
+    "reference": [
+      "Michael Christopher McDowell ( born December 21 , 1984 ) is an American professional stock car racing driver . He currently competes full - time in the Monster Energy NASCAR Cup Series , driving the No. 95 Chevrolet SS for Leavine Family Racing ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Neutral",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "-1531676396763282931",
+    "response": "The Greek god who flew too close to the sun is Icarus. Icarus was the son of the inventor Daedalus, who created wings made of feathers and wax for himself and his son. Despite his father's warnings, Icarus flew higher and higher, becoming more and more reckless. He eventually flew too close to the sun, causing his wings to melt and resulting in his fall to his death in the sea. This myth serves as a cautionary tale about the dangers of hubris and the importance of heeding advice.",
+    "triplets": [
+      [
+        "Icarus",
+        "is",
+        "The Greek god who flew too close to the sun"
+      ],
+      [
+        "Icarus",
+        "was",
+        "son of Daedalus"
+      ],
+      [
+        "Daedalus",
+        "inventor",
+        "wings made of feathers and wax"
+      ],
+      [
+        "Daedalus",
+        "created wings",
+        "for himself and Icarus"
+      ],
+      [
+        "Daedalus",
+        "warned",
+        "Icarus"
+      ],
+      [
+        "Icarus",
+        "became",
+        "more and more reckless"
+      ],
+      [
+        "Icarus",
+        "flew too close to",
+        "the sun"
+      ],
+      [
+        "Icarus flying too close to the sun",
+        "caused",
+        "his wings to melt"
+      ],
+      [
+        "Icarus' wings melting",
+        "resulted in",
+        "his fall to his death in the sea"
+      ],
+      [
+        "Myth of Icarus",
+        "serves as",
+        "a cautionary tale"
+      ],
+      [
+        "Myth of Icarus",
+        "about the dangers of",
+        "hubris"
+      ],
+      [
+        "Myth of Icarus",
+        "about the importance of",
+        "heeding advice"
+      ]
+    ],
+    "reference": [
+      "In Greek mythology , Icarus ( the Latin spelling , conventionally adopted in English ; Ancient Greek : \u1f3c\u03ba\u03b1\u03c1\u03bf\u03c2 , \u00cdkaros , Etruscan : Vikare ) is the son of the master craftsman Daedalus , the creator of the Labyrinth . Often depicted in art , Icarus and his father attempt to escape from Crete by means of wings that his father constructed from feathers and wax . Icarus ' father warns him first of complacency and then of hubris , asking that he fly neither too low nor too high , so the sea 's dampness would not clog his wings or the sun 's heat melt them . Icarus ignored his father 's instructions not to fly too close to the sun ; when the wax in his wings melted he tumbled out of the sky and fell into the sea where he drowned ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "5078709962400196312",
+    "response": "Deion Sanders played for several teams during his career in Major League Baseball. Here are the teams he played for, in the order he played for them:\n\n1. New York Yankees (1989-1990)\n2. Atlanta Braves (1991-1993)\n3. San Francisco Giants (1994)\n4. Atlanta Braves (1995-1996)\n5. Cincinnati Reds (1997)\n6. San Diego Padres (1998)\n7. Atlanta Braves (1999)\n8. Boston Red Sox (2000)\n9. New York Mets (2001)\n10. Toronto Blue Jays (2002)\n\nDeion Sanders played for a total of 10 teams during his MLB career, which spanned 14 seasons.",
+    "triplets": [
+      [
+        "Deion Sanders",
+        "played for",
+        "New York Yankees"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "Atlanta Braves"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "San Francisco Giants"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "Cincinnati Reds"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "San Diego Padres"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "Boston Red Sox"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "New York Mets"
+      ],
+      [
+        "Deion Sanders",
+        "played for",
+        "Toronto Blue Jays"
+      ],
+      [
+        "Deion Sanders",
+        "career in",
+        "Major League Baseball"
+      ],
+      [
+        "Deion Sanders",
+        "played for total of",
+        "10 teams"
+      ],
+      [
+        "MLB career of Deion Sanders",
+        "spanned",
+        "14 seasons"
+      ]
+    ],
+    "reference": [
+      "Deion Sanders Left fielder / Center fielder Born : ( 1967 - 08 - 09 ) August 9 , 1967 ( age 50 ) Fort Myers , Florida Batted : Left Threw : Left MLB debut May 31 , 1989 , for the New York Yankees Last MLB appearance June 14 , 2001 , for the Cincinnati Reds MLB statistics Batting average . 263 Hits 558 Home runs 39 Stolen bases 186 Teams New York Yankees ( 1989 -- 1990 ) Atlanta Braves ( 1991 -- 1994 ) Cincinnati Reds ( 1994 -- 1995 ) San Francisco Giants ( 1995 ) Cincinnati Reds ( 1997 , 2001 ) Career highlights and awards NL Triples champion ( 1992 )"
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "-7296166998534064378",
+    "response": "The middle sister on Full House was played by actress Mary-Kate Olsen. She and her twin sister Ashley Olsen shared the role of Michelle Tanner, the youngest daughter of the Tanner family, and appeared in the show's opening credits and throughout the series. The Olsen twins were just nine months old when they began playing the role, and they continued to play Michelle until the show ended in 1995. After Full House, the twins went on to have successful careers in acting, business, and fashion.",
+    "triplets": [
+      [
+        "middle sister on Full House",
+        "played by",
+        "actress Mary-Kate Olsen"
+      ],
+      [
+        "Mary-Kate Olsen",
+        "twin sister of",
+        "Ashley Olsen"
+      ],
+      [
+        "Mary-Kate Olsen",
+        "shared role with",
+        "Ashley Olsen"
+      ],
+      [
+        "Michelle Tanner",
+        "youngest daughter of",
+        "Tanner family"
+      ],
+      [
+        "Full House",
+        "ended in",
+        "1995"
+      ]
+    ],
+    "reference": [
+      "Stephanie Judith Tanner ( portrayed by Jodie Sweetin ) is the witty , sarcastic middle child of Danny and Pam , the younger sister of D.J. , and the older sister of Michelle . Her mother died when she was five years old . Her catchphrases during the early seasons of the series include `` how rude ! , '' `` well , pin a rose on your nose ! '' and `` hot dog '' . She eventually evolved into something of a tomboy in seasons four and five . Stephanie has a habit of spying on D.J. 's life by reading her diary and eavesdropping on her telephone calls ( having been caught in the act several times ) , and is generally the most athletic and nosiest of the Tanner girls . Her best friends in school are Gia Mahan and Mickey , whom she meets in season seven ( the former is the only one who appears through to season eight ) . Of the three sisters , Stephanie has dealt with the toughest issues , such as peer pressure into smoking ( in season seven 's `` Fast Friends '' ) , `` make - out '' parties ( in season eight 's `` Making Out is Hard to Do '' ) , joyriding ( in season eight 's `` Stephanie 's Wild Ride '' ) , and uncovering a classmate 's child abuse ( in season six 's `` Silence is Not Golden '' ) , as well as the death of her mother when she was only five . In her early years , she is very sentimental about Mr. Bear , a stuffed animal that her mother gave to her after Michelle was born ( this was the focal point of the season two episode `` Goodbye Mr. Bear '' ) . She and Jesse are the most abrasive when it comes to how they feel about Kimmy Gibbler ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction",
+      "Contradiction"
+    ]
+  },
+  {
+    "id": "734309880189507498",
+    "response": "Dwight Schrute's brother was played by actor Timothy Olyphant. Olyphant appeared in several episodes of the show as Dwight's brother, Randy Schrute, who is also a farmer and a bit of a troublemaker. Randy is known for his mischievous behavior and his tendency to cause chaos wherever he goes, often clashing with Dwight's more uptight personality.",
+    "triplets": [
+      [
+        "Dwight Schrute's brother",
+        "played by",
+        "actor Timothy Olyphant"
+      ],
+      [
+        "Timothy Olyphant",
+        "appeared in",
+        "several episodes of the show"
+      ],
+      [
+        "Timothy Olyphant",
+        "played",
+        "Dwight's brother"
+      ],
+      [
+        "Dwight's brother",
+        "named",
+        "Randy Schrute"
+      ],
+      [
+        "Randy Schrute",
+        "is",
+        "Dwight Schrute's brother"
+      ],
+      [
+        "Randy Schrute",
+        "is a",
+        "farmer"
+      ],
+      [
+        "Randy Schrute",
+        "is",
+        "a bit of a troublemaker"
+      ],
+      [
+        "Randy Schrute",
+        "known for",
+        "his mischievous behavior"
+      ],
+      [
+        "Randy Schrute",
+        "known for",
+        "his tendency to cause chaos wherever he goes"
+      ],
+      [
+        "Randy Schrute",
+        "often clashing with",
+        "Dwight's more uptight personality"
+      ]
+    ],
+    "reference": [
+      "`` The Farm '' is the seventeenth episode of the ninth season of the American comedy television series The Office and the 192nd overall . It originally aired on NBC on March 14 , 2013 . The episode guest stars Matt Jones as Dwight 's cousin Zeke , Majandra Delfino as Dwight 's sister Fannie , Blake Garrett Rosenthal as his nephew , and Thomas Middleditch as his brother ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "5063128834246440475",
+    "response": "The only player to have played for Manchester United, Manchester City, Liverpool, and Everton is:\n\n* Peter Beardsley\n\nPeter Beardsley played for:\n\n* Manchester United (1982-1983)\n* Manchester City (1983-1984)\n* Liverpool (1984-1987)\n* Everton (1987-1990)",
+    "triplets": [
+      [
+        "Peter Beardsley",
+        "played for",
+        "Manchester United"
+      ],
+      [
+        "Peter Beardsley",
+        "played for",
+        "Manchester City"
+      ],
+      [
+        "Peter Beardsley",
+        "played for",
+        "Liverpool"
+      ],
+      [
+        "Peter Beardsley",
+        "played for",
+        "Everton"
+      ],
+      [
+        "Peter Beardsley",
+        "played for Manchester United",
+        "1982-1983"
+      ],
+      [
+        "Peter Beardsley",
+        "played for Manchester City",
+        "1983-1984"
+      ],
+      [
+        "Peter Beardsley",
+        "played for Liverpool",
+        "1984-1987"
+      ],
+      [
+        "Peter Beardsley",
+        "played for Everton",
+        "1987-1990"
+      ]
+    ],
+    "reference": [
+      "Peter Andrew Beardsley MBE ( born 18 January 1961 ) is an English former footballer who played as a forward or midfielder between 1979 and 1999 . In 1987 , he set a record transfer fee in the English game and represented his country 59 times between 1986 and 1996 , once as captain , taking part in two FIFA World Cups ( 1986 and 1990 ) and UEFA Euro 1988 . At club level , he played for Newcastle United , Liverpool and Everton , having also had spells with Carlisle United , Manchester United , Vancouver Whitecaps , Bolton Wanderers , Manchester City , Fulham , Hartlepool United and the Melbourne Knights . He was briefly appointed as the caretaker manager of Newcastle United in 2010 ."
+    ],
+    "Y": "Entailment",
+    "ys": [
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment",
+      "Entailment"
+    ]
+  },
+  {
+    "id": "5239772721292332989",
+    "response": "Bacteroides are a group of bacteria that are commonly found in the human gut microbiome, as well as in the guts of other animals. They are also found in soil, sediments, and marine environments.\n\nIn the human body, Bacteroides are found in the colon and rectum, where they play a role in the breakdown and fermentation of complex polysaccharides, such as cellulose and pectin, which are found in plant-based foods. They produce short-chain fatty acids, such as acetate and butyrate, which are used by the body for energy and also help to maintain the health of the colonic epithelium.\n\nIn the environment, Bacteroides can be found in a variety of habitats, including:\n\n1. Soil: Bacteroides are abundant in soil, where they contribute to the decomposition of organic matter and the cycling of nutrients.\n2. Sediments: Bacteroides can also be found in aquatic sediments, where they play a role in the degradation of organic matter and the cycling of nutrients.\n3. Marine environments: Bacteroides are also found in marine environments, such as in the guts of marine animals, and in sea water.\n4. Animal gut: Bacteroides are present in",
+    "triplets": [
+      [
+        "Bacteroides",
+        "commonly found in",
+        "human gut microbiome"
+      ],
+      [
+        "Bacteroides",
+        "commonly found in",
+        "guts of other animals"
+      ],
+      [
+        "Bacteroides",
+        "also found in",
+        "soil"
+      ],
+      [
+        "Bacteroides",
+        "also found in",
+        "sediments"
+      ],
+      [
+        "Bacteroides",
+        "also found in",
+        "marine environments"
+      ],
+      [
+        "Bacteroides",
+        "found in",
+        "colon"
+      ],
+      [
+        "Bacteroides",
+        "found in",
+        "rectum"
+      ],
+      [
+        "Bacteroides",
+        "play role in",
+        "breakdown of complex polysaccharides"
+      ],
+      [
+        "Bacteroides",
+        "play role in",
+        "fermentation of complex polysaccharides"
+      ],
+      [
+        "complex polysaccharides",
+        "such as",
+        "cellulose"
+      ],
+      [
+        "complex polysaccharides",
+        "such as",
+        "pectin"
+      ],
+      [
+        "complex polysaccharides",
+        "found in",
+        "plant-based foods"
+      ],
+      [
+        "Bacteroides",
+        "produce",
+        "short-chain fatty acids"
+      ],
+      [
+        "short-chain fatty acids",
+        "such as",
+        "acetate"
+      ],
+      [
+        "short-chain fatty acids",
+        "such as",
+        "butyrate"
+      ],
+      [
+        "short-chain fatty acids",
+        "used by body for",
+        "energy"
+      ],
+      [
+        "short-chain fatty acids",
+        "help maintain health of",
+        "colonic epithelium"
+      ],
+      [
+        "Bacteroides",
+        "abundant in",
+        "soil"
+      ],
+      [
+        "Bacteroides",
+        "contribute to",
+        "decomposition of organic matter in soil"
+      ],
+      [
+        "Bacteroides",
+        "contribute to",
+        "cycling of nutrients in soil"
+      ],
+      [
+        "Bacteroides",
+        "found in",
+        "aquatic sediments"
+      ],
+      [
+        "Bacteroides",
+        "play role in",
+        "degradation of organic matter in sediments"
+      ],
+      [
+        "Bacteroides",
+        "play role in",
+        "cycling of nutrients in sediments"
+      ],
+      [
+        "Bacteroides",
+        "present in",
+        "guts of marine animals"
+      ],
+      [
+        "Bacteroides",
+        "present in",
+        "sea water"
+      ],
+      [
+        "Bacteroides",
+        "present in",
+        "animal gut"
+      ]
+    ],
+    "reference": [
+      "Bacteroides fragilis is an obligately anaerobic , Gram - negative , rod - shaped bacterium . It is part of the normal flora of the human colon and is generally commensal , but can cause infection if displaced into the bloodstream or surrounding tissue following surgery , disease , or trauma ."
+    ],
+    "Y": "Neutral",
+    "ys": [
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Entailment",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Neutral"
+    ]
+  },
+  {
+    "id": "6882831655380911332",
+    "response": "The British city that is farthest from the sea is Leicester. It is located in the East Midlands region of England, about 70 miles (113 km) inland from the coast. The city is situated in a relatively flat area, with the nearest coastline being the North Sea to the east and the Bristol Channel to the west. The distance from Leicester to the nearest coastline is approximately 120 miles (193 km).",
+    "triplets": [
+      [
+        "The British city that is farthest from the sea",
+        "is",
+        "Leicester"
+      ],
+      [
+        "Leicester",
+        "located in",
+        "the East Midlands region of England"
+      ],
+      [
+        "Leicester",
+        "about 70 miles from the coast",
+        "113 km inland from the coast"
+      ],
+      [
+        "Leicester",
+        "situated in",
+        "a relatively flat area"
+      ],
+      [
+        "The nearest coastline to Leicester",
+        "is",
+        "the North Sea to the east"
+      ],
+      [
+        "Another nearest coastline to Leicester",
+        "is",
+        "the Bristol Channel to the west"
+      ],
+      [
+        "The distance from Leicester to the nearest coastline",
+        "is approximately",
+        "120 miles"
+      ],
+      [
+        "The distance from Leicester to the nearest coastline",
+        "is approximately",
+        "193 km"
+      ]
+    ],
+    "reference": [
+      "Coton in the Elms is a village and parish in the English county of Derbyshire . At 70 miles ( 113 km ) from the coast , it is the furthest place in the United Kingdom from coastal waters . The population of the civil parish as of the 2011 census was 896 . It is located 5 miles southwest of Swadlincote and 6 miles south of Burton upon Trent ."
+    ],
+    "Y": "Contradiction",
+    "ys": [
+      "Contradiction",
+      "Neutral",
+      "Contradiction",
+      "Neutral",
+      "Neutral",
+      "Neutral",
+      "Contradiction",
+      "Contradiction"
+    ]
+  }
+]
